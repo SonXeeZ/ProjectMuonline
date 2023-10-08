@@ -1,0 +1,25 @@
+<!--
+// ============================================================
+// == X6 MUONLINE SERVER EMULATOR
+// == www.igcn.mu
+// == www.muemu.pl
+// == (C) 2017 IGC-Network | MUEMU (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of MUEMU MuOnline Server files.
+// ============================================================
+//
+// ### AllowedIPList::IP ###
+//	Address: IP address to allow
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ IPs allowed to connect to Data Server
+//~~ Do not change if entire server is located on Local Machine
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+
+<AllowedIPList>
+	<IP Address="127.0.0.1" /> 
+	<IP Address="79.122.26.50" />
+	<IP Address="192.168.1.68" />
+</AllowedIPList>

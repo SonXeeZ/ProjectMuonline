@@ -1,0 +1,2015 @@
+[21:18:52] [Language] Load English.xml language definition
+[21:18:52] [..\IGCData\\Warps\IGC_GateSettings.xml] Gate information data load complete.
+[21:18:52] Official MuBot: Enabled: Yes, Minimum Level: 80, Auto Disable Time: 0 minutes
+[21:18:52] [ GensRanking ] - ..\IGCData\\Gens\IGC_GensRanking.dat file is Loaded
+[21:18:52] [Option] Connect Server IP(79.122.26.50) / PORT(55667)
+[21:18:52] ..\data\CheckSum.dat file loaded
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:0 Name:Kris ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:1 Name:Short Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:2 Name:Rapier ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:3 Name:Katana ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:4 Name:Sword of Assassin ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:5 Name:Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:6 Name:Gladius ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:7 Name:Falcon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:8 Name:Serpent Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:9 Name:Sword of Salamander ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:10 Name:Light Saber ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:11 Name:Legendary Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:12 Name:Helical Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:13 Name:Double Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:14 Name:Lighting Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:15 Name:Giant Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:16 Name:Sword of Destruction ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:17 Name:Dark Breaker ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:18 Name:Thunder Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:19 Name:Divine Sword of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:20 Name:Knight Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:21 Name:Dark Reign Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:22 Name:Bone Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:23 Name:Explosion Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:24 Name:Daybreak ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:25 Name:Sword Dancer ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:26 Name:Flameberge ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:27 Name:Sword Breaker ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:28 Name:Rune Bastard Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:31 Name:Rune Blade ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:32 Name:Sacred Glove ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:33 Name:Holy Storm Claw ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:34 Name:Piercing Blade Glove ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:35 Name:Phoenix Soul Star ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:39 Name:Lighting Sword-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:0 Index:40 Name:Sacred Glove-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:0 Name:Small Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:1 Name:Hand Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:2 Name:Double Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:3 Name:Tomahawk ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:4 Name:Elven Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:5 Name:Battle Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:6 Name:Nikea Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:7 Name:Larkan Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:1 Index:8 Name:Crescent Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:0 Name:Mace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:1 Name:Morning Star ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:2 Name:Flail ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:3 Name:Great Hammer ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:4 Name:Crystal Morning Star ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:5 Name:Crystal Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:6 Name:Chaos Dragon Axe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:7 Name:Elemental Mace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:8 Name:Battle Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:9 Name:Master Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:10 Name:Great Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:11 Name:Lord Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:12 Name:Great Lord Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:13 Name:Divine Scepter of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:14 Name:Soleil Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:15 Name:Shining Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:16 Name:Frost Mace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:17 Name:Absolute Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:18 Name:Striker Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:2 Index:21 Name:Master Scepter-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:0 Name:Light Spear ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:1 Name:Spear ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:2 Name:Dragon Lance ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:3 Name:Giant Trident ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:4 Name:Serpent Spear ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:5 Name:Double Poleaxe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:6 Name:Halberd ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:7 Name:Berdysh ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:8 Name:Great Scythe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:9 Name:Bill of Balrog ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:10 Name:Dragon Spear ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:3 Index:11 Name:Brova ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:0 Name:Short Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:1 Name:Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:2 Name:Elven Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:3 Name:Battle Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:4 Name:Tiger Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:5 Name:Silver Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:6 Name:Chaos Nature Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:7 Name:Bolt ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:8 Name:Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:9 Name:Golden Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:10 Name:Arquebus ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:11 Name:Light Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:12 Name:Serpent Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:13 Name:Bluewing Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:14 Name:Aquagold Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:15 Name:Arrow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:16 Name:Saint Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:17 Name:Celestial Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:18 Name:Divine Crossbow of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:19 Name:Great Reign Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:20 Name:Arrow Viper Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:21 Name:Sylph Wind Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:22 Name:Albatross Bow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:23 Name:Dark Stinger ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:24 Name:Aileen Bowr ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:4 Index:27 Name:Silver Bow-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:0 Name:Skull Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:1 Name:Angelic Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:2 Name:Serpent Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:3 Name:Thunder Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:4 Name:Gorgon Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:5 Name:Legendary Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:6 Name:Staff of Resurrection ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:7 Name:Chaos Lighting Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:8 Name:Staff of Destruction ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:9 Name:Dragon Soul Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:10 Name:Divine Staff of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:11 Name:Staff of Kundun ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:12 Name:Grand Viper Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:13 Name:Platina Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:14 Name:Mystery Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:15 Name:Violent Wind Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:16 Name:Red Wing Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:17 Name:Ancient Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:18 Name:Demonic Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:19 Name:Storm Blitz Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:20 Name:Eternal Wing Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:21 Name:Book of Samut ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:22 Name:Book of Neil ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:23 Name:Book of Lagle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:30 Name:Deadly Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:31 Name:Inberial Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:32 Name:Guardian Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:33 Name:Chromatic Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:34 Name:Raven Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:36 Name:Divine Stick of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:38 Name:Legendary Staff-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:39 Name:Red Wing Stick-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:5 Index:40 Name:Book of Neil-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:0 Name:Small Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:1 Name:Horn Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:2 Name:Kite Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:3 Name:Elven Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:4 Name:Buckler ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:5 Name:Dragon Slayer Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:6 Name:Skull Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:7 Name:Spiked Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:8 Name:Tower Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:9 Name:Plate Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:10 Name:Large Round Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:11 Name:Serpent Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:12 Name:Bronze Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:13 Name:Dragon Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:14 Name:Legendary Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:15 Name:Grand Soul Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:16 Name:Elemental Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:17 Name:Crimson Glory ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:18 Name:Salamander Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:19 Name:Frost Barrier ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:20 Name:Guardian Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:21 Name:Cross Shield ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:27 Name:Legendary Shield-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:6 Index:28 Name:Serpent Shield-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:0 Name:Bronze Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:1 Name:Dragon Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:2 Name:Pad Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:3 Name:Legendary Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:4 Name:Bone Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:5 Name:Leather Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:6 Name:Scale Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:7 Name:Sphinx Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:8 Name:Brass Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:9 Name:Plate Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:10 Name:Vine Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:11 Name:Silk Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:12 Name:Wind Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:13 Name:Spirit Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:14 Name:Guardian Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:16 Name:Black Dragon Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:17 Name:Dark Phoenix Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:18 Name:Grand Soul Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:19 Name:Divine Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:21 Name:Great Dragon Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:22 Name:Dark Soul Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:24 Name:Red Spirit Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:25 Name:Light Plate Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:26 Name:Adamantine Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:27 Name:Dark Steel Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:28 Name:Dark Master Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:29 Name:Dragon Knight Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:30 Name:Venom Mist Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:31 Name:Sylphid Ray Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:33 Name:Sunlight Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:34 Name:Ashcrow Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:35 Name:Eclipse Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:36 Name:Iris Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:38 Name:Glorious Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:39 Name:Violent Wind Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:40 Name:Red Wing Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:41 Name:Ancient Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:42 Name:Demonic Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:43 Name:Storm Blitz Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:44 Name:Eternal Wing Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:45 Name:Titan  Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:46 Name:Brave Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:49 Name:Seraphim Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:50 Name:Divine Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:51 Name:Royal Mask ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:52 Name:Hades Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:53 Name:Pearl Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:59 Name:Sacred Fire Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:60 Name:Storm Jahad Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:61 Name:Piercing Groove Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:62 Name:Scale Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:63 Name:Silk Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:64 Name:Sphinx Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:65 Name:Violent Wind Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:66 Name:Dark Soul Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:67 Name:Dragon Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:68 Name:Guardian Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:69 Name:Legendary Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:70 Name:Red Wing Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:72 Name:Storm Jahad Helm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:73 Name:Phoenix Soul Helmet ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:78 Name:Dragon Helm-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:79 Name:Legendary Helm-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:80 Name:Guardian Helm-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:81 Name:Light Plate Mask-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:82 Name:Red Wing Helm-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:7 Index:83 Name:Sacred Helm-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:0 Name:Bronze Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:1 Name:Dragon Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:2 Name:Pad Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:3 Name:Legendary Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:4 Name:Bone Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:5 Name:Leather Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:6 Name:Scale Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:7 Name:Sphinx Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:8 Name:Brass Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:9 Name:Plate Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:10 Name:Vine Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:11 Name:Silk Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:12 Name:Wind Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:13 Name:Spirit Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:14 Name:Guardian Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:15 Name:Storm Crow Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:16 Name:Black Dragon Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:17 Name:Dark Phoenix Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:18 Name:Grand Soul Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:19 Name:Divine Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:20 Name:Thunder Hawk Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:21 Name:Great Dragon Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:22 Name:Dark Soul Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:23 Name:Hurricane Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:24 Name:Red Spirit Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:25 Name:Light Plate Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:26 Name:Adamantine Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:27 Name:Dark Steel Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:28 Name:Dark Master Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:29 Name:Dragon Knight Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:30 Name:Venom Mist Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:31 Name:Sylphid Ray Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:32 Name:Volcano Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:33 Name:Sunlight Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:34 Name:Ashcrow Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:35 Name:Eclipse Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:36 Name:Iris Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:37 Name:Valiant Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:38 Name:Glorious Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:39 Name:Violent Wind Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:40 Name:Red Wing Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:41 Name:Ancient Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:42 Name:Demonic Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:43 Name:Storm Blitz Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:44 Name:Eternal Wing Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:45 Name:Titan  Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:46 Name:Brave Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:47 Name:Phantom  Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:48 Name:Destroy Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:49 Name:Seraphim Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:50 Name:Divine Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:51 Name:Royal Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:52 Name:Hades Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:53 Name:Pearl Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:59 Name:Sacred Fire Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:60 Name:Storm Jahad Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:61 Name:Piercing Groove Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:62 Name:Scale Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:63 Name:Silk Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:64 Name:Sphinx Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:65 Name:Violent Wind Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:66 Name:Dark Soul Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:67 Name:Dragon Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:68 Name:Guardian Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:69 Name:Legendary Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:70 Name:Red Wing Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:71 Name:Atlans Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:72 Name:Storm Jahad Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:73 Name:Phoenix Soul Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:78 Name:Dragon Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:79 Name:Legendary Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:80 Name:Guardian Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:81 Name:Light Plate Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:82 Name:Red Wing Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:8 Index:83 Name:Sacred Armor-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:0 Name:Bronze Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:1 Name:Dragon Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:2 Name:Pad Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:3 Name:Legendary Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:4 Name:Bone Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:5 Name:Leather Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:6 Name:Scale Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:7 Name:Sphinx Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:8 Name:Brass Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:9 Name:Plate Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:10 Name:Vine Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:11 Name:Silk Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:12 Name:Wind Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:13 Name:Spirit Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:14 Name:Guardian Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:15 Name:Storm Crow Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:16 Name:Black Dragon Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:17 Name:Dark Phoenix Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:18 Name:Grand Soul Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:19 Name:Divine Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:20 Name:Thunder Hawk Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:21 Name:Great Dragon Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:22 Name:Dark Soul Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:23 Name:Hurricane Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:24 Name:Red Spirit Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:25 Name:Light Plate Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:26 Name:Adamantine Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:27 Name:Dark Steel Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:28 Name:Dark Master Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:29 Name:Dragon Knight Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:30 Name:Venom Mist Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:31 Name:Sylphid Ray Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:32 Name:Volcano Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:33 Name:Sunlight Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:34 Name:Ashcrow Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:35 Name:Eclipse Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:36 Name:Iris Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:37 Name:Valiant Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:38 Name:Glorious Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:39 Name:Violent Wind Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:40 Name:Red Wing Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:41 Name:Ancient Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:42 Name:Demonic Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:43 Name:Storm Blitz Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:44 Name:Eternal Wing Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:45 Name:Titan  Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:46 Name:Brave Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:47 Name:Phantom  Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:48 Name:Destroy Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:49 Name:Seraphim Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:50 Name:Divine Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:51 Name:Royal Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:52 Name:Hades Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:53 Name:Pearl Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:59 Name:Sacred Fire Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:60 Name:Storm Jahad Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:61 Name:Piercing Groove Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:62 Name:Scale Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:63 Name:Silk Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:64 Name:Sphinx Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:65 Name:Violent Wind Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:66 Name:Dark Soul Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:67 Name:Dragon Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:68 Name:Guardian Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:69 Name:Legendary Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:70 Name:Red Wing Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:71 Name:Atlans Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:72 Name:Storm Jahad Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:73 Name:Phoenix Soul Pants ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:78 Name:Dragon Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:79 Name:Legendary Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:80 Name:Guardian Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:81 Name:Light Plate Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:82 Name:Red Wing Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:9 Index:83 Name:Sacred Pants-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:0 Name:Bronze Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:1 Name:Dragon Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:2 Name:Pad Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:3 Name:Legendary Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:4 Name:Bone Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:5 Name:Leather Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:6 Name:Scale Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:7 Name:Sphinx Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:8 Name:Brass Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:9 Name:Plate Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:10 Name:Vine Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:11 Name:Silk Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:12 Name:Wind Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:13 Name:Spirit Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:14 Name:Guardian Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:15 Name:Storm Crow Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:16 Name:Black Dragon Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:17 Name:Dark Phoenix Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:18 Name:Grand Soul Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:19 Name:Divine Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:20 Name:Thunder Hawk Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:21 Name:Great Dragon Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:22 Name:Dark Soul Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:23 Name:Hurricane Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:24 Name:Red Spirit Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:25 Name:Light Plate Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:26 Name:Adamantine Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:27 Name:Dark Steel Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:28 Name:Dark Master Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:29 Name:Dragon Knight Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:30 Name:Venom Mist Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:31 Name:Sylphid Ray Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:32 Name:Volcano Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:33 Name:Sunlight Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:34 Name:Ashcrow Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:35 Name:Eclipse Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:36 Name:Iris Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:37 Name:Valiant Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:38 Name:Glorious Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:39 Name:Violent Wind Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:40 Name:Red Wing Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:41 Name:Ancient Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:42 Name:Demonic Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:43 Name:Storm Blitz Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:44 Name:Eternal Wing Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:45 Name:Titan  Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:46 Name:Brave Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:47 Name:Phantom  Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:48 Name:Destroy Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:49 Name:Seraphim Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:50 Name:Divine Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:51 Name:Royal Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:52 Name:Hades Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:53 Name:Pearl Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:62 Name:Scale Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:63 Name:Silk Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:64 Name:Sphinx Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:65 Name:Violent Wind Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:66 Name:Dark Soul Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:67 Name:Dragon Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:68 Name:Guardian Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:69 Name:Legendary Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:70 Name:Red Wing Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:71 Name:Atlans Gloves ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:78 Name:Dragon Gloves-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:79 Name:Legendary Gloves-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:80 Name:Guardian Gloves-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:81 Name:Light Plate Gloves-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:10 Index:82 Name:Red Wing Gloves-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:0 Name:Bronze Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:1 Name:Dragon Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:2 Name:Pad Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:3 Name:Legendary Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:4 Name:Bone Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:5 Name:Leather Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:6 Name:Scale Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:7 Name:Sphinx Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:8 Name:Brass Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:9 Name:Plate Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:10 Name:Vine Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:11 Name:Silk Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:12 Name:Wind Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:13 Name:Spirit Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:14 Name:Guardian Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:15 Name:Storm Crow Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:16 Name:Black Dragon Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:17 Name:Dark Phoenix Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:18 Name:Grand Soul Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:19 Name:Divine Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:20 Name:Thunder Hawk Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:21 Name:Great Dragon Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:22 Name:Dark Soul Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:23 Name:Hurricane Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:24 Name:Red Spirit Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:25 Name:Light Plate Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:26 Name:Adamantine Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:27 Name:Dark Steel Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:28 Name:Dark Master Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:29 Name:Dragon Knight Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:30 Name:Venom Mist Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:31 Name:Sylphid Ray Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:32 Name:Volcano Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:33 Name:Sunlight Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:34 Name:Ashcrow Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:35 Name:Eclipse Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:36 Name:Iris Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:37 Name:Valiant Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:38 Name:Glorious Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:39 Name:Violent Wind Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:40 Name:Red Wing Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:41 Name:Ancient Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:42 Name:Demonic Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:43 Name:Storm Blitz Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:44 Name:Eternal Wing Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:45 Name:Titan Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:46 Name:Brave Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:47 Name:Phantom Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:48 Name:Destroy Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:49 Name:Seraphim Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:50 Name:Divine Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:51 Name:Royal Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:52 Name:Hades Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:53 Name:Pearl Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:59 Name:Sacred Fire Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:60 Name:Storm Jahad Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:61 Name:Piercing Groove Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:62 Name:Scale Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:63 Name:Silk Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:64 Name:Sphinx Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:65 Name:Violent Wind Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:66 Name:Dark Soul Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:67 Name:Dragon Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:68 Name:Guardian Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:69 Name:Legendary Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:70 Name:Red Wing Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:71 Name:Atlans Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:72 Name:Storm Jahad Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:73 Name:Phoenix Soul Boots ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:78 Name:Dragon Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:79 Name:Legendary Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:80 Name:Guardian Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:81 Name:Light Plate Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:82 Name:Red Wing Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:11 Index:83 Name:Sacred Boots-J ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:0 Name:Wings of Elf ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:1 Name:Wings of Heaven ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:2 Name:Wings of Satan ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:3 Name:Wings of Spirits ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:4 Name:Wings of Soul ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:5 Name:Wings of Dragon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:6 Name:Wings of Darkness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:7 Name:Orb of Twisting Slash ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:8 Name:Healing Orb ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:9 Name:Orb of Greater Fortitude ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:10 Name:Orb of Greater Damage ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:11 Name:Orb of Summoning ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:12 Name:Orb of Rageful Blow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:13 Name:Orb of Impale ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:14 Name:Orb of Greater Fortitude ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:15 Name:Jewel of Chaos ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:16 Name:Orb of Fire Slash ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:17 Name:Orb of Penetration ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:18 Name:Orb of Ice Arrow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:19 Name:Orb of Death Stab ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:21 Name:Scroll of FireBurst ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:22 Name:Scroll of Summon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:23 Name:Scroll of Critical Damage ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:24 Name:Scroll of Electric Spark ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:26 Name:Gem of Secret ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:30 Name:Bundle of Jewel of Bless ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:31 Name:Bundle of Jewel of Soul ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:32 Name:Box of Red Ribbon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:33 Name:Box of Green Ribbon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:34 Name:Box of Blue Ribbon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:35 Name:Scroll of Fire Scream ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:36 Name:Wing of Storm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:37 Name:Wing of Eternal ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:38 Name:Wing of Illusion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:39 Name:Wing of Ruin ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:40 Name:Cape of Emperor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:41 Name:Wing of Curse ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:42 Name:Wind of Despair ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:43 Name:Wing of Dimension ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:44 Name:Crystal of Destruction ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:45 Name:Crystal of Multi-Shot ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:46 Name:Crystal of Recovery ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:47 Name:Crystal of Flame Strike ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:48 Name:Scroll of Chaotic Diseier ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:49 Name:Cape of Fighter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:50 Name:Cape of Overrule ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:60 Name:Seed (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:61 Name:Seed (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:62 Name:Seed (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:63 Name:Seed (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:64 Name:Seed (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:65 Name:Seed (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:70 Name:Empty Sphere lvl 1 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:71 Name:Empty Sphere lvl 2 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:72 Name:Empty Sphere lvl 3 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:73 Name:Empty Sphere lvl 4 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:74 Name:Empty Sphere lvl 5 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:100 Name:Seed Sphere (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:101 Name:Seed Sphere (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:102 Name:Seed Sphere (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:103 Name:Seed Sphere (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:104 Name:Seed Sphere (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:105 Name:Seed Sphere (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:106 Name:Seed Sphere (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:107 Name:Seed Sphere (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:108 Name:Seed Sphere (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:109 Name:Seed Sphere (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:110 Name:Seed Sphere (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:111 Name:Seed Sphere (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:112 Name:Seed Sphere (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:113 Name:Seed Sphere (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:114 Name:Seed Sphere (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:115 Name:Seed Sphere (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:116 Name:Seed Sphere (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:117 Name:Seed Sphere (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:118 Name:Seed Sphere (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:119 Name:Seed Sphere (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:120 Name:Seed Sphere (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:121 Name:Seed Sphere (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:122 Name:Seed Sphere (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:123 Name:Seed Sphere (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:124 Name:Seed Sphere (Fire) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:125 Name:Seed Sphere (Water) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:126 Name:Seed Sphere (Ice) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:127 Name:Seed Sphere (Wind) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:128 Name:Seed Sphere (Lightning) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:129 Name:Seed Sphere (Earth) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:130 Name:Small Cape of Lord ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:131 Name:Small Wing of Curse ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:132 Name:Small Wings of Elf ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:133 Name:Small Wings of Heaven ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:134 Name:Small Wings of Satan ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:135 Name:Little Warrior's Cloak ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:136 Name:Jewel of Life Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:137 Name:Jewel of Creation Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:138 Name:Jewel of Guardian Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:139 Name:Bundled Gemstone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:140 Name:Jewel of Harmony Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:141 Name:Jewel of Chaos Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:142 Name:Lower Refining Stone Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:12 Index:143 Name:Higher Refining Stone Bundle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:0 Name:Guardian Angel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:1 Name:Imp ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:2 Name:Horn of Uniria ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:3 Name:Horn of Dinorant ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:4 Name:Dark Horse ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:5 Name:Dark Raven ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:7 Name:Contract (Summon) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:8 Name:Ring of Ice ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:9 Name:Ring of Poison ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:10 Name:Transformation Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:11 Name:Order (Guardian/Life Stone) ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:12 Name:Pendant of Lighting ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:13 Name:Pendant of Fire ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:14 Name:Loch's Feather ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:15 Name:Fruits ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:16 Name:Scroll of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:17 Name:Blood Bone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:18 Name:Invisibility Cloak ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:19 Name:Absolute Weapon of Archangel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:20 Name:Wizard's Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:21 Name:Ring of Fire ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:22 Name:Ring of Earth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:23 Name:Ring of Wind ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:24 Name:Ring of Magic ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:25 Name:Pendant of Ice ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:26 Name:Pendant of Wind ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:27 Name:Pendant of Water ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:28 Name:Pendant of Ability ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:29 Name:Armor of Guardsman ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:30 Name:Cape of Lord ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:31 Name:Spirit ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:32 Name:Splinter of Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:33 Name:Bless of Guardian ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:34 Name:Claw of Beast ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:35 Name:Fragment of Horn ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:36 Name:Broken Horn ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:37 Name:Horn of Fenrir ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:38 Name:Moonstone Pendant ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:39 Name:Elite Transfer Skeleton Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:40 Name:Jack Olantern Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:41 Name:Transfer Christmas Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:42 Name:Ring of GM ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:43 Name:Seal of Ascension ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:44 Name:Seal of Wealth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:45 Name:Seal of Sustenance ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:46 Name:Devil Square Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:47 Name:Blood Castle Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:48 Name:Kalima Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:49 Name:Old Scroll ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:50 Name:Illusion Sorcerer Covenant ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:51 Name:Scroll of Blood ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:52 Name:Condor Flame ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:53 Name:Condor Feather ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:54 Name:Reset Fruit Strength ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:55 Name:Reset Fruit Quickness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:56 Name:Reset Fruit Health ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:57 Name:Reset Fruit Energy ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:58 Name:Reset Fruit Control ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:59 Name:Seal of Mobility ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:60 Name:Indulgence ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:61 Name:Illusion Temple Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:62 Name:Seal of Healing ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:63 Name:Seal of Divinity ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:64 Name:Demon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:65 Name:Spirit of Guardian ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:66 Name:Invitation to Santa Village ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:67 Name:Pet Rudolf ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:68 Name:Snowman Transformation Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:69 Name:Talisman of Resurrection ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:70 Name:Talisman of Mobility ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:71 Name:Sword/Mace/Spear ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:72 Name:Staff ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:73 Name:Bow/Crossbow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:74 Name:Scepter ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:75 Name:Stick ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:76 Name:Panda Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:80 Name:Pet Panda ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:81 Name:Talisman of Guardian ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:82 Name:Talisman of Item Protection ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:83 Name:Talisman of Wings of Satan ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:84 Name:Talisman of Wings of Heaven ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:85 Name:Talisman of Wings of Elf ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:86 Name:Talisman of Wing of Curse ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:87 Name:Talisman of Cape of Emperor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:88 Name:Talisman of Wings of Dragon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:89 Name:Talisman of Wings of Soul ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:90 Name:Talisman of Wings of Spirits ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:91 Name:Talisman of Wing of Despair ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:92 Name:Talisman of Wings of Darkness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:93 Name:Master Seal of Ascension ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:94 Name:Master Seal of Wealth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:95 Name:Gladiator's Honor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:96 Name:Seal of Strength ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:97 Name:Magic Gladiator Char Card ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:98 Name:Dark Lord Character Card ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:99 Name:Character Slot Key ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:103 Name:Party EXP Scroll ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:104 Name:Max AG Boost Aura ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:105 Name:Max SD Boost Aura ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:106 Name:Pet Unicorn ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:107 Name:Lethal Wizard's Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:109 Name:Sapphire Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:110 Name:Ruby Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:111 Name:Topaz Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:112 Name:Amethyst Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:113 Name:Ruby Necklace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:114 Name:Emerald Necklace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:115 Name:Sapphire Necklace ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:116 Name:Seal of Wealth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:117 Name:Minimum Vitality Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:118 Name:Low Vitality Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:119 Name:Medium Vitality Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:120 Name:High Vitality Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:121 Name:Access Ticket to Chaos Castle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:122 Name:Skeleton Transformation Ring ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:123 Name:Pet Skeleton ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:124 Name:Paid Channel Access Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:125 Name:Open Access Ticket to Doppelganger ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:126 Name:Access Ticket to Varka ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:127 Name:Access Ticket to Varka Map 7 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:128 Name:Hawk Figurine ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:129 Name:Goat Figurine ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:130 Name:Oak Charm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:131 Name:Maple Charm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:132 Name:Golden Oak Charm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:133 Name:Golden Maple Charm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:134 Name:Worn Horseshoe ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:135 Name:1st Lucky Armor Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:136 Name:1st Lucky Pants Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:137 Name:1st Lucky Helm Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:138 Name:1st Lucky Gloves Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:139 Name:1st Lucky Boots Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:140 Name:2nd Lucky Armor Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:141 Name:2nd Lucky Pants Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:142 Name:2nd Lucky Helm Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:143 Name:2nd Lucky Gloves Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:13 Index:144 Name:2nd Lucky Boots Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:0 Name:Apple ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:1 Name:Small Healing Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:2 Name:Healing Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:3 Name:Large Healing Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:4 Name:Small Mana Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:5 Name:Mana Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:6 Name:Large Mana Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:7 Name:Siege Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:8 Name:Antidote ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:9 Name:Ale ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:10 Name:Town Portal Scroll ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:11 Name:Box of Luck ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:12 Name:Heart ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:13 Name:Jewel of Bless ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:14 Name:Jewel of Soul ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:15 Name:Zen ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:16 Name:Jewel of Life ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:17 Name:Devil's Eye ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:18 Name:Devil's Key ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:19 Name:Devil's Invitation ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:20 Name:Remedy of Love ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:21 Name:Rena ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:22 Name:Jewel of Creation ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:23 Name:Scroll of the Emperor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:24 Name:Broken Sword ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:25 Name:Tear of Elf ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:26 Name:Soul Shard of Wizard ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:28 Name:Lost Map ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:29 Name:Symbol of Kundun ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:31 Name:Jewel of Guardian ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:32 Name:Pink Chocolate Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:33 Name:Red Chocolate Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:34 Name:Blue Chocolate Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:35 Name:Small SD Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:36 Name:SD Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:37 Name:Large SD Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:38 Name:Small Complex Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:39 Name:Complex Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:40 Name:Large Complex Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:41 Name:Gemstone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:42 Name:Jewel of Harmony ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:43 Name:Lower refining stone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:44 Name:Higher refining stone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:45 Name:Pumpkin of Luck ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:46 Name:Jack O'Lantern Blessings ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:47 Name:Jack O'Lantern Wrath ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:48 Name:Jack O'Lantern Cry ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:49 Name:Jack O'Lantern Food ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:50 Name:Jack O'Lantern Drink ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:51 Name:Christmas Star ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:52 Name:GM Gift ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:53 Name:Talisman of Luck ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:54 Name:Chaos Card ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:55 Name:Green Chaos Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:56 Name:Red Chaos Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:57 Name:Purple Chaos Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:58 Name:Rare Item Ticket1 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:59 Name:Rare Item Ticket2 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:60 Name:Rare Item Ticket3 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:61 Name:Rare Item Ticket4 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:62 Name:Rare Item Ticket5 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:63 Name:Firecracker ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:64 Name:Cursed Castle Water ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:65 Name:Death-beam Knight Flame ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:66 Name:Hell-Miner Horn ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:67 Name:Dark Phoenix Feather ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:68 Name:Abyssal Eye ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:70 Name:Elite Healing Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:71 Name:Elite Mana Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:72 Name:Scroll of Quickness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:73 Name:Scroll of Defense ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:74 Name:Scroll of Wrath ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:75 Name:Scroll of Wizardry ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:76 Name:Scroll of Health ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:77 Name:Scroll of Mana ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:78 Name:Elixir of Strength ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:79 Name:Elixir of Agility ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:80 Name:Elixir of Health ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:81 Name:Elixir of Energy ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:82 Name:Elixir of Control ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:83 Name:Rare Item Ticket ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:84 Name:Cherry Blossom Play-Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:85 Name:Cherry Blossom Wine ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:86 Name:Cherry Blossom Rice Cake ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:87 Name:Cherry Blossom Flower Petal ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:88 Name:White Cherry Blossom Branch ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:89 Name:Red Cherry Blossom Branch ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:90 Name:Golden Cherry Blossom Branch ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:91 Name:Summoner Character Card ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:92 Name:Chaos Card Gold ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:93 Name:Chaos Card Rare ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:94 Name:Medium Elite Healing Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:95 Name:Chaos Card  Mini ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:96 Name:Talisman of Chaos Assembly ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:97 Name:Scroll of Battle ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:98 Name:Scroll of Strength ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:99 Name:Christmas Firecracker ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:100 Name:Lucky Coin ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:101 Name:Suspicious Scrap of Paper ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:102 Name:Gaion's Order ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:103 Name:First Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:104 Name:Second Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:105 Name:Third Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:106 Name:Fourth Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:107 Name:Fifth Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:108 Name:Sixth Secromicon Fragment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:109 Name:Complete Secromicon ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:110 Name:Sign of Dimensions ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:111 Name:Mirror of Dimensions ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:112 Name:Silver Key ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:113 Name:Gold Key ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:114 Name:Master Skill Reset ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:115 Name:Stat Adjustment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:116 Name:Character Relocation Service ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:117 Name:Character Rename Service ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:118 Name:Server Relocation Service ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:119 Name:Premium Package ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:120 Name:Goblin Gold Coin ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:121 Name:Sealed Golden Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:122 Name:Sealed Silver Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:123 Name:Golden Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:124 Name:Silver Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:125 Name:Package Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:126 Name:30-Day Pass ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:127 Name:90-Day Pass ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:128 Name:30-Day Pass - Points ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:129 Name:90-Day Pass - Points ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:130 Name:3-Hour Pass ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:131 Name:5-Hour Pass ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:132 Name:10-Hour Pass ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:133 Name:Elite SD Potion ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:134 Name:Package Box A ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:135 Name:Package Box B ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:136 Name:Package Box C ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:137 Name:Package Box D ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:138 Name:Package Box E ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:139 Name:Package Box F ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:140 Name:Scroll of Healing ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:141 Name:Shining Jewellery Case ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:142 Name:Elegant Jewellery Case ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:143 Name:Steel Jewellery Case ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:144 Name:Old Jewellery Case ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:145 Name:Rare Item Ticket 7 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:146 Name:Rare Item Ticket 8 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:147 Name:Rare Item Ticket 9 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:148 Name:Rare Item Ticket 10 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:149 Name:Rare Item Ticket 11 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:150 Name:Rare Item Ticket 12 ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:151 Name:Lv. 1 Letter of Request ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:152 Name:Lv. 1 Completion Certificate ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:153 Name:Stardust ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:154 Name:Kalt Stone ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:155 Name:Tantalos's Armor ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:156 Name:Burnt Murderer's Club ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:157 Name:Green Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:158 Name:Red Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:159 Name:Purple Box ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:160 Name:Jewel of Extension ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:161 Name:Jewel of Elevation ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:162 Name:Magic Backpack ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:163 Name:Vault Expansion Certificate ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:164 Name:Ancient Statue ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:165 Name:Magic Cloth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:166 Name:Space Cloth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:167 Name:Phase Cloth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:168 Name:Dimension Cloth ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:169 Name:RageFighter Character Card ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:194 Name:Jewel of Blood ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:195 Name:Jewel of Curse ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:196 Name:Jewel of Excess ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:197 Name:Jewel of Balance ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:198 Name:Jewel of Science ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:199 Name:Jewel of Madness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:200 Name:Jewel of Black Chaos ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:201 Name:Jewel of Dark Bless ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:202 Name:Jewel of Dark Life ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:203 Name:Jewel of Dark Soul ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:204 Name:Jewel of Kondar ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:205 Name:Jewel of Kundun ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:206 Name:Jewel of Love ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:207 Name:Left Piece of Love Jewel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:208 Name:Right Piece of Love Jewel ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:209 Name:Jewel of Venom ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:210 Name:Jewel of Wisdom ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:211 Name:Jewel of Maya ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:212 Name:Jewel of Tarkan ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:213 Name:Jewel of Disorder ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:214 Name:Ancient Gem ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:215 Name:Socket Gem ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:216 Name:Jawel of Luck ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:217 Name:Gem of God ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:218 Name:Gem of Death ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:219 Name:Jewel of Dispense ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:220 Name:Jewel of Dream ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:221 Name:Jewel of Nightmare ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:222 Name:Jewel of Sincerity ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:223 Name:Jewel of Destruction ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:224 Name:Jewel of Sea ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:225 Name:Gem of Speed ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:226 Name:Gem of Accuracy ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:227 Name:Gem of Blow ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:228 Name:Gem of Impact ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:229 Name:Gem of Dodges ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:230 Name:Gem of Fortune ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:231 Name:Gem of Weakness ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:232 Name:Gem of Reflect ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:233 Name:Gem of Vitality ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:14 Index:234 Name:Gem of Energy ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:0 Name:Scroll of Poison ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:1 Name:Scroll of Meteorite ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:2 Name:Scroll of Lighting ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:3 Name:Scroll of Fire Ball ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:4 Name:Scroll of Flame ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:5 Name:Scroll of Teleport ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:6 Name:Scroll of Ice ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:7 Name:Scroll of Twister ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:8 Name:Scroll of Evil Spirit ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:9 Name:Scroll of Hellfire ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:10 Name:Scroll of Power Wave ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:11 Name:Scroll of Aqua Beam ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:12 Name:Scroll of Cometfall ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:13 Name:Scroll of Inferno ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:14 Name:Scroll of Teleport Ally ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:15 Name:Scroll of Soul Barrier ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:16 Name:Scroll of Decay ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:17 Name:Scroll of Ice Storm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:18 Name:Scroll of Nova ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:19 Name:Chain Lightning Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:20 Name:Drain Life Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:21 Name:Lightning Shock Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:22 Name:Damage Reflection Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:23 Name:Berserker Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:24 Name:Sleep Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:26 Name:Weakness Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:27 Name:Innovation Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:28 Name:Scroll of Wizardry Enhance ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:29 Name:Scroll of Gigantic Storm ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:30 Name:Chain Drive Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:31 Name:Dark Side Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:32 Name:Dragon Roar Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:33 Name:Dragon Slasher Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:34 Name:Ignore Defense Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:35 Name:Increase Health Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem: Type:15 Index:36 Name:Increase Block Parchment ModelPath: ModelFile:
+[21:18:52] (Season 6 Load) LoadItem complete. (ItemCount:1003)
+[21:18:52] [MasterLevelSkillTreeSystem] - ..\IGCData\\Scripts\Skills\MasterSkillCalc.lua file is Loaded
+[21:18:52] Damage value doesn't exist.(MagicDamage.cpp 579)
+[21:18:52] The Blood Castle Quest 1091592633 starts in -1889861632 second(s).
+[21:18:52] ..\IGCData\\Skills\IGC_SkillSpear.hit file loaded
+[21:18:52] ..\IGCData\\Skills\IGC_SkillElect.hit file loaded
+[21:18:52] [..\IGCData\\Items\IGC_SocketItem.xml]::FileLoad -> Success
+[21:18:52] [Quest] (Find the 'Scroll of Emperor'!) Load : Index 0, SubInfoCount 2, ConditionCount 3
+[21:18:52] [Quest] (Four Treasures of Mu) Load : Index 1, SubInfoCount 4, ConditionCount 1
+[21:18:52] [Quest] (Gain 'Hero status') Load : Index 2, SubInfoCount 2, ConditionCount 3
+[21:18:52] [Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1, ConditionCount 3
+[21:18:52] [Quest] (Certificate of 'Strength!') Load : Index 4, SubInfoCount 9, ConditionCount 4
+[21:18:52] [Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3, ConditionCount 3
+[21:18:52] [Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1, ConditionCount 3
+[21:18:52] [Quest] [SetQuestItem] Scroll of the Emperor
+[21:18:52] [Quest] [SetQuestItem] Scroll of the Emperor
+[21:18:52] [Quest] [SetQuestItem] Broken Sword
+[21:18:52] [Quest] [SetQuestItem] Tear of Elf
+[21:18:52] [Quest] [SetQuestItem] Soul Shard of Wizard
+[21:18:52] [Quest] [SetQuestItem] Abyssal Eye
+[21:18:52] [Quest] [SetQuestItem] Scroll of the Emperor
+[21:18:52] [Quest] [SetQuestItem] Scroll of the Emperor
+[21:18:52] [Quest] [SetQuestItem] Broken Sword
+[21:18:52] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:18:52] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:18:52] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:18:52] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:18:52] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:18:52] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:18:52] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:18:52] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:18:52] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:18:52] Loaded 1 prohibited words
+[21:18:52] Loaded 24 prohibited symbols
+[21:18:52] [ItemShop] Initializing ItemShop with Version: 512/2014/124 (Image Version: 583/2014/1)
+[21:18:52] [ItemShop][Load ItemInfo] - Complete! - Total:711
+[21:18:52] [ItemShop][Load ItemList] - Complete! - Total:373
+[21:18:52] [ItemShop][Package Load List] Complete! - Total:129
+[21:18:52] [ItemShop][GP Load List] Complete! - Total:0
+[21:18:52] 2 news load!
+[21:18:52] [Monster Element] - ..\data\./Monster/Settings/MonsterSkillElement.txt file is Loaded
+[21:18:52] [Monster Skill Unit] - ..\data\./Monster/Settings/MonsterSkillUnit.txt file is Loaded
+[21:18:52] [Monster Skill Manager] - ..\data\./Monster/Settings/MonsterSkill.txt file is Loaded
+[21:18:52] [Monster AI Element] - ..\data\./Monster/Settings/MonsterAIElement.txt file is Loaded
+[21:18:52] [Monster AI MovePath ] - ..\data\./Monster/Settings/MovePathCryWolf.dat file is Loaded
+[21:18:52] [Monster AI MovePath ] - ..\data\./Monster/Settings/MovePathDG1.dat file is Loaded
+[21:18:52] [Monster AI MovePath ] - ..\data\./Monster/Settings/MovePathDG2.dat file is Loaded
+[21:18:52] [Monster AI MovePath ] - ..\data\./Monster/Settings/MovePathDG3.dat file is Loaded
+[21:18:52] [Monster AI MovePath ] - ..\data\./Monster/Settings/MovePathDG4.dat file is Loaded
+[21:18:52] [Monster AI Automata] - ..\data\./Monster/Settings/MonsterAutomata.txt file is Loaded
+[21:18:52] [Monster AI Unit] - ..\data\./Monster/Settings/MonsterAIUnit.txt file is Loaded
+[21:18:52] [Monster AI Rule ] - ..\data\./Monster/Settings/MonsterAIRule.txt file is Loaded
+[21:18:52] [Monster AI Group ] - ..\data\./Monster/Settings/MonsterAIGroup.txt file is Loaded
+[21:18:52] [Skill Addition Info] [Infinity Arrow] Skill Time[2200], UseLevel[220], Arrow MP Consumption +0[10] +1[15] +2[20] +3[25]
+[21:18:52] [Skill Addition Info] [Fire Scream] Use(1) : Explosion Distance(2) - Rate(3000), MaxAttack_SameSerial(3), SerialInitCount(100), Check Serial(1)
+[21:18:52] [Skill Addition Info] [SoulBarrier Strengrhen] BaseSkill (Level0):0, Level1 : 21, Level2 : 22, Level3 : 23, Level4 : 24, Level5 : 25, Level6 : 26, Level7 : 27, Level8 : 28, Level9 : 29, Level10 : 30, Level11 : 31, Level12 : 32, Level13 : 33, Level14 : 34, Level15 : 35, Level16 : 36, Level17 : 37, Level18 : 38, Level19 : 39, Level20 : 40
+[21:18:52] [Kanturu] - ..\data\./Events/Kanturu.dat file is Loaded
+[21:18:52] [Kanturu][Battle Standby] ..\data\\Events\Kanturu.dat file is Loaded
+[21:18:52] [Kanturu][Battle of Maya] IceStorm Using Rate Load: 60
+[21:18:52] [Kanturu][Battle of Maya] ..\data\\Events\Kanturu.dat file is Loaded
+[21:18:52] [Kanturu][Battle of Nightmare]  ..\data\\Events\Kanturu.dat file is Loaded
+[21:18:52] [Kanturu][Tower of Refinement] ..\data\\Events\Kanturu.dat file is Loaded
+[21:18:52] [Kanturu][MonsterSetBase] - ..\data\./Monster/Spawns/KanturuMonsterSetBase.txt file is Loaded
+[21:18:52] [Quest Manager] File Loaded successfuly
+[21:18:52] [ RAKLION ] - ..\data\./Events/Raklion.dat file is Loaded
+[21:18:52] [Option] Trade on
+[21:18:52] [Option] Required time to decrease Murderer-level : 1(s)
+[21:18:52] [Option] Monster HP 1% Down
+[21:18:52] [Option] Auto Looting Time Set : 10
+[21:18:52] [Option] No dropping item when killed by Murderer
+[21:18:52] [Option] Item drop rate : 50 %
+[21:18:52] [DevilSquare] Close
+[21:18:52] User Object Size = 3040
+[21:18:52] [NewPVP] Info Set Enable:1 DamageReduction:60
+[21:18:52] ..\data\\Events\DevilSquare.dat file load!
+[21:18:52] ..\data\\Events\BloodCastle.dat file load!
+[21:18:52] ..\data\./Events/RingAttackEvent.dat file load!
+[21:18:52] [Ring Event] Sync Start Time. [41] min remain (START HOUR:22, MIN:0)
+[21:18:52] ..\data\./Events/XMasAttack.dat file load!
+[21:18:52] [XMas Event] Sync Start Time. [1] min remain (START HOUR:21, MIN:20)
+[21:18:52] ..\data\\Events\ChaosCastle.dat file load!
+[21:18:52] [DOTH] ..\data\EventsManager.dat file load!
+[21:18:52] ..\IGCData\\Events\IllusionTemple_Classic\IGC_IllusionTemple_Classic.xml file load!
+[21:18:52] ..\IGCData\\Events\ImperialGuardian\IGC_ImperialGuardian_ExpReward.dat file load
+[21:18:52] ..\IGCData\\Events\ImperialGuardian\IGC_ImperialGuardian_GeneralDrop.dat file load
+[21:18:52] ..\IGCData\\Events\ImperialGuardian\IGC_ImperialGuardian_GaionDrop.dat file load
+[21:18:52] ..\IGCData\\Events\ImperialGuardian\IGC_ImperialGuardian_StatueDrop.dat file load
+[21:18:52] ..\IGCData\\Events\ImperialGuardian\IGC_ImperialGuardian_MonsterStats.dat file load
+[21:18:52] ..\IGCData\\Events\IGC_GamblingLottery.xml loaded successfully
+[21:18:52] [VIP System] Loaded 4 VIP types
+[21:18:52] MapAttribute::LoadFile() -> Success!
+[21:18:52] [..\IGCData\IGC_MonsterGroupRegen.xml]::FileLoad -> Success!
+[21:18:52] [Exp Manager] Loaded Data (Static Exp:1000.000000 Static MLExp:1000.000000 EventExp:0.000000 QuestExp:1.000000), Count of Dynamic Exp ranges: 36, CalcType:0, Debug:0
+[21:18:52] [Bag Manager] Add Bag: Item_(12,32,0)_Red_Ribbon_Box (Type: 0) Current Bag Count: 1
+[21:18:52] [Bag Manager] Add Bag: Item_(12,33,0)_Green_Ribbon_Box (Type: 0) Current Bag Count: 2
+[21:18:52] [Bag Manager] Add Bag: Item_(12,34,0)_Blue_Ribbon_Box (Type: 0) Current Bag Count: 3
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,0)_Luck_Box (Type: 0) Current Bag Count: 4
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,1)_Sacred_Birth_Star (Type: 0) Current Bag Count: 5
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,2)_Firecracker (Type: 0) Current Bag Count: 6
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,3)_Love_Heart (Type: 0) Current Bag Count: 7
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,5)_Silver_Medal (Type: 0) Current Bag Count: 8
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,6)_Gold_Medal (Type: 0) Current Bag Count: 9
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,7)_Heaven_Box (Type: 0) Current Bag Count: 10
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,8)_Kundun_Box+1 (Type: 0) Current Bag Count: 11
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,9)_Kundun_Box+2 (Type: 0) Current Bag Count: 12
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,10)_Kundun_Box+3 (Type: 0) Current Bag Count: 13
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,11)_Kundun_Box+4 (Type: 0) Current Bag Count: 14
+[21:18:52] [Bag Manager] Add Bag: Item_(14,11,12)_Kundun_Box+5 (Type: 0) Current Bag Count: 15
+[21:18:52] [Bag Manager] Add Bag: Item_(14,32,0)_Pink_Chocolate_Box (Type: 0) Current Bag Count: 16
+[21:18:52] [Bag Manager] Add Bag: Item_(14,32,1)_Light_Purple_Candy_Box (Type: 0) Current Bag Count: 17
+[21:18:52] [Bag Manager] Add Bag: Item_(14,33,0)_Red_Chocolate_Box (Type: 0) Current Bag Count: 18
+[21:18:52] [Bag Manager] Add Bag: Item_(14,33,1)_Orange_Candy_Box (Type: 0) Current Bag Count: 19
+[21:18:52] [Bag Manager] Add Bag: Item_(14,34,0)_Blue_Chocolate_Box (Type: 0) Current Bag Count: 20
+[21:18:52] [Bag Manager] Add Bag: Item_(14,34,1)_Dark_Blue_Candy_Box (Type: 0) Current Bag Count: 21
+[21:18:52] [Bag Manager] Add Bag: Item_(14,45,0)_Pumpkin_of_Luck (Type: 0) Current Bag Count: 22
+[21:18:52] [Bag Manager] Add Bag: Item_(14,52,0)_GM_Gift_Box (Type: 0) Current Bag Count: 23
+[21:18:52] [Bag Manager] Add Bag: Item_(14,55,0)_Green_Chaos_Box (Type: 0) Current Bag Count: 24
+[21:18:52] [Bag Manager] Add Bag: Item_(14,56,0)_Red_Chaos_Box (Type: 0) Current Bag Count: 25
+[21:18:52] [Bag Manager] Add Bag: Item_(14,57,0)_Purple_Chaos_Box (Type: 0) Current Bag Count: 26
+[21:18:52] [Bag Manager] Add Bag: Item_(14,84,0)_Cherry_Blossom_Play_Box (Type: 0) Current Bag Count: 27
+[21:18:52] [Bag Manager] Add Bag: Item_(14,123,0)_Golden_Box (Type: 0) Current Bag Count: 28
+[21:18:52] [Bag Manager] Add Bag: Item_(14,124,0)_Silver_Box (Type: 0) Current Bag Count: 29
+[21:18:52] [Bag Manager] Add Bag: Item_(14,157,0)_Green_Box (Type: 0) Current Bag Count: 30
+[21:18:52] [Bag Manager] Add Bag: Item_(14,158,0)_Red_Box (Type: 0) Current Bag Count: 31
+[21:18:52] [Bag Manager] Add Bag: Item_(14,159,0)_Purple_Box (Type: 0) Current Bag Count: 32
+[21:18:52] [Bag Manager] Add Bag: Item_(14,141,0)_Shining_Jewelry_Case (Type: 0) Current Bag Count: 33
+[21:18:52] [Bag Manager] Add Bag: Item_(14,142,0)_Elegant_Jewelry_Case (Type: 0) Current Bag Count: 34
+[21:18:52] [Bag Manager] Add Bag: Item_(14,143,0)_Steel_Jewelry_Case (Type: 0) Current Bag Count: 35
+[21:18:52] [Bag Manager] Add Bag: Item_(14,144,0)_Old_Jewelry_Case (Type: 0) Current Bag Count: 36
+[21:18:52] [Bag Manager] Add Bag: Monster_(44)_Dragon_Red (Type: 1) Current Bag Count: 37
+[21:18:52] [Bag Manager] Add Bag: Monster_(55)_Death_King (Type: 1) Current Bag Count: 38
+[21:18:52] [Bag Manager] Add Bag: Monster_(295)_Erohim (Type: 1) Current Bag Count: 39
+[21:18:52] [Bag Manager] Add Bag: Monster_(340)_Dark_Elf (Type: 1) Current Bag Count: 40
+[21:18:52] [Bag Manager] Add Bag: Monster_(349)_Balgass (Type: 1) Current Bag Count: 41
+[21:18:52] [Bag Manager] Add Bag: Monster_(361)_Nightmare (Type: 1) Current Bag Count: 42
+[21:18:52] [Bag Manager] Add Bag: Monster_(362)_Mayas_Left_Hand (Type: 1) Current Bag Count: 43
+[21:18:52] [Bag Manager] Add Bag: Monster_(363)_Mayas_Right_Hand (Type: 1) Current Bag Count: 44
+[21:18:52] [Bag Manager] Add Bag: Monster_(365)_Pouch_of_Blessing (Type: 1) Current Bag Count: 45
+[21:18:52] Error: Wrong Item in Monster_Lunar_Rabbit bag (Cat: 12 Index: 147)
+[21:18:52] Error: Wrong Item in Monster_Lunar_Rabbit bag (Cat: 12 Index: 201)
+[21:18:52] Error: Wrong Item in Monster_Lunar_Rabbit bag (Cat: 12 Index: 151)
+[21:18:52] [Bag Manager] Add Bag: Monster_(413)_Lunar_Rabbit (Type: 1) Current Bag Count: 46
+[21:18:52] [Bag Manager] Add Bag: Monster_(414)_Helper_Ellen (Type: 1) Current Bag Count: 47
+[21:18:52] [Bag Manager] Add Bag: Monster_(459)_Selupan (Type: 1) Current Bag Count: 48
+[21:18:52] [Bag Manager] Add Bag: Monster_(647)_Snake_Green (Type: 1) Current Bag Count: 49
+[21:18:52] Error: Wrong Item in Snake_Yellow bag (Cat: 13 Index: 169)
+[21:18:52] [Bag Manager] Add Bag: Monster_(648)_Snake_Yellow (Type: 1) Current Bag Count: 50
+[21:18:52] Error: Wrong Item in Snake_Purple bag (Cat: 13 Index: 169)
+[21:18:52] [Bag Manager] Add Bag: Monster_(649)_Snake_Purple (Type: 1) Current Bag Count: 51
+[21:18:52] Error: Wrong Item in Snake_Red bag (Cat: 13 Index: 170)
+[21:18:52] [Bag Manager] Add Bag: Monster_(650)_Snake_Red (Type: 1) Current Bag Count: 52
+[21:18:52] Error: Wrong Item in Moon_Rabbit bag (Cat: 13 Index: 210)
+[21:18:52] [Bag Manager] Add Bag: Monster_(674)_Moon_Rabbit (Type: 1) Current Bag Count: 53
+[21:18:52] Error: Wrong Item in Pouch_Of_Blessing bag (Cat: 13 Index: 220)
+[21:18:52] [Bag Manager] Add Bag: Monster_(675)_Pouch_of_Blessing (Type: 1) Current Bag Count: 54
+[21:18:52] Error: Wrong Item in Fire_Flame_Ghost bag (Cat: 13 Index: 221)
+[21:18:52] [Bag Manager] Add Bag: Monster_(676)_Fire_Flame_Ghost (Type: 1) Current Bag Count: 55
+[21:18:52] Error: Wrong Item in Golden_Goblin bag (Cat: 13 Index: 222)
+[21:18:52] [Bag Manager] Add Bag: Monster_(677)_Golden_Goblin (Type: 1) Current Bag Count: 56
+[21:18:52] [Bag Manager] Add Bag: Buff_AkeronTower_Drop (Type: 2) Current Bag Count: 57
+[21:18:52] [Bag Manager] Add Bag: Buff_Gladiators_Drop (Type: 2) Current Bag Count: 58
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Classic_(1-2)_Monsters (Type: 2) Current Bag Count: 59
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Classic_(3-4)_Monsters (Type: 2) Current Bag Count: 60
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Classic_(5-6)_Monsters (Type: 2) Current Bag Count: 61
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Classic_Reward (Type: 2) Current Bag Count: 62
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(1)_Reward (Type: 2) Current Bag Count: 63
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(2)_Reward (Type: 2) Current Bag Count: 64
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(3)_Reward (Type: 2) Current Bag Count: 65
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(4)_Reward (Type: 2) Current Bag Count: 66
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(5)_Reward (Type: 2) Current Bag Count: 67
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(6)_Reward (Type: 2) Current Bag Count: 68
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(7)_Reward (Type: 2) Current Bag Count: 69
+[21:18:52] [Bag Manager] Add Bag: Event_BloodCastle(8)_Reward (Type: 2) Current Bag Count: 70
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(1)_Reward (Type: 2) Current Bag Count: 71
+[21:18:52] [Bag Manager] Add Bag: Event_LastManStanding_Reward (Type: 2) Current Bag Count: 72
+[21:18:52] [Bag Manager] Add Bag: NPC_SantaClause(1)_Reward (Type: 2) Current Bag Count: 73
+[21:18:52] [Bag Manager] Add Bag: NPC_SantaClause(2)_Reward (Type: 2) Current Bag Count: 74
+[21:18:52] [Bag Manager] Add Bag: NPC_SantaClause(3)_Reward (Type: 2) Current Bag Count: 75
+[21:18:52] [Bag Manager] Add Bag: Item_WarriorRing(40)_Reward (Type: 2) Current Bag Count: 76
+[21:18:52] [Bag Manager] Add Bag: Item_WarriorRing(80)_Reward (Type: 2) Current Bag Count: 77
+[21:18:52] [Bag Manager] Add Bag: Mix_Cherry_Blossom_Gold_Reward (Type: 2) Current Bag Count: 78
+[21:18:52] [Bag Manager] Add Bag: Mix_LuckyCoin(10)_Reward (Type: 2) Current Bag Count: 79
+[21:18:52] [Bag Manager] Add Bag: Mix_LuckyCoin(20)_Reward (Type: 2) Current Bag Count: 80
+[21:18:52] [Bag Manager] Add Bag: Mix_LuckyCoin(30)_Reward (Type: 2) Current Bag Count: 81
+[21:18:52] [Bag Manager] Add Bag: Mix_Senior_Reward (Type: 2) Current Bag Count: 82
+[21:18:52] [Bag Manager] Add Bag: Monster_(275)_Kundun (Type: 2) Current Bag Count: 83
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 212)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 213)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 214)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 208)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 209)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 210)
+[21:18:52] Error: Wrong Item in Event_AcheronGuardian_Reward bag (Cat: 12 Index: 211)
+[21:18:52] [Bag Manager] Add Bag: Event_AcheronGuardian_Reward (Type: 2) Current Bag Count: 84
+[21:18:52] Error: Wrong Item in MuRoomy_Reward_1 bag (Cat: 13 Index: 146)
+[21:18:52] [Bag Manager] Add Bag: Event_MuRummy_Reward_1 (Type: 2) Current Bag Count: 85
+[21:18:52] [Bag Manager] Add Bag: Event_MuRummy_Reward_2 (Type: 2) Current Bag Count: 86
+[21:18:52] Error: Wrong Item in WereRabbit_Egg bag (Cat: 13 Index: 216)
+[21:18:52] Error: Wrong Item in WereRabbit_Egg bag (Cat: 13 Index: 218)
+[21:18:52] Error: Wrong Item in WereRabbit_Egg bag (Cat: 13 Index: 211)
+[21:18:52] Error: Wrong Item in WereRabbit_Egg bag (Cat: 13 Index: 211)
+[21:18:52] [Bag Manager] Add Bag: Item_(13,210,0)_WereRabbit_Egg (Type: 2) Current Bag Count: 87
+[21:18:52] Error: Wrong Item in Lucky_Bag_Egg bag (Cat: 13 Index: 216)
+[21:18:52] Error: Wrong Item in Lucky_Bag_Egg bag (Cat: 13 Index: 218)
+[21:18:52] Error: Wrong Item in Lucky_Bag_Egg bag (Cat: 13 Index: 211)
+[21:18:52] Error: Wrong Item in Lucky_Bag_Egg bag (Cat: 13 Index: 211)
+[21:18:52] [Bag Manager] Add Bag: Item_(13,220,0)_Lucky_Bag_Egg (Type: 2) Current Bag Count: 88
+[21:18:52] Error: Wrong Item in Fire_Flame_Ghost_Egg bag (Cat: 13 Index: 216)
+[21:18:52] Error: Wrong Item in Fire_Flame_Ghost_Egg bag (Cat: 13 Index: 218)
+[21:18:52] Error: Wrong Item in Fire_Flame_Ghost_Egg bag (Cat: 13 Index: 211)
+[21:18:52] Error: Wrong Item in Fire_Flame_Ghost_Egg bag (Cat: 13 Index: 211)
+[21:18:52] [Bag Manager] Add Bag: Item_(13,221,0)_Fire_Flame_Ghost_Egg (Type: 2) Current Bag Count: 89
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 216)
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 218)
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 212)
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 211)
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 211)
+[21:18:52] Error: Wrong Item in Golden_Goblin_Egg bag (Cat: 13 Index: 211)
+[21:18:52] [Bag Manager] Add Bag: Item_(13,222,0)_Golden_Goblin_Egg (Type: 2) Current Bag Count: 90
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_1 (Type: 2) Current Bag Count: 91
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_2 (Type: 2) Current Bag Count: 92
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_3 (Type: 2) Current Bag Count: 93
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_4 (Type: 2) Current Bag Count: 94
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_5 (Type: 2) Current Bag Count: 95
+[21:18:52] Error: Wrong Item in IllusionTemple_Renewal_6 bag (Cat: 13 Index: 171)
+[21:18:52] Error: Wrong Item in IllusionTemple_Renewal_6 bag (Cat: 13 Index: 172)
+[21:18:52] Error: Wrong Item in IllusionTemple_Renewal_6 bag (Cat: 13 Index: 173)
+[21:18:52] Error: Wrong Item in IllusionTemple_Renewal_6 bag (Cat: 13 Index: 175)
+[21:18:52] Error: Wrong Item in IllusionTemple_Renewal_6 bag (Cat: 13 Index: 176)
+[21:18:52] [Bag Manager] Add Bag: Event_IllusionTemple_Renewal_6 (Type: 2) Current Bag Count: 96
+[21:18:52] [Bag Manager] Add Bag: Monster_(652)_Golden_Goblin (Type: 2) Current Bag Count: 97
+[21:18:52] [Bag Manager] Add Bag: Monster_(653)_Golden_Titan (Type: 2) Current Bag Count: 98
+[21:18:52] [Bag Manager] Add Bag: Monster_(654)_Golden_Tantalose (Type: 2) Current Bag Count: 99
+[21:18:52] [Bag Manager] Add Bag: Monster_(655)_Golden_Erohim (Type: 2) Current Bag Count: 100
+[21:18:52] [Bag Manager] Add Bag: Monster_(656)_Golden_Hell_Maine (Type: 2) Current Bag Count: 101
+[21:18:52] [Bag Manager] Add Bag: Monster_(657)_Golden_Kundun (Type: 2) Current Bag Count: 102
+[21:18:52] [Bag Manager] Add Bag: Mix_Cherry_Blossom_White_Reward (Type: 2) Current Bag Count: 103
+[21:18:52] [Bag Manager] Add Bag: Mix_Cherry_Blossom_Red_Reward (Type: 2) Current Bag Count: 104
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(2)_Reward (Type: 2) Current Bag Count: 105
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(3)_Reward (Type: 2) Current Bag Count: 106
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(4)_Reward (Type: 2) Current Bag Count: 107
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(5)_Reward (Type: 2) Current Bag Count: 108
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(6)_Reward (Type: 2) Current Bag Count: 109
+[21:18:52] [Bag Manager] Add Bag: Event_ChaosCastle(7)_Reward (Type: 2) Current Bag Count: 110
+[21:18:52] [Bag Manager] Add Bag: Event_Monster_(561)_Medusa (Type: 2) Current Bag Count: 111
+[21:18:52] [Bag Manager] Add Bag: Event_Monster_(560)_Sapi_Queen (Type: 2) Current Bag Count: 112
+[21:18:52] [Bonus Event] Started Event (AddExp:1.500000) (AddMLExp:1.500000) (AddDrop:0.000000) (AddExcDrop:0.000000)
+[21:18:52] [NORMAL EXP] [LEVEL 1] [EXP 100]
+[21:18:52] [NORMAL EXP] [LEVEL 2] [EXP 440]
+[21:18:52] [NORMAL EXP] [LEVEL 3] [EXP 1080]
+[21:18:52] [NORMAL EXP] [LEVEL 4] [EXP 2080]
+[21:18:52] [NORMAL EXP] [LEVEL 5] [EXP 3500]
+[21:18:52] [NORMAL EXP] [LEVEL 6] [EXP 5400]
+[21:18:52] [NORMAL EXP] [LEVEL 7] [EXP 7840]
+[21:18:52] [NORMAL EXP] [LEVEL 8] [EXP 10880]
+[21:18:52] [NORMAL EXP] [LEVEL 9] [EXP 14580]
+[21:18:52] [NORMAL EXP] [LEVEL 10] [EXP 19000]
+[21:18:52] [NORMAL EXP] [LEVEL 11] [EXP 24200]
+[21:18:52] [NORMAL EXP] [LEVEL 12] [EXP 30240]
+[21:18:52] [NORMAL EXP] [LEVEL 13] [EXP 37180]
+[21:18:52] [NORMAL EXP] [LEVEL 14] [EXP 45080]
+[21:18:52] [NORMAL EXP] [LEVEL 15] [EXP 54000]
+[21:18:52] [NORMAL EXP] [LEVEL 16] [EXP 64000]
+[21:18:52] [NORMAL EXP] [LEVEL 17] [EXP 75140]
+[21:18:52] [NORMAL EXP] [LEVEL 18] [EXP 87480]
+[21:18:52] [NORMAL EXP] [LEVEL 19] [EXP 101080]
+[21:18:52] [NORMAL EXP] [LEVEL 20] [EXP 116000]
+[21:18:52] [NORMAL EXP] [LEVEL 21] [EXP 132300]
+[21:18:52] [NORMAL EXP] [LEVEL 22] [EXP 150040]
+[21:18:52] [NORMAL EXP] [LEVEL 23] [EXP 169280]
+[21:18:52] [NORMAL EXP] [LEVEL 24] [EXP 190080]
+[21:18:52] [NORMAL EXP] [LEVEL 25] [EXP 212500]
+[21:18:52] [NORMAL EXP] [LEVEL 26] [EXP 236600]
+[21:18:52] [NORMAL EXP] [LEVEL 27] [EXP 262440]
+[21:18:52] [NORMAL EXP] [LEVEL 28] [EXP 290080]
+[21:18:52] [NORMAL EXP] [LEVEL 29] [EXP 319580]
+[21:18:52] [NORMAL EXP] [LEVEL 30] [EXP 351000]
+[21:18:52] [NORMAL EXP] [LEVEL 31] [EXP 384400]
+[21:18:52] [NORMAL EXP] [LEVEL 32] [EXP 419840]
+[21:18:52] [NORMAL EXP] [LEVEL 33] [EXP 457380]
+[21:18:52] [NORMAL EXP] [LEVEL 34] [EXP 497080]
+[21:18:52] [NORMAL EXP] [LEVEL 35] [EXP 539000]
+[21:18:52] [NORMAL EXP] [LEVEL 36] [EXP 583200]
+[21:18:52] [NORMAL EXP] [LEVEL 37] [EXP 629740]
+[21:18:52] [NORMAL EXP] [LEVEL 38] [EXP 678680]
+[21:18:52] [NORMAL EXP] [LEVEL 39] [EXP 730080]
+[21:18:52] [NORMAL EXP] [LEVEL 40] [EXP 784000]
+[21:18:52] [NORMAL EXP] [LEVEL 41] [EXP 840500]
+[21:18:52] [NORMAL EXP] [LEVEL 42] [EXP 899640]
+[21:18:52] [NORMAL EXP] [LEVEL 43] [EXP 961480]
+[21:18:52] [NORMAL EXP] [LEVEL 44] [EXP 1026080]
+[21:18:52] [NORMAL EXP] [LEVEL 45] [EXP 1093500]
+[21:18:52] [NORMAL EXP] [LEVEL 46] [EXP 1163800]
+[21:18:52] [NORMAL EXP] [LEVEL 47] [EXP 1237040]
+[21:18:52] [NORMAL EXP] [LEVEL 48] [EXP 1313280]
+[21:18:52] [NORMAL EXP] [LEVEL 49] [EXP 1392580]
+[21:18:52] [NORMAL EXP] [LEVEL 50] [EXP 1475000]
+[21:18:52] [NORMAL EXP] [LEVEL 51] [EXP 1560600]
+[21:18:52] [NORMAL EXP] [LEVEL 52] [EXP 1649440]
+[21:18:52] [NORMAL EXP] [LEVEL 53] [EXP 1741580]
+[21:18:52] [NORMAL EXP] [LEVEL 54] [EXP 1837080]
+[21:18:52] [NORMAL EXP] [LEVEL 55] [EXP 1936000]
+[21:18:52] [NORMAL EXP] [LEVEL 56] [EXP 2038400]
+[21:18:52] [NORMAL EXP] [LEVEL 57] [EXP 2144340]
+[21:18:52] [NORMAL EXP] [LEVEL 58] [EXP 2253880]
+[21:18:52] [NORMAL EXP] [LEVEL 59] [EXP 2367080]
+[21:18:52] [NORMAL EXP] [LEVEL 60] [EXP 2484000]
+[21:18:52] [NORMAL EXP] [LEVEL 61] [EXP 2604700]
+[21:18:52] [NORMAL EXP] [LEVEL 62] [EXP 2729240]
+[21:18:52] [NORMAL EXP] [LEVEL 63] [EXP 2857680]
+[21:18:52] [NORMAL EXP] [LEVEL 64] [EXP 2990080]
+[21:18:52] [NORMAL EXP] [LEVEL 65] [EXP 3126500]
+[21:18:52] [NORMAL EXP] [LEVEL 66] [EXP 3267000]
+[21:18:52] [NORMAL EXP] [LEVEL 67] [EXP 3411640]
+[21:18:52] [NORMAL EXP] [LEVEL 68] [EXP 3560480]
+[21:18:52] [NORMAL EXP] [LEVEL 69] [EXP 3713580]
+[21:18:52] [NORMAL EXP] [LEVEL 70] [EXP 3871000]
+[21:18:52] [NORMAL EXP] [LEVEL 71] [EXP 4032800]
+[21:18:52] [NORMAL EXP] [LEVEL 72] [EXP 4199040]
+[21:18:52] [NORMAL EXP] [LEVEL 73] [EXP 4369780]
+[21:18:52] [NORMAL EXP] [LEVEL 74] [EXP 4545080]
+[21:18:52] [NORMAL EXP] [LEVEL 75] [EXP 4725000]
+[21:18:52] [NORMAL EXP] [LEVEL 76] [EXP 4909600]
+[21:18:52] [NORMAL EXP] [LEVEL 77] [EXP 5098940]
+[21:18:52] [NORMAL EXP] [LEVEL 78] [EXP 5293080]
+[21:18:52] [NORMAL EXP] [LEVEL 79] [EXP 5492080]
+[21:18:52] [NORMAL EXP] [LEVEL 80] [EXP 5696000]
+[21:18:52] [NORMAL EXP] [LEVEL 81] [EXP 5904900]
+[21:18:52] [NORMAL EXP] [LEVEL 82] [EXP 6118840]
+[21:18:52] [NORMAL EXP] [LEVEL 83] [EXP 6337880]
+[21:18:52] [NORMAL EXP] [LEVEL 84] [EXP 6562080]
+[21:18:52] [NORMAL EXP] [LEVEL 85] [EXP 6791500]
+[21:18:52] [NORMAL EXP] [LEVEL 86] [EXP 7026200]
+[21:18:52] [NORMAL EXP] [LEVEL 87] [EXP 7266240]
+[21:18:52] [NORMAL EXP] [LEVEL 88] [EXP 7511680]
+[21:18:52] [NORMAL EXP] [LEVEL 89] [EXP 7762580]
+[21:18:52] [NORMAL EXP] [LEVEL 90] [EXP 8019000]
+[21:18:52] [NORMAL EXP] [LEVEL 91] [EXP 8281000]
+[21:18:52] [NORMAL EXP] [LEVEL 92] [EXP 8548640]
+[21:18:52] [NORMAL EXP] [LEVEL 93] [EXP 8821980]
+[21:18:52] [NORMAL EXP] [LEVEL 94] [EXP 9101080]
+[21:18:52] [NORMAL EXP] [LEVEL 95] [EXP 9386000]
+[21:18:52] [NORMAL EXP] [LEVEL 96] [EXP 9676800]
+[21:18:52] [NORMAL EXP] [LEVEL 97] [EXP 9973540]
+[21:18:52] [NORMAL EXP] [LEVEL 98] [EXP 10276280]
+[21:18:52] [NORMAL EXP] [LEVEL 99] [EXP 10585080]
+[21:18:52] [NORMAL EXP] [LEVEL 100] [EXP 10900000]
+[21:18:52] [NORMAL EXP] [LEVEL 101] [EXP 11221100]
+[21:18:52] [NORMAL EXP] [LEVEL 102] [EXP 11548440]
+[21:18:52] [NORMAL EXP] [LEVEL 103] [EXP 11882080]
+[21:18:52] [NORMAL EXP] [LEVEL 104] [EXP 12222080]
+[21:18:52] [NORMAL EXP] [LEVEL 105] [EXP 12568500]
+[21:18:52] [NORMAL EXP] [LEVEL 106] [EXP 12921400]
+[21:18:52] [NORMAL EXP] [LEVEL 107] [EXP 13280840]
+[21:18:52] [NORMAL EXP] [LEVEL 108] [EXP 13646880]
+[21:18:52] [NORMAL EXP] [LEVEL 109] [EXP 14019580]
+[21:18:52] [NORMAL EXP] [LEVEL 110] [EXP 14399000]
+[21:18:52] [NORMAL EXP] [LEVEL 111] [EXP 14785200]
+[21:18:52] [NORMAL EXP] [LEVEL 112] [EXP 15178240]
+[21:18:52] [NORMAL EXP] [LEVEL 113] [EXP 15578180]
+[21:18:52] [NORMAL EXP] [LEVEL 114] [EXP 15985080]
+[21:18:52] [NORMAL EXP] [LEVEL 115] [EXP 16399000]
+[21:18:52] [NORMAL EXP] [LEVEL 116] [EXP 16820000]
+[21:18:52] [NORMAL EXP] [LEVEL 117] [EXP 17248140]
+[21:18:52] [NORMAL EXP] [LEVEL 118] [EXP 17683480]
+[21:18:52] [NORMAL EXP] [LEVEL 119] [EXP 18126080]
+[21:18:52] [NORMAL EXP] [LEVEL 120] [EXP 18576000]
+[21:18:52] [NORMAL EXP] [LEVEL 121] [EXP 19033300]
+[21:18:52] [NORMAL EXP] [LEVEL 122] [EXP 19498040]
+[21:18:52] [NORMAL EXP] [LEVEL 123] [EXP 19970280]
+[21:18:52] [NORMAL EXP] [LEVEL 124] [EXP 20450080]
+[21:18:52] [NORMAL EXP] [LEVEL 125] [EXP 20937500]
+[21:18:52] [NORMAL EXP] [LEVEL 126] [EXP 21432600]
+[21:18:52] [NORMAL EXP] [LEVEL 127] [EXP 21935440]
+[21:18:52] [NORMAL EXP] [LEVEL 128] [EXP 22446080]
+[21:18:52] [NORMAL EXP] [LEVEL 129] [EXP 22964580]
+[21:18:52] [NORMAL EXP] [LEVEL 130] [EXP 23491000]
+[21:18:52] [NORMAL EXP] [LEVEL 131] [EXP 24025400]
+[21:18:52] [NORMAL EXP] [LEVEL 132] [EXP 24567840]
+[21:18:52] [NORMAL EXP] [LEVEL 133] [EXP 25118380]
+[21:18:52] [NORMAL EXP] [LEVEL 134] [EXP 25677080]
+[21:18:52] [NORMAL EXP] [LEVEL 135] [EXP 26244000]
+[21:18:52] [NORMAL EXP] [LEVEL 136] [EXP 26819200]
+[21:18:52] [NORMAL EXP] [LEVEL 137] [EXP 27402740]
+[21:18:52] [NORMAL EXP] [LEVEL 138] [EXP 27994680]
+[21:18:52] [NORMAL EXP] [LEVEL 139] [EXP 28595080]
+[21:18:52] [NORMAL EXP] [LEVEL 140] [EXP 29204000]
+[21:18:52] [NORMAL EXP] [LEVEL 141] [EXP 29821500]
+[21:18:52] [NORMAL EXP] [LEVEL 142] [EXP 30447640]
+[21:18:52] [NORMAL EXP] [LEVEL 143] [EXP 31082480]
+[21:18:52] [NORMAL EXP] [LEVEL 144] [EXP 31726080]
+[21:18:52] [NORMAL EXP] [LEVEL 145] [EXP 32378500]
+[21:18:52] [NORMAL EXP] [LEVEL 146] [EXP 33039800]
+[21:18:52] [NORMAL EXP] [LEVEL 147] [EXP 33710040]
+[21:18:52] [NORMAL EXP] [LEVEL 148] [EXP 34389280]
+[21:18:52] [NORMAL EXP] [LEVEL 149] [EXP 35077580]
+[21:18:52] [NORMAL EXP] [LEVEL 150] [EXP 35775000]
+[21:18:52] [NORMAL EXP] [LEVEL 151] [EXP 36481600]
+[21:18:52] [NORMAL EXP] [LEVEL 152] [EXP 37197440]
+[21:18:52] [NORMAL EXP] [LEVEL 153] [EXP 37922580]
+[21:18:52] [NORMAL EXP] [LEVEL 154] [EXP 38657080]
+[21:18:52] [NORMAL EXP] [LEVEL 155] [EXP 39401000]
+[21:18:52] [NORMAL EXP] [LEVEL 156] [EXP 40154400]
+[21:18:52] [NORMAL EXP] [LEVEL 157] [EXP 40917340]
+[21:18:52] [NORMAL EXP] [LEVEL 158] [EXP 41689880]
+[21:18:52] [NORMAL EXP] [LEVEL 159] [EXP 42472080]
+[21:18:52] [NORMAL EXP] [LEVEL 160] [EXP 43264000]
+[21:18:52] [NORMAL EXP] [LEVEL 161] [EXP 44065700]
+[21:18:52] [NORMAL EXP] [LEVEL 162] [EXP 44877240]
+[21:18:52] [NORMAL EXP] [LEVEL 163] [EXP 45698680]
+[21:18:52] [NORMAL EXP] [LEVEL 164] [EXP 46530080]
+[21:18:52] [NORMAL EXP] [LEVEL 165] [EXP 47371500]
+[21:18:52] [NORMAL EXP] [LEVEL 166] [EXP 48223000]
+[21:18:52] [NORMAL EXP] [LEVEL 167] [EXP 49084640]
+[21:18:52] [NORMAL EXP] [LEVEL 168] [EXP 49956480]
+[21:18:52] [NORMAL EXP] [LEVEL 169] [EXP 50838580]
+[21:18:52] [NORMAL EXP] [LEVEL 170] [EXP 51731000]
+[21:18:52] [NORMAL EXP] [LEVEL 171] [EXP 52633800]
+[21:18:52] [NORMAL EXP] [LEVEL 172] [EXP 53547040]
+[21:18:52] [NORMAL EXP] [LEVEL 173] [EXP 54470780]
+[21:18:52] [NORMAL EXP] [LEVEL 174] [EXP 55405080]
+[21:18:52] [NORMAL EXP] [LEVEL 175] [EXP 56350000]
+[21:18:52] [NORMAL EXP] [LEVEL 176] [EXP 57305600]
+[21:18:52] [NORMAL EXP] [LEVEL 177] [EXP 58271940]
+[21:18:52] [NORMAL EXP] [LEVEL 178] [EXP 59249080]
+[21:18:52] [NORMAL EXP] [LEVEL 179] [EXP 60237080]
+[21:18:52] [NORMAL EXP] [LEVEL 180] [EXP 61236000]
+[21:18:52] [NORMAL EXP] [LEVEL 181] [EXP 62245900]
+[21:18:52] [NORMAL EXP] [LEVEL 182] [EXP 63266840]
+[21:18:52] [NORMAL EXP] [LEVEL 183] [EXP 64298880]
+[21:18:52] [NORMAL EXP] [LEVEL 184] [EXP 65342080]
+[21:18:52] [NORMAL EXP] [LEVEL 185] [EXP 66396500]
+[21:18:52] [NORMAL EXP] [LEVEL 186] [EXP 67462200]
+[21:18:52] [NORMAL EXP] [LEVEL 187] [EXP 68539240]
+[21:18:52] [NORMAL EXP] [LEVEL 188] [EXP 69627680]
+[21:18:52] [NORMAL EXP] [LEVEL 189] [EXP 70727580]
+[21:18:52] [NORMAL EXP] [LEVEL 190] [EXP 71839000]
+[21:18:52] [NORMAL EXP] [LEVEL 191] [EXP 72962000]
+[21:18:52] [NORMAL EXP] [LEVEL 192] [EXP 74096640]
+[21:18:52] [NORMAL EXP] [LEVEL 193] [EXP 75242980]
+[21:18:52] [NORMAL EXP] [LEVEL 194] [EXP 76401080]
+[21:18:52] [NORMAL EXP] [LEVEL 195] [EXP 77571000]
+[21:18:52] [NORMAL EXP] [LEVEL 196] [EXP 78752800]
+[21:18:52] [NORMAL EXP] [LEVEL 197] [EXP 79946540]
+[21:18:52] [NORMAL EXP] [LEVEL 198] [EXP 81152280]
+[21:18:52] [NORMAL EXP] [LEVEL 199] [EXP 82370080]
+[21:18:52] [NORMAL EXP] [LEVEL 200] [EXP 83600000]
+[21:18:52] [NORMAL EXP] [LEVEL 201] [EXP 84842100]
+[21:18:52] [NORMAL EXP] [LEVEL 202] [EXP 86096440]
+[21:18:52] [NORMAL EXP] [LEVEL 203] [EXP 87363080]
+[21:18:52] [NORMAL EXP] [LEVEL 204] [EXP 88642080]
+[21:18:52] [NORMAL EXP] [LEVEL 205] [EXP 89933500]
+[21:18:52] [NORMAL EXP] [LEVEL 206] [EXP 91237400]
+[21:18:52] [NORMAL EXP] [LEVEL 207] [EXP 92553840]
+[21:18:52] [NORMAL EXP] [LEVEL 208] [EXP 93882880]
+[21:18:52] [NORMAL EXP] [LEVEL 209] [EXP 95224580]
+[21:18:52] [NORMAL EXP] [LEVEL 210] [EXP 96579000]
+[21:18:52] [NORMAL EXP] [LEVEL 211] [EXP 97946200]
+[21:18:52] [NORMAL EXP] [LEVEL 212] [EXP 99326240]
+[21:18:52] [NORMAL EXP] [LEVEL 213] [EXP 100719180]
+[21:18:52] [NORMAL EXP] [LEVEL 214] [EXP 102125080]
+[21:18:52] [NORMAL EXP] [LEVEL 215] [EXP 103544000]
+[21:18:52] [NORMAL EXP] [LEVEL 216] [EXP 104976000]
+[21:18:52] [NORMAL EXP] [LEVEL 217] [EXP 106421140]
+[21:18:52] [NORMAL EXP] [LEVEL 218] [EXP 107879480]
+[21:18:52] [NORMAL EXP] [LEVEL 219] [EXP 109351080]
+[21:18:52] [NORMAL EXP] [LEVEL 220] [EXP 110836000]
+[21:18:52] [NORMAL EXP] [LEVEL 221] [EXP 112334300]
+[21:18:52] [NORMAL EXP] [LEVEL 222] [EXP 113846040]
+[21:18:52] [NORMAL EXP] [LEVEL 223] [EXP 115371280]
+[21:18:52] [NORMAL EXP] [LEVEL 224] [EXP 116910080]
+[21:18:52] [NORMAL EXP] [LEVEL 225] [EXP 118462500]
+[21:18:52] [NORMAL EXP] [LEVEL 226] [EXP 120028600]
+[21:18:52] [NORMAL EXP] [LEVEL 227] [EXP 121608440]
+[21:18:52] [NORMAL EXP] [LEVEL 228] [EXP 123202080]
+[21:18:52] [NORMAL EXP] [LEVEL 229] [EXP 124809580]
+[21:18:52] [NORMAL EXP] [LEVEL 230] [EXP 126431000]
+[21:18:52] [NORMAL EXP] [LEVEL 231] [EXP 128066400]
+[21:18:52] [NORMAL EXP] [LEVEL 232] [EXP 129715840]
+[21:18:52] [NORMAL EXP] [LEVEL 233] [EXP 131379380]
+[21:18:52] [NORMAL EXP] [LEVEL 234] [EXP 133057080]
+[21:18:52] [NORMAL EXP] [LEVEL 235] [EXP 134749000]
+[21:18:52] [NORMAL EXP] [LEVEL 236] [EXP 136455200]
+[21:18:52] [NORMAL EXP] [LEVEL 237] [EXP 138175740]
+[21:18:52] [NORMAL EXP] [LEVEL 238] [EXP 139910680]
+[21:18:52] [NORMAL EXP] [LEVEL 239] [EXP 141660080]
+[21:18:52] [NORMAL EXP] [LEVEL 240] [EXP 143424000]
+[21:18:52] [NORMAL EXP] [LEVEL 241] [EXP 145202500]
+[21:18:52] [NORMAL EXP] [LEVEL 242] [EXP 146995640]
+[21:18:52] [NORMAL EXP] [LEVEL 243] [EXP 148803480]
+[21:18:52] [NORMAL EXP] [LEVEL 244] [EXP 150626080]
+[21:18:52] [NORMAL EXP] [LEVEL 245] [EXP 152463500]
+[21:18:52] [NORMAL EXP] [LEVEL 246] [EXP 154315800]
+[21:18:52] [NORMAL EXP] [LEVEL 247] [EXP 156183040]
+[21:18:52] [NORMAL EXP] [LEVEL 248] [EXP 158065280]
+[21:18:52] [NORMAL EXP] [LEVEL 249] [EXP 159962580]
+[21:18:52] [NORMAL EXP] [LEVEL 250] [EXP 161875000]
+[21:18:52] [NORMAL EXP] [LEVEL 251] [EXP 163802600]
+[21:18:52] [NORMAL EXP] [LEVEL 252] [EXP 165745440]
+[21:18:52] [NORMAL EXP] [LEVEL 253] [EXP 167703580]
+[21:18:52] [NORMAL EXP] [LEVEL 254] [EXP 169677080]
+[21:18:52] [NORMAL EXP] [LEVEL 255] [EXP 171666000]
+[21:18:52] [NORMAL EXP] [LEVEL 256] [EXP 173680400]
+[21:18:52] [NORMAL EXP] [LEVEL 257] [EXP 175734340]
+[21:18:52] [NORMAL EXP] [LEVEL 258] [EXP 177833880]
+[21:18:52] [NORMAL EXP] [LEVEL 259] [EXP 179985080]
+[21:18:52] [NORMAL EXP] [LEVEL 260] [EXP 182194000]
+[21:18:52] [NORMAL EXP] [LEVEL 261] [EXP 184466700]
+[21:18:52] [NORMAL EXP] [LEVEL 262] [EXP 186809240]
+[21:18:52] [NORMAL EXP] [LEVEL 263] [EXP 189227680]
+[21:18:52] [NORMAL EXP] [LEVEL 264] [EXP 191728080]
+[21:18:52] [NORMAL EXP] [LEVEL 265] [EXP 194316500]
+[21:18:52] [NORMAL EXP] [LEVEL 266] [EXP 196999000]
+[21:18:52] [NORMAL EXP] [LEVEL 267] [EXP 199781640]
+[21:18:52] [NORMAL EXP] [LEVEL 268] [EXP 202670480]
+[21:18:52] [NORMAL EXP] [LEVEL 269] [EXP 205671580]
+[21:18:52] [NORMAL EXP] [LEVEL 270] [EXP 208791000]
+[21:18:52] [NORMAL EXP] [LEVEL 271] [EXP 212034800]
+[21:18:52] [NORMAL EXP] [LEVEL 272] [EXP 215409040]
+[21:18:52] [NORMAL EXP] [LEVEL 273] [EXP 218919780]
+[21:18:52] [NORMAL EXP] [LEVEL 274] [EXP 222573080]
+[21:18:52] [NORMAL EXP] [LEVEL 275] [EXP 226375000]
+[21:18:52] [NORMAL EXP] [LEVEL 276] [EXP 230331600]
+[21:18:52] [NORMAL EXP] [LEVEL 277] [EXP 234448940]
+[21:18:52] [NORMAL EXP] [LEVEL 278] [EXP 238733080]
+[21:18:52] [NORMAL EXP] [LEVEL 279] [EXP 243190080]
+[21:18:52] [NORMAL EXP] [LEVEL 280] [EXP 247826000]
+[21:18:52] [NORMAL EXP] [LEVEL 281] [EXP 252646900]
+[21:18:52] [NORMAL EXP] [LEVEL 282] [EXP 257658840]
+[21:18:52] [NORMAL EXP] [LEVEL 283] [EXP 262867880]
+[21:18:52] [NORMAL EXP] [LEVEL 284] [EXP 268280080]
+[21:18:52] [NORMAL EXP] [LEVEL 285] [EXP 273901500]
+[21:18:52] [NORMAL EXP] [LEVEL 286] [EXP 279738200]
+[21:18:52] [NORMAL EXP] [LEVEL 287] [EXP 285796240]
+[21:18:52] [NORMAL EXP] [LEVEL 288] [EXP 292081680]
+[21:18:52] [NORMAL EXP] [LEVEL 289] [EXP 298600580]
+[21:18:52] [NORMAL EXP] [LEVEL 290] [EXP 305359000]
+[21:18:52] [NORMAL EXP] [LEVEL 291] [EXP 312363000]
+[21:18:52] [NORMAL EXP] [LEVEL 292] [EXP 319618640]
+[21:18:52] [NORMAL EXP] [LEVEL 293] [EXP 327131980]
+[21:18:52] [NORMAL EXP] [LEVEL 294] [EXP 334909080]
+[21:18:52] [NORMAL EXP] [LEVEL 295] [EXP 342956000]
+[21:18:52] [NORMAL EXP] [LEVEL 296] [EXP 351278800]
+[21:18:52] [NORMAL EXP] [LEVEL 297] [EXP 359883540]
+[21:18:52] [NORMAL EXP] [LEVEL 298] [EXP 368776280]
+[21:18:52] [NORMAL EXP] [LEVEL 299] [EXP 377963080]
+[21:18:52] [NORMAL EXP] [LEVEL 300] [EXP 387450000]
+[21:18:52] [NORMAL EXP] [LEVEL 301] [EXP 397243100]
+[21:18:52] [NORMAL EXP] [LEVEL 302] [EXP 407348440]
+[21:18:52] [NORMAL EXP] [LEVEL 303] [EXP 417772080]
+[21:18:52] [NORMAL EXP] [LEVEL 304] [EXP 428520080]
+[21:18:52] [NORMAL EXP] [LEVEL 305] [EXP 439598500]
+[21:18:52] [NORMAL EXP] [LEVEL 306] [EXP 451013400]
+[21:18:52] [NORMAL EXP] [LEVEL 307] [EXP 462770840]
+[21:18:52] [NORMAL EXP] [LEVEL 308] [EXP 474876880]
+[21:18:52] [NORMAL EXP] [LEVEL 309] [EXP 487337580]
+[21:18:52] [NORMAL EXP] [LEVEL 310] [EXP 500159000]
+[21:18:52] [NORMAL EXP] [LEVEL 311] [EXP 513347200]
+[21:18:52] [NORMAL EXP] [LEVEL 312] [EXP 526908240]
+[21:18:52] [NORMAL EXP] [LEVEL 313] [EXP 540848180]
+[21:18:52] [NORMAL EXP] [LEVEL 314] [EXP 555173080]
+[21:18:52] [NORMAL EXP] [LEVEL 315] [EXP 569889000]
+[21:18:52] [NORMAL EXP] [LEVEL 316] [EXP 585002000]
+[21:18:52] [NORMAL EXP] [LEVEL 317] [EXP 600518140]
+[21:18:52] [NORMAL EXP] [LEVEL 318] [EXP 616443480]
+[21:18:52] [NORMAL EXP] [LEVEL 319] [EXP 632784080]
+[21:18:52] [NORMAL EXP] [LEVEL 320] [EXP 649546000]
+[21:18:52] [NORMAL EXP] [LEVEL 321] [EXP 666735300]
+[21:18:52] [NORMAL EXP] [LEVEL 322] [EXP 684358040]
+[21:18:52] [NORMAL EXP] [LEVEL 323] [EXP 702420280]
+[21:18:52] [NORMAL EXP] [LEVEL 324] [EXP 720928080]
+[21:18:52] [NORMAL EXP] [LEVEL 325] [EXP 739887500]
+[21:18:52] [NORMAL EXP] [LEVEL 326] [EXP 759304600]
+[21:18:52] [NORMAL EXP] [LEVEL 327] [EXP 779185440]
+[21:18:52] [NORMAL EXP] [LEVEL 328] [EXP 799536080]
+[21:18:52] [NORMAL EXP] [LEVEL 329] [EXP 820362580]
+[21:18:52] [NORMAL EXP] [LEVEL 330] [EXP 841671000]
+[21:18:52] [NORMAL EXP] [LEVEL 331] [EXP 863467400]
+[21:18:52] [NORMAL EXP] [LEVEL 332] [EXP 885757840]
+[21:18:52] [NORMAL EXP] [LEVEL 333] [EXP 908548380]
+[21:18:52] [NORMAL EXP] [LEVEL 334] [EXP 931845080]
+[21:18:52] [NORMAL EXP] [LEVEL 335] [EXP 955654000]
+[21:18:52] [NORMAL EXP] [LEVEL 336] [EXP 979981200]
+[21:18:52] [NORMAL EXP] [LEVEL 337] [EXP 1004832740]
+[21:18:52] [NORMAL EXP] [LEVEL 338] [EXP 1030214680]
+[21:18:52] [NORMAL EXP] [LEVEL 339] [EXP 1056133080]
+[21:18:52] [NORMAL EXP] [LEVEL 340] [EXP 1082594000]
+[21:18:52] [NORMAL EXP] [LEVEL 341] [EXP 1109603500]
+[21:18:52] [NORMAL EXP] [LEVEL 342] [EXP 1137167640]
+[21:18:52] [NORMAL EXP] [LEVEL 343] [EXP 1165292480]
+[21:18:52] [NORMAL EXP] [LEVEL 344] [EXP 1193984080]
+[21:18:52] [NORMAL EXP] [LEVEL 345] [EXP 1223248500]
+[21:18:52] [NORMAL EXP] [LEVEL 346] [EXP 1253091800]
+[21:18:52] [NORMAL EXP] [LEVEL 347] [EXP 1283520040]
+[21:18:52] [NORMAL EXP] [LEVEL 348] [EXP 1314539280]
+[21:18:52] [NORMAL EXP] [LEVEL 349] [EXP 1346155580]
+[21:18:52] [NORMAL EXP] [LEVEL 350] [EXP 1378375000]
+[21:18:52] [NORMAL EXP] [LEVEL 351] [EXP 1411203600]
+[21:18:52] [NORMAL EXP] [LEVEL 352] [EXP 1444647440]
+[21:18:52] [NORMAL EXP] [LEVEL 353] [EXP 1478712580]
+[21:18:52] [NORMAL EXP] [LEVEL 354] [EXP 1513405080]
+[21:18:52] [NORMAL EXP] [LEVEL 355] [EXP 1548731000]
+[21:18:52] [NORMAL EXP] [LEVEL 356] [EXP 1584696400]
+[21:18:52] [NORMAL EXP] [LEVEL 357] [EXP 1621307340]
+[21:18:52] [NORMAL EXP] [LEVEL 358] [EXP 1658569880]
+[21:18:52] [NORMAL EXP] [LEVEL 359] [EXP 1696490080]
+[21:18:52] [NORMAL EXP] [LEVEL 360] [EXP 1735074000]
+[21:18:52] [NORMAL EXP] [LEVEL 361] [EXP 1774327700]
+[21:18:52] [NORMAL EXP] [LEVEL 362] [EXP 1814257240]
+[21:18:52] [NORMAL EXP] [LEVEL 363] [EXP 1854868680]
+[21:18:52] [NORMAL EXP] [LEVEL 364] [EXP 1896168080]
+[21:18:52] [NORMAL EXP] [LEVEL 365] [EXP 1938161500]
+[21:18:52] [NORMAL EXP] [LEVEL 366] [EXP 1980855000]
+[21:18:52] [NORMAL EXP] [LEVEL 367] [EXP 2024254640]
+[21:18:52] [NORMAL EXP] [LEVEL 368] [EXP 2068366480]
+[21:18:52] [NORMAL EXP] [LEVEL 369] [EXP 2113196580]
+[21:18:52] [NORMAL EXP] [LEVEL 370] [EXP 2158751000]
+[21:18:52] [NORMAL EXP] [LEVEL 371] [EXP 2205035800]
+[21:18:52] [NORMAL EXP] [LEVEL 372] [EXP 2252057040]
+[21:18:52] [NORMAL EXP] [LEVEL 373] [EXP 2299820780]
+[21:18:52] [NORMAL EXP] [LEVEL 374] [EXP 2348333080]
+[21:18:52] [NORMAL EXP] [LEVEL 375] [EXP 2397600000]
+[21:18:52] [NORMAL EXP] [LEVEL 376] [EXP 2447627600]
+[21:18:52] [NORMAL EXP] [LEVEL 377] [EXP 2498421940]
+[21:18:52] [NORMAL EXP] [LEVEL 378] [EXP 2549989080]
+[21:18:52] [NORMAL EXP] [LEVEL 379] [EXP 2602335080]
+[21:18:52] [NORMAL EXP] [LEVEL 380] [EXP 2655466000]
+[21:18:52] [NORMAL EXP] [LEVEL 381] [EXP 2709387900]
+[21:18:52] [NORMAL EXP] [LEVEL 382] [EXP 2764106840]
+[21:18:52] [NORMAL EXP] [LEVEL 383] [EXP 2819628880]
+[21:18:52] [NORMAL EXP] [LEVEL 384] [EXP 2875960080]
+[21:18:52] [NORMAL EXP] [LEVEL 385] [EXP 2933106500]
+[21:18:52] [NORMAL EXP] [LEVEL 386] [EXP 2991074200]
+[21:18:52] [NORMAL EXP] [LEVEL 387] [EXP 3049869240]
+[21:18:52] [NORMAL EXP] [LEVEL 388] [EXP 3109497680]
+[21:18:52] [NORMAL EXP] [LEVEL 389] [EXP 3169965580]
+[21:18:52] [NORMAL EXP] [LEVEL 390] [EXP 3231279000]
+[21:18:52] [NORMAL EXP] [LEVEL 391] [EXP 3293444000]
+[21:18:52] [NORMAL EXP] [LEVEL 392] [EXP 3356466640]
+[21:18:52] [NORMAL EXP] [LEVEL 393] [EXP 3420352980]
+[21:18:52] [NORMAL EXP] [LEVEL 394] [EXP 3485109080]
+[21:18:52] [NORMAL EXP] [LEVEL 395] [EXP 3550741000]
+[21:18:52] [NORMAL EXP] [LEVEL 396] [EXP 3617254800]
+[21:18:52] [NORMAL EXP] [LEVEL 397] [EXP 3684656540]
+[21:18:52] [NORMAL EXP] [LEVEL 398] [EXP 3752952280]
+[21:18:52] [NORMAL EXP] [LEVEL 399] [EXP 3822148080]
+[21:18:52] [NORMAL EXP] [LEVEL 400] [EXP 3892250000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 1] [MLEXP 35507050]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 2] [MLEXP 71473220]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 3] [MLEXP 107901540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 4] [MLEXP 144795040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 5] [MLEXP 182156750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 6] [MLEXP 219989700]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 7] [MLEXP 258296920]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 8] [MLEXP 297081440]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 9] [MLEXP 336346290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 10] [MLEXP 376094500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 11] [MLEXP 416329100]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 12] [MLEXP 457053120]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 13] [MLEXP 498269590]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 14] [MLEXP 539981540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 15] [MLEXP 582192000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 16] [MLEXP 624904000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 17] [MLEXP 668120570]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 18] [MLEXP 711844740]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 19] [MLEXP 756079540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 20] [MLEXP 800828000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 21] [MLEXP 846093150]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 22] [MLEXP 891878020]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 23] [MLEXP 938185640]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 24] [MLEXP 985019040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 25] [MLEXP 1032381250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 26] [MLEXP 1080275300]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 27] [MLEXP 1128704220]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 28] [MLEXP 1177671040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 29] [MLEXP 1227178790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 30] [MLEXP 1277230500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 31] [MLEXP 1327829200]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 32] [MLEXP 1378977920]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 33] [MLEXP 1430679690]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 34] [MLEXP 1482937540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 35] [MLEXP 1535754500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 36] [MLEXP 1589133600]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 37] [MLEXP 1643077870]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 38] [MLEXP 1697590340]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 39] [MLEXP 1752674040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 40] [MLEXP 1808332000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 41] [MLEXP 1864567250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 42] [MLEXP 1921382820]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 43] [MLEXP 1978781740]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 44] [MLEXP 2036767040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 45] [MLEXP 2095341750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 46] [MLEXP 2154508900]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 47] [MLEXP 2214271520]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 48] [MLEXP 2274632640]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 49] [MLEXP 2335595290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 50] [MLEXP 2397162500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 51] [MLEXP 2459337300]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 52] [MLEXP 2522122720]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 53] [MLEXP 2585521790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 54] [MLEXP 2649537540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 55] [MLEXP 2714173000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 56] [MLEXP 2779431200]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 57] [MLEXP 2845315170]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 58] [MLEXP 2911827940]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 59] [MLEXP 2978972540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 60] [MLEXP 3046752000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 61] [MLEXP 3115169350]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 62] [MLEXP 3184227620]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 63] [MLEXP 3253929840]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 64] [MLEXP 3324279040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 65] [MLEXP 3395278250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 66] [MLEXP 3466930500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 67] [MLEXP 3539238820]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 68] [MLEXP 3612206240]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 69] [MLEXP 3685835790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 70] [MLEXP 3760130500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 71] [MLEXP 3835093400]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 72] [MLEXP 3910727520]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 73] [MLEXP 3987035890]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 74] [MLEXP 4064021540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 75] [MLEXP 4141687500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 76] [MLEXP 4220036800]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 77] [MLEXP 4299072470]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 78] [MLEXP 4378797540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 79] [MLEXP 4459215040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 80] [MLEXP 4540328000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 81] [MLEXP 4622139450]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 82] [MLEXP 4704652420]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 83] [MLEXP 4787869940]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 84] [MLEXP 4871795040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 85] [MLEXP 4956430750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 86] [MLEXP 5041780100]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 87] [MLEXP 5127846120]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 88] [MLEXP 5214631840]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 89] [MLEXP 5302140290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 90] [MLEXP 5390374500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 91] [MLEXP 5479337500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 92] [MLEXP 5569032320]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 93] [MLEXP 5659461990]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 94] [MLEXP 5750629540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 95] [MLEXP 5842538000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 96] [MLEXP 5935190400]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 97] [MLEXP 6028589770]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 98] [MLEXP 6122739140]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 99] [MLEXP 6217641540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 100] [MLEXP 6313300000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 101] [MLEXP 6409717550]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 102] [MLEXP 6506897220]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 103] [MLEXP 6604842040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 104] [MLEXP 6703555040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 105] [MLEXP 6803039250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 106] [MLEXP 6903297700]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 107] [MLEXP 7004333420]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 108] [MLEXP 7106149440]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 109] [MLEXP 7208748790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 110] [MLEXP 7312134500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 111] [MLEXP 7416309600]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 112] [MLEXP 7521277120]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 113] [MLEXP 7627040090]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 114] [MLEXP 7733601540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 115] [MLEXP 7840964500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 116] [MLEXP 7949132000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 117] [MLEXP 8058107070]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 118] [MLEXP 8167892740]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 119] [MLEXP 8278492040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 120] [MLEXP 8389908000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 121] [MLEXP 8502143650]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 122] [MLEXP 8615202020]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 123] [MLEXP 8729086140]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 124] [MLEXP 8843799040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 125] [MLEXP 8959343750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 126] [MLEXP 9075723300]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 127] [MLEXP 9192940720]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 128] [MLEXP 9310999040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 129] [MLEXP 9429901290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 130] [MLEXP 9549650500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 131] [MLEXP 9670249700]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 132] [MLEXP 9791701920]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 133] [MLEXP 9914010190]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 134] [MLEXP 10037177540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 135] [MLEXP 10161207000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 136] [MLEXP 10286101600]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 137] [MLEXP 10411864370]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 138] [MLEXP 10538498340]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 139] [MLEXP 10666006540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 140] [MLEXP 10794392000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 141] [MLEXP 10923657750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 142] [MLEXP 11053806820]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 143] [MLEXP 11184842240]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 144] [MLEXP 11316767040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 145] [MLEXP 11449584250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 146] [MLEXP 11583296900]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 147] [MLEXP 11717908020]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 148] [MLEXP 11853420640]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 149] [MLEXP 11989837790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 150] [MLEXP 12127162500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 151] [MLEXP 12265397800]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 152] [MLEXP 12404546720]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 153] [MLEXP 12544612290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 154] [MLEXP 12685597540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 155] [MLEXP 12827505500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 156] [MLEXP 12970339200]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 157] [MLEXP 13114101670]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 158] [MLEXP 13258795940]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 159] [MLEXP 13404425040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 160] [MLEXP 13550992000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 161] [MLEXP 13698499850]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 162] [MLEXP 13846951620]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 163] [MLEXP 13996350340]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 164] [MLEXP 14146699040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 165] [MLEXP 14298000750]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 166] [MLEXP 14450258500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 167] [MLEXP 14603475320]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 168] [MLEXP 14757654240]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 169] [MLEXP 14912798290]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 170] [MLEXP 15068910500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 171] [MLEXP 15225993900]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 172] [MLEXP 15384051520]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 173] [MLEXP 15543086390]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 174] [MLEXP 15703101540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 175] [MLEXP 15864100000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 176] [MLEXP 16026084800]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 177] [MLEXP 16189058970]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 178] [MLEXP 16353025540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 179] [MLEXP 16517987540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 180] [MLEXP 16683948000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 181] [MLEXP 16850909950]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 182] [MLEXP 17018876420]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 183] [MLEXP 17187850440]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 184] [MLEXP 17357835040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 185] [MLEXP 17528833250]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 186] [MLEXP 17700848100]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 187] [MLEXP 17873882620]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 188] [MLEXP 18047939840]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 189] [MLEXP 18223022790]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 190] [MLEXP 18399134500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 191] [MLEXP 18576278000]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 192] [MLEXP 18754456320]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 193] [MLEXP 18933672490]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 194] [MLEXP 19113929540]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 195] [MLEXP 19295230500]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 196] [MLEXP 19477578400]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 197] [MLEXP 19660976270]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 198] [MLEXP 19845427140]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 199] [MLEXP 20030934040]
+[21:18:52] [MASTER EXP] [MASTERLEVEL 200] [MLEXP 20217500000]
+[21:18:52] Master exp setting exp table is completed
+[21:18:52] [Shops] Loaded 34 shops
+[21:18:52] [Invalid Location]: MAP: 1 X: 255 Y: 79 POSTABNUM: 590
+[21:18:52] error: Monster location setting error user.cpp 3619
+[21:18:52] error-L2: 590 class : 0
+[21:18:52] [Invalid Location]: MAP: 7 X: 252 Y: 50 POSTABNUM: 2393
+[21:18:52] error: Monster location setting error user.cpp 3619
+[21:18:52] error-L2: 2393 class : 0
+[21:18:52] [Invalid Location]: MAP: 7 X: 10 Y: 52 POSTABNUM: 2424
+[21:18:52] error: Monster location setting error user.cpp 3619
+[21:18:52] error-L2: 2424 class : 0
+[21:18:52] SkyLand Boss Shield Setting!!
+[21:18:52] SkyLand Boss Monster Setting!!
+[21:18:53] [DevilSquare] Close
+[21:18:53] [Devil Square] Sync Open Time. [42]min remain
+[21:18:53] [Blood Castle] (1) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (1) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (1) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (1) SetState CLOSED
+[21:18:53] [Blood Castle] (2) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (2) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (2) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (2) SetState CLOSED
+[21:18:53] [Blood Castle] (3) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (3) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (3) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (3) SetState CLOSED
+[21:18:53] [Blood Castle] (4) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (4) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (4) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (4) SetState CLOSED
+[21:18:53] [Blood Castle] (5) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (5) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (5) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (5) SetState CLOSED
+[21:18:53] [Blood Castle] (6) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (6) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (6) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (6) SetState CLOSED
+[21:18:53] [Blood Castle] (7) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (7) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (7) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (7) SetState CLOSED
+[21:18:53] [Blood Castle] (8) Perform to Delete Monsters (ClearDoor:1)
+[21:18:53] [Blood Castle] (8) Deleted Monsters (Count:0)
+[21:18:53] [Blood Castle] (8) Sync Open Time. [71] min remain
+[21:18:53] [Blood Castle] (8) SetState CLOSED
+[21:18:53] [Chaos Castle] (1) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (1) SetState CLOSED
+[21:18:53] [Chaos Castle] (2) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (2) SetState CLOSED
+[21:18:53] [Chaos Castle] (3) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (3) SetState CLOSED
+[21:18:53] [Chaos Castle] (4) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (4) SetState CLOSED
+[21:18:53] [Chaos Castle] (5) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (5) SetState CLOSED
+[21:18:53] [Chaos Castle] (6) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (6) SetState CLOSED
+[21:18:53] [Chaos Castle] (7) Sync Start Time. [101] min remain (START HOUR:23, MIN:0)
+[21:18:53] [Chaos Castle] (7) SetState CLOSED
+[21:18:53] [Illusion Temple] (1) Sync Open Time. [102]min remain
+[21:18:53] [Illusion Temple] (2) Sync Open Time. [102]min remain
+[21:18:53] [Illusion Temple] (3) Sync Open Time. [102]min remain
+[21:18:53] [Illusion Temple] (4) Sync Open Time. [102]min remain
+[21:18:53] [Illusion Temple] (5) Sync Open Time. [102]min remain
+[21:18:53] [Illusion Temple] (6) Sync Open Time. [102]min remain
+[21:18:53] Load Doppelganger EventInfo : ..\IGCData\\Events\DoppelGanger\IGC_DoppelGanger_EventInfo.dat
+[21:18:53] [Doppelganger] State NONE
+[21:18:53] [gObjMagicAdd] (SM_Helper) 1 - Skill:16, Level:0
+[21:18:53] [gObjMagicAdd] (SM_Helper) 2 - Skill:267, Level:0
+[21:18:53] [gObjMagicAdd] (SM_Helper) 3 - Skill:268, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (SM_Helper) 4 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5099 ID:0 (0/122/114)
+[21:18:53] [gObjMagicAdd] (BK_Helper) 1 - Skill:48, Level:0
+[21:18:53] [gObjMagicAdd] (BK_Helper) 2 - Skill:267, Level:0
+[21:18:53] [gObjMagicAdd] (BK_Helper) 3 - Skill:268, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (BK_Helper) 4 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5100 ID:1 (0/124/145)
+[21:18:53] [gObjMagicAdd] (ELF_Helper) 1 - Skill:26, Level:0
+[21:18:53] [gObjMagicAdd] (ELF_Helper) 2 - Skill:27, Level:0
+[21:18:53] [gObjMagicAdd] (ELF_Helper) 3 - Skill:28, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (ELF_Helper) 4 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5101 ID:2 (3/170/109)
+[21:18:53] [gObjMagicAdd] (MG_Helper) 1 - Skill:27, Level:0
+[21:18:53] [gObjMagicAdd] (MG_Helper) 2 - Skill:28, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (MG_Helper) 3 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5102 ID:3 (0/149/116)
+[21:18:53] [gObjMagicAdd] (DL_Helper) 1 - Skill:64, Level:0
+[21:18:53] [gObjMagicAdd] (DL_Helper) 2 - Skill:267, Level:0
+[21:18:53] [gObjMagicAdd] (DL_Helper) 3 - Skill:268, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (DL_Helper) 4 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5103 ID:4 (0/130/127)
+[21:18:53] [gObjMagicAdd] (SUM_Helper) 1 - Skill:217, Level:0
+[21:18:53] [gObjMagicAdd] (SUM_Helper) 2 - Skill:218, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (SUM_Helper) 3 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5104 ID:5 (51/27/235)
+[21:18:53] [gObjMagicAdd] (VIP_Helper) 1 - Skill:266, Level:0
+[21:18:53] [gObjMagicAdd] (VIP_Helper) 2 - Skill:267, Level:0
+[21:18:53] [gObjMagicAdd] (VIP_Helper) 3 - Skill:268, Level:0
+[21:18:53] Skill limit error : (MagicDamage.cpp 663), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 973), SkillID: 8123
+[21:18:53] Skill limit error : (MagicDamage.cpp 573), SkillID: 8123
+[21:18:53] [gObjMagicAdd] (VIP_Helper) 4 - Skill:8123, Level:0
+[21:18:53] [Bot] SetBot Index:5105 ID:6 (2/209/60)
+[21:18:53] [Shops] Spawn Shop NPC (Index:5106) [MAP:0][X:116][Y:141][NPCID:251][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5107) [MAP:0][X:123][Y:135][NPCID:255][DIR:1]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5108) [MAP:0][X:118][Y:113][NPCID:254][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5109) [MAP:0][X:183][Y:137][NPCID:250][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5110) [MAP:0][X:6][Y:145][NPCID:248][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5111) [MAP:0][X:127][Y:86][NPCID:253][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5112) [MAP:2][X:226][Y:25][NPCID:244][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5113) [MAP:2][X:225][Y:41][NPCID:245][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5114) [MAP:2][X:186][Y:47][NPCID:246][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5115) [MAP:3][X:195][Y:124][NPCID:243][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5116) [MAP:3][X:173][Y:125][NPCID:242][DIR:1]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5117) [MAP:0][X:62][Y:130][NPCID:230][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5118) [MAP:2][X:8][Y:77][NPCID:231][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5119) [MAP:2][X:32][Y:31][NPCID:379][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5120) [MAP:51][X:44][Y:229][NPCID:415][DIR:1]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5121) [MAP:51][X:29][Y:236][NPCID:416][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5122) [MAP:51][X:36][Y:219][NPCID:417][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5123) [MAP:51][X:22][Y:225][NPCID:492][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5124) [MAP:80][X:121][Y:102][NPCID:577][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5125) [MAP:80][X:117][Y:126][NPCID:578][DIR:3]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5126) [MAP:91][X:55][Y:195][NPCID:583][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5127) [MAP:92][X:56][Y:202][NPCID:604][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5128) [MAP:24][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5129) [MAP:25][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5130) [MAP:26][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5131) [MAP:27][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5132) [MAP:28][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5133) [MAP:29][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5134) [MAP:36][X:7][Y:19][NPCID:259][DIR:2]
+[21:18:53] [Shops] Spawn Shop NPC (Index:5135) [MAP:6][X:72][Y:164][NPCID:239][DIR:1]
+[21:18:53] Total count of loaded IPs: 1
+[21:18:53] [ RAKLION ] State(0) -> END
+[21:18:53] [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+[21:18:53] [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+[21:18:53] Silver Edition Active
+[21:18:53] Version: Season 6 EP3

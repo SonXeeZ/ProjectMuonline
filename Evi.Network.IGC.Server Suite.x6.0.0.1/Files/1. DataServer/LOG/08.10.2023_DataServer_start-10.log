@@ -1,0 +1,27 @@
+[21:18:49] Initializing...
+[21:18:49] DataServer(e) version: 6.0.0.0 Compiled at: Oct 23 2017 01:51:42
+[21:18:49] ./IGC_AllowedIPList.xml File Loaded successfuly
+[21:18:49] IP Address 127.0.0.1 valid, no resolving required
+[21:18:49] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 23)
+[21:18:49] [DataServer] ItemCount: 31
+[21:18:49] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[21:18:49] [SUCCESS] - EXDATASERVER CONNECT MSSQL SUCCESS
+[21:18:49] [MuOnlineDB] GuildData Loaded in 31 msec
+[21:18:49] [SUCCESS] - FRIEND DB CONNECT MSSQL SUCCESS
+[21:18:49] [Gens System] Initializing Gens...
+[21:18:49] [ GensRanking ] - ..\\IGCData\\Gens\\IGC_GensRanking.dat file is Loaded
+[21:18:50] [Gens System] Current Month: 10
+[21:18:50] [Gens System] Ranking Making [START]
+[21:18:50] [Gens System] (D:0.000000) VS (V:0.000000)
+[21:18:50] [Gens System] Ranking Making [END]
+[21:18:50] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[21:18:50] [IOCP] Using normal functionality
+[21:18:50] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[21:18:50] [WARNING]: IOCP Thread Handles set to 16
+[21:18:50] bind error : eDataServer can't be launched twice
+[21:18:50] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[21:18:50] [WARNING]: IOCP Thread Handles set to 16
+[21:18:50] bind error : eDataServer can't be launched twice
+[21:18:50] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[21:18:50] [WARNING]: IOCP Thread Handles set to 16
+[21:18:50] bind error : eDataServer can't be launched twice

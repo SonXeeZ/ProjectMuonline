@@ -1,0 +1,289 @@
+[21:21:51] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[21:21:51] SELECT * FROM Guild
+[21:21:51] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
+[21:21:51] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
+[21:21:51] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
+[21:21:51] EXEC IGC_DeleteAllPartyMatchingList
+[21:21:55] SELECT * FROM DefaultClassType
+[21:21:56] EXEC IGC_ArcaBattleWinGuildSelect
+[21:21:56] EXEC IGC_ArcaBattleProcSelect
+[21:21:57] SELECT * FROM DefaultClassType
+[21:21:58] EXEC IGC_ArcaBattleWinGuildSelect
+[21:21:58] EXEC IGC_ArcaBattleProcSelect
+[21:21:58] EXEC WZ_CS_GetCastleTotalInfo 1, 14
+[21:21:58] EXEC WZ_CS_GetCastleNpcInfo 1
+[21:21:58] EXEC WZ_CW_InfoLoad 1
+[21:21:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:21:58] EXEC WZ_CS_ReqNpcBuy 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
+[21:21:58] EXEC WZ_CS_ResetCastleSiege 1
+[21:21:59] SELECT * FROM DefaultClassType
+[21:26:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:26:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
+[21:30:47] SELECT * FROM MEMB_INFO WHERE memb___id='SonXeeZ'
+[21:30:47] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '5C52-59F4-89E2-9941-2BDB'
+[21:30:47] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','192.168.1.68', GETDATE(), 'Connect', '5C52-59F4-89E2-9941-2BDB')
+[21:30:47] EXEC WZ_CONNECT_MEMB 'SonXeeZ','MuBrothers','192.168.1.68'
+[21:30:47] EXEC VIPSystem_CheckAccount 'SonXeeZ'
+[21:30:48] SELECT Id FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:30:48] SELECT * FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:30:48] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:30:48] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='Gyerteeek'
+[21:30:48] SELECT Inventory FROM Character WHERE Name='Gyerteeek'
+[21:30:48] SELECT RESETS FROM Character WHERE Name='Gyerteeek'
+[21:30:48] SELECT G_Status FROM GuildMember WHERE Name='Gyerteeek'
+[21:30:49] SELECT * FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:30:49] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:30:49] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='Gyerteeek' AND AccountID='SonXeeZ'
+[21:30:49] SELECT Inventory from Character where Name='Gyerteeek'
+[21:30:49] SELECT MagicList from Character where Name='Gyerteeek'
+[21:30:49] SELECT Quest from Character where Name='Gyerteeek'
+[21:30:49] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='Gyerteeek'
+[21:30:49] UPDATE AccountCharacter SET GameIDC='Gyerteeek' WHERE Id='SonXeeZ'
+[21:30:49] SELECT * FROM OptionData WHERE Name='Gyerteeek'
+[21:30:49] SELECT MuBotData FROM Character WHERE Name = 'Gyerteeek'
+[21:30:49] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'SonXeeZ'
+[21:30:49] EXEC IGC_QuestExpUserInfoLoad_Fir 'Gyerteeek'
+[21:30:49] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Gyerteeek'
+[21:30:49] EXEC WZ_UserGuidCreate 'Gyerteeek'
+[21:30:49] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Gyerteeek'
+[21:30:49] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[21:30:49] SELECT FriendName FROM T_WaitFriend where GUID=1
+[21:30:49] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[21:30:49] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'Gyerteeek'
+[21:30:49] SELECT * FROM PetWarehouse WHERE Name= 'Gyerteeek'
+[21:30:49] EXEC IGC_GensLoad 'Gyerteeek'
+[21:30:49] INSERT INTO PetWarehouse (AccountID,Name,DbVersion,SubEquip) VALUES ('SonXeeZ', 'Gyerteeek','3','0')
+[21:30:49] UPDATE PetWarehouse SET Items=? WHERE Name='Gyerteeek'
+[21:30:49] EXEC IGC_PeriodItemExpiredItemSelectEx 2, 'Gyerteeek'
+[21:30:49] EXEC IGC_GensAbuseLoad 'Gyerteeek'
+[21:30:49] EXEC IGC_PeriodItemSelectEx 2, 'Gyerteeek'
+[21:30:49] EXEC IGC_LuckyItemSelect 'Gyerteeek'
+[21:30:49] EXEC IGC_PeriodBuffSelect 'Gyerteeek'
+[21:30:49] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='Gyerteeek'
+[21:30:49] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 0
+[21:30:49] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 1
+[21:30:49] EXEC IGC_MineSystem_Select_UPTUserInfo 'Gyerteeek'
+[21:31:27] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','', GETDATE(), 'Disconnect', 'N/A')
+[21:31:27] UPDATE Character SET cLevel=400, mLevel=0, Class=0,LevelUpPoint=0, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=18, Dexterity=18, Vitality=15, Energy=30, Money=0, Life=60.000000, MaxLife=459.000000, Mana=439.000000, MaxMana=858.000000, MapNumber=0, MapPosX=147, MapPosY=128, MapDir=3, PkCount=0, PkLevel=2, PkTime=56, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0, ExGameServerCode=65535 WHERE Name = 'Gyerteeek'
+[21:31:27] EXEC IGC_DeleteWaitPartyMatchingList 'Gyerteeek'
+[21:31:27] EXEC WZ_DISCONNECT_MEMB 'SonXeeZ'
+[21:31:27] UPDATE Character SET Inventory=? WHERE Name='Gyerteeek'
+[21:31:27] UPDATE Character SET MagicList=? WHERE Name='Gyerteeek'
+[21:31:27] UPDATE Character SET Quest=? WHERE Name='Gyerteeek'
+[21:31:27] UPDATE PetWarehouse SET Items=? WHERE Name='Gyerteeek'
+[21:31:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:31:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
+[21:32:39] SELECT * FROM MEMB_INFO WHERE memb___id='SonXeeZ'
+[21:32:39] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '5C52-59F4-89E2-9941-2BDB'
+[21:32:39] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','192.168.1.68', GETDATE(), 'Connect', '5C52-59F4-89E2-9941-2BDB')
+[21:32:39] EXEC WZ_CONNECT_MEMB 'SonXeeZ','MuBrothers','192.168.1.68'
+[21:32:39] EXEC VIPSystem_CheckAccount 'SonXeeZ'
+[21:32:39] SELECT Id FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:32:39] SELECT * FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:32:39] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:32:39] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='Gyerteeek'
+[21:32:39] SELECT Inventory FROM Character WHERE Name='Gyerteeek'
+[21:32:39] SELECT RESETS FROM Character WHERE Name='Gyerteeek'
+[21:32:39] SELECT G_Status FROM GuildMember WHERE Name='Gyerteeek'
+[21:32:41] SELECT * FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:32:41] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:32:41] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='Gyerteeek' AND AccountID='SonXeeZ'
+[21:32:41] SELECT Inventory from Character where Name='Gyerteeek'
+[21:32:41] SELECT MagicList from Character where Name='Gyerteeek'
+[21:32:41] SELECT Quest from Character where Name='Gyerteeek'
+[21:32:41] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='Gyerteeek'
+[21:32:41] UPDATE AccountCharacter SET GameIDC='Gyerteeek' WHERE Id='SonXeeZ'
+[21:32:41] SELECT * FROM OptionData WHERE Name='Gyerteeek'
+[21:32:41] SELECT MuBotData FROM Character WHERE Name = 'Gyerteeek'
+[21:32:41] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'SonXeeZ'
+[21:32:41] EXEC IGC_QuestExpUserInfoLoad_Fir 'Gyerteeek'
+[21:32:41] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Gyerteeek'
+[21:32:41] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[21:32:41] SELECT FriendName FROM T_WaitFriend where GUID=1
+[21:32:41] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[21:32:41] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'Gyerteeek'
+[21:32:41] EXEC IGC_GensLoad 'Gyerteeek'
+[21:32:41] SELECT * FROM PetWarehouse WHERE Name= 'Gyerteeek'
+[21:32:41] SELECT Items from PetWarehouse WHERE Name= 'Gyerteeek'
+[21:32:41] EXEC IGC_GensAbuseLoad 'Gyerteeek'
+[21:32:41] EXEC IGC_PeriodItemExpiredItemSelectEx 2, 'Gyerteeek'
+[21:32:41] EXEC IGC_PeriodItemSelectEx 2, 'Gyerteeek'
+[21:32:41] EXEC IGC_LuckyItemSelect 'Gyerteeek'
+[21:32:41] EXEC IGC_PeriodBuffSelect 'Gyerteeek'
+[21:32:41] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='Gyerteeek'
+[21:32:41] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 0
+[21:32:41] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 1
+[21:32:41] EXEC IGC_MineSystem_Select_UPTUserInfo 'Gyerteeek'
+[21:32:52] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'SonXeeZ'
+[21:32:52] EXEC WZ_IBS_GetItemsList 'SonXeeZ', 1
+[21:33:11] SELECT Name FROM OptionData WHERE Name='Gyerteeek'
+[21:33:11] INSERT INTO OptionData (Name, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, QWERLevel, EnableChangeMode) VALUES ('Gyerteeek', 9, 0, 0, 0, 38, 0, 55337, 0)
+[21:33:11] UPDATE OptionData SET SkillKey=? where Name='Gyerteeek'
+[21:33:12] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','', GETDATE(), 'Disconnect', 'N/A')
+[21:33:12] UPDATE Character SET cLevel=400, mLevel=0, Class=0,LevelUpPoint=0, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=18, Dexterity=18, Vitality=15, Energy=30, Money=0, Life=60.000000, MaxLife=459.000000, Mana=756.000000, MaxMana=858.000000, MapNumber=0, MapPosX=131, MapPosY=134, MapDir=3, PkCount=0, PkLevel=2, PkTime=101, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0, ExGameServerCode=65535 WHERE Name = 'Gyerteeek'
+[21:33:12] EXEC IGC_DeleteWaitPartyMatchingList 'Gyerteeek'
+[21:33:12] EXEC WZ_DISCONNECT_MEMB 'SonXeeZ'
+[21:33:12] UPDATE Character SET Inventory=? WHERE Name='Gyerteeek'
+[21:33:12] UPDATE Character SET MagicList=? WHERE Name='Gyerteeek'
+[21:33:12] UPDATE Character SET Quest=? WHERE Name='Gyerteeek'
+[21:33:12] UPDATE PetWarehouse SET Items=? WHERE Name='Gyerteeek'
+[21:36:39] SELECT * FROM MEMB_INFO WHERE memb___id='SonXeeZ'
+[21:36:39] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '5C52-59F4-89E2-9941-2BDB'
+[21:36:39] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','192.168.1.68', GETDATE(), 'Connect', '5C52-59F4-89E2-9941-2BDB')
+[21:36:39] EXEC WZ_CONNECT_MEMB 'SonXeeZ','MuBrothers','192.168.1.68'
+[21:36:39] EXEC VIPSystem_CheckAccount 'SonXeeZ'
+[21:36:39] SELECT Id FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:36:39] SELECT * FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:36:39] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:36:39] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='Gyerteeek'
+[21:36:39] SELECT Inventory FROM Character WHERE Name='Gyerteeek'
+[21:36:39] SELECT RESETS FROM Character WHERE Name='Gyerteeek'
+[21:36:39] SELECT G_Status FROM GuildMember WHERE Name='Gyerteeek'
+[21:36:41] SELECT * FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:36:41] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:36:41] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='Gyerteeek' AND AccountID='SonXeeZ'
+[21:36:41] SELECT Inventory from Character where Name='Gyerteeek'
+[21:36:41] SELECT MagicList from Character where Name='Gyerteeek'
+[21:36:41] SELECT Quest from Character where Name='Gyerteeek'
+[21:36:41] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='Gyerteeek'
+[21:36:41] UPDATE AccountCharacter SET GameIDC='Gyerteeek' WHERE Id='SonXeeZ'
+[21:36:41] SELECT * FROM OptionData WHERE Name='Gyerteeek'
+[21:36:41] SELECT SkillKey from OptionData where Name='Gyerteeek'
+[21:36:41] SELECT MuBotData FROM Character WHERE Name = 'Gyerteeek'
+[21:36:41] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'SonXeeZ'
+[21:36:41] EXEC IGC_QuestExpUserInfoLoad_Fir 'Gyerteeek'
+[21:36:41] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Gyerteeek'
+[21:36:41] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[21:36:41] SELECT FriendName FROM T_WaitFriend where GUID=1
+[21:36:41] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[21:36:41] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'Gyerteeek'
+[21:36:41] SELECT * FROM PetWarehouse WHERE Name= 'Gyerteeek'
+[21:36:41] EXEC IGC_GensLoad 'Gyerteeek'
+[21:36:41] SELECT Items from PetWarehouse WHERE Name= 'Gyerteeek'
+[21:36:41] EXEC IGC_GensAbuseLoad 'Gyerteeek'
+[21:36:41] EXEC IGC_PeriodItemExpiredItemSelectEx 2, 'Gyerteeek'
+[21:36:41] EXEC IGC_PeriodItemSelectEx 2, 'Gyerteeek'
+[21:36:41] EXEC IGC_LuckyItemSelect 'Gyerteeek'
+[21:36:41] EXEC IGC_PeriodBuffSelect 'Gyerteeek'
+[21:36:41] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='Gyerteeek'
+[21:36:41] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 0
+[21:36:41] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 1
+[21:36:41] EXEC IGC_MineSystem_Select_UPTUserInfo 'Gyerteeek'
+[21:36:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:36:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
+[21:37:04] EXEC IGC_DeleteWaitPartyMatchingList 'Gyerteeek'
+[21:37:04] UPDATE Character SET cLevel=400, mLevel=0, Class=0,LevelUpPoint=0, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=18, Dexterity=18, Vitality=15, Energy=30, Money=0, Life=60.000000, MaxLife=459.000000, Mana=858.000000, MaxMana=858.000000, MapNumber=0, MapPosX=131, MapPosY=135, MapDir=5, PkCount=0, PkLevel=2, PkTime=134, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0, ExGameServerCode=65535 WHERE Name = 'Gyerteeek'
+[21:37:04] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','', GETDATE(), 'Disconnect', 'N/A')
+[21:37:04] EXEC WZ_DISCONNECT_MEMB 'SonXeeZ'
+[21:37:04] UPDATE Character SET Inventory=? WHERE Name='Gyerteeek'
+[21:37:04] UPDATE Character SET MagicList=? WHERE Name='Gyerteeek'
+[21:37:04] UPDATE Character SET Quest=? WHERE Name='Gyerteeek'
+[21:37:04] UPDATE PetWarehouse SET Items=? WHERE Name='Gyerteeek'
+[21:37:35] SELECT * FROM MEMB_INFO WHERE memb___id='SonXeeZ'
+[21:37:35] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '5C52-59F4-89E2-9941-2BDB'
+[21:37:35] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','192.168.1.68', GETDATE(), 'Connect', '5C52-59F4-89E2-9941-2BDB')
+[21:37:35] EXEC WZ_CONNECT_MEMB 'SonXeeZ','MuBrothers','192.168.1.68'
+[21:37:35] EXEC VIPSystem_CheckAccount 'SonXeeZ'
+[21:37:35] SELECT Id FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:37:35] SELECT * FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:37:35] SELECT WarehouseExpansion, Summoner, RageFighter, SecCode FROM AccountCharacter WHERE Id='SonXeeZ'
+[21:37:35] SELECT cLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='Gyerteeek'
+[21:37:35] SELECT Inventory FROM Character WHERE Name='Gyerteeek'
+[21:37:35] SELECT RESETS FROM Character WHERE Name='Gyerteeek'
+[21:37:35] SELECT G_Status FROM GuildMember WHERE Name='Gyerteeek'
+[21:37:39] SELECT * FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:37:39] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'SonXeeZ'
+[21:37:39] SELECT cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, FruitPoint, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask FROM Character WHERE Name='Gyerteeek' AND AccountID='SonXeeZ'
+[21:37:39] SELECT Inventory from Character where Name='Gyerteeek'
+[21:37:39] SELECT MagicList from Character where Name='Gyerteeek'
+[21:37:39] SELECT Quest from Character where Name='Gyerteeek'
+[21:37:39] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='Gyerteeek'
+[21:37:39] UPDATE AccountCharacter SET GameIDC='Gyerteeek' WHERE Id='SonXeeZ'
+[21:37:39] SELECT * FROM OptionData WHERE Name='Gyerteeek'
+[21:37:39] SELECT SkillKey from OptionData where Name='Gyerteeek'
+[21:37:39] SELECT MuBotData FROM Character WHERE Name = 'Gyerteeek'
+[21:37:39] EXEC IGC_QuestExpUserInfoLoad_Fir 'Gyerteeek'
+[21:37:39] SELECT WCoinP, WCoinC, GoblinPoint FROM T_InGameShop_Point WHERE AccountID = 'SonXeeZ'
+[21:37:39] SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Gyerteeek'
+[21:37:39] SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1
+[21:37:39] SELECT FriendName FROM T_WaitFriend where GUID=1
+[21:37:39] SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=1
+[21:37:39] EXEC IGC_GetGuildMatchingAcceptNRejectInfo 'Gyerteeek'
+[21:37:39] SELECT * FROM PetWarehouse WHERE Name= 'Gyerteeek'
+[21:37:39] EXEC IGC_GensLoad 'Gyerteeek'
+[21:37:39] SELECT Items from PetWarehouse WHERE Name= 'Gyerteeek'
+[21:37:39] EXEC IGC_GensAbuseLoad 'Gyerteeek'
+[21:37:39] EXEC IGC_PeriodItemExpiredItemSelectEx 2, 'Gyerteeek'
+[21:37:39] EXEC IGC_PeriodItemSelectEx 2, 'Gyerteeek'
+[21:37:39] EXEC IGC_LuckyItemSelect 'Gyerteeek'
+[21:37:39] EXEC IGC_PeriodBuffSelect 'Gyerteeek'
+[21:37:39] SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='Gyerteeek'
+[21:37:39] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 0
+[21:37:39] EXEC IGC_PentagramInfoSelect 2, 'SonXeeZ', 'Gyerteeek', 1
+[21:37:39] EXEC IGC_MineSystem_Select_UPTUserInfo 'Gyerteeek'
+[21:38:19] EXEC IGC_DeleteWaitPartyMatchingList 'Gyerteeek'
+[21:38:19] UPDATE Character SET cLevel=400, mLevel=0, Class=0,LevelUpPoint=0, mlPoint=0, Experience=3892250000, mlExperience=0, mlNextExp=35507050, Strength=18, Dexterity=18, Vitality=15, Energy=30, Money=0, Life=60.000000, MaxLife=459.000000, Mana=858.000000, MaxMana=858.000000, MapNumber=0, MapPosX=133, MapPosY=129, MapDir=5, PkCount=0, PkLevel=2, PkTime=192, Leadership=0, ChatLimitTime=0, FruitPoint=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0, ExGameServerCode=65535 WHERE Name = 'Gyerteeek'
+[21:38:19] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('SonXeeZ','MuBrothers','', GETDATE(), 'Disconnect', 'N/A')
+[21:38:19] EXEC WZ_DISCONNECT_MEMB 'SonXeeZ'
+[21:38:19] UPDATE Character SET Inventory=? WHERE Name='Gyerteeek'
+[21:38:19] UPDATE Character SET MagicList=? WHERE Name='Gyerteeek'
+[21:38:19] UPDATE Character SET Quest=? WHERE Name='Gyerteeek'
+[21:38:19] UPDATE PetWarehouse SET Items=? WHERE Name='Gyerteeek'
+[21:41:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:41:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
+[21:46:58] DELETE FROM MuCastle_NPC WHERE MAP_SVR_GROUP = 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 1, 0, 0, 1500000, 1500000, 94, 227, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 2, 0, 0, 1500000, 1500000, 94, 182, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 3, 0, 0, 1500000, 1500000, 82, 130, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 283, 4, 0, 0, 1500000, 1500000, 107, 130, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 1, 0, 0, 1900000, 1900000, 93, 204, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 2, 0, 0, 1900000, 1900000, 81, 161, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 3, 0, 0, 1900000, 1900000, 107, 161, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 4, 0, 0, 1900000, 1900000, 67, 114, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 5, 0, 0, 1900000, 1900000, 93, 114, 1
+[21:46:58] EXEC WZ_CS_ReqNpcUpdate 1, 277, 6, 0, 0, 1900000, 1900000, 119, 114, 1
