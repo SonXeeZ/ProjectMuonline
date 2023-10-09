@@ -1,5 +1,0 @@
-[21:20:03] Initializing...
-[21:20:03] Connect Server version: 6.0.0.0 Compiled at: Oct 23 2017 01:47:56
-[21:20:03] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (192.168.1.68), PORT: (56900), VISIBLE: (1), INDEX: (0)
-[21:20:03] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (192.168.1.68), PORT: (56914), VISIBLE: (0), INDEX: (1)
-[21:20:03] [NOTICE]: IOCP Thread Handles set to 16

@@ -1,6 +1,0 @@
-[20:27:03] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
-[20:27:03] SELECT * FROM Guild
-[20:27:03] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
-[20:27:03] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
-[20:27:03] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
-[20:27:03] EXEC IGC_DeleteAllPartyMatchingList
