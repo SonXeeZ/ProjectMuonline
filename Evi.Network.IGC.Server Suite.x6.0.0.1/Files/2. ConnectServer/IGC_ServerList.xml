@@ -22,6 +22,6 @@
 -->
 
 <ServerList>
-	<Server Code="0"  IP="25.13.9.109" Port="56900" Visible="1" Name="Regular" />
-	<Server Code="14" IP="25.13.9.109" Port="56914" Visible="0" Name="Siege" />
+	<Server Code="0"  IP="25.13.48.178" Port="56900" Visible="1" Name="Regular" />
+	<Server Code="14" IP="25.13.48.178" Port="56914" Visible="0" Name="Siege" />
 </ServerList>
