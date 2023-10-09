@@ -19,8 +19,5 @@
 -->
 
 <AllowedIPList>
-	<IP Address="127.0.0.1" /> 
-	<IP Address="79.122.26.50" />
-	<IP Address="192.168.1.68" />
-	<IP Address="25.13.9.109" />
+	<IP Address="127.0.0.1" />
 </AllowedIPList>
