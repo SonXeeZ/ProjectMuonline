@@ -7065,3 +7065,5 @@ end
 	313	34	0	93	195	-1	//Werewolf
 	313	34	0	120	155	-1	//Werewolf
 	313	34	0	105	198	-1	//Werewolf
+end 
+// -- Added by CHRiS 
