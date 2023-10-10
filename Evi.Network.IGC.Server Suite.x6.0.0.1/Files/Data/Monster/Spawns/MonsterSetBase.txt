@@ -1829,12 +1829,17 @@ end
 	73	10	0	36	71	36	71	1	10	//Drakan
 	73	10	0	51	72	51	72	1	10	//Drakan
 	69	10	0	47	36	47	36	1	10	//Alquamos
-	69	10	0	17	37	17	37	1	10	//Alquamos
+	69	10	0	12	38	12	38	1	10	//Alquamos
+	69	10	0	27	35	27	35	1	10	//Alquamos
+	69	10	0	38	35	38	35	1	10	//Alquamos
+	69	10	0	70	35	70	35	1	10	//Alquamos
 	75	10	0	48	235	48	235	1	10	//Giant Drakan
 	69	10	0	55	35	55	35	1	10	//Alquamos
 	71	10	0	94	57	94	57	1	10	//Mega Crust
 	71	10	0	95	39	95	39	1	10	//Mega Crust
 	71	10	0	88	33	88	33	1	10	//Mega Crust
+	71	10	0	88	33	88	33	1	10	//Mega Crust
+	71	10	0	69	26	69	26	1	10	//Mega Crust
 	72	10	0	60	180	60	180	1	10	//Phantom Knight
 	72	10	0	60	160	60	160	1	10	//Phantom Knight
 	72	10	0	45	179	45	179	1	10	//Phantom Knight
