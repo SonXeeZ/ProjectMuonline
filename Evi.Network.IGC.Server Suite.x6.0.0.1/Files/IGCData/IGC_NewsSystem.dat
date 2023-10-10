@@ -14,8 +14,9 @@
 // -------------------------------- LINE NUMBER must be 0 (1), 1 (2), 2 (3) ----------------------------------
 0 // DO NOT REMOVE SECTION NUMBER
 
-	0		0			"WELCOME TO"			1			"OUR NEWLY OPENED"		2				"~! SERVER !~"
-	1		0			"REMEMBER TO"			1			"VIST OUR"				2				"FANTASTIC WEBSITE"
+	0		0			"Grand opening"			1			"of Brothers Muonline"		2				"~! 2023.10.11 !~"
+	1		0			"REMEMBER TO"			1			"BUY VIP"					2				"ON WEBSITE!"
+	2		0			"SERVER ADMINISTRATORS"	1			"- HUNSTARR -"				2				"- SONXEEZ -"
 end
 
 // SYNTAX
