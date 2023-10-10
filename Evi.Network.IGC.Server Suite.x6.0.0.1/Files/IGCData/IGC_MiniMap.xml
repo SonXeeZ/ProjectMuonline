@@ -72,6 +72,7 @@
 		<Tag Id="16" MapNumber="0"	NPCIndex="584"	X="114"	Y="132"	 DisplayType="2"  SyncType="1"  Name="Sir Lesnar" />
 		<Tag Id="17" MapNumber="0"	NPCIndex="568"	X="0"	Y="0"	 DisplayType="2"  SyncType="2"  Name="Wandering Merchant Zyro" />
 		<Tag Id="18" MapNumber="0"	NPCIndex="229"	X="137"	Y="87"	 DisplayType="2"  SyncType="2"  Name="Marlon" />
+		<Tag Id="19" MapNumber="0"	NPCIndex="229"	X="186"	Y="132"	 DisplayType="1"  SyncType="1"  Name="Spider" />
 <!-- Devias -->
 		<Tag Id="0"	 MapNumber="2"	NPCIndex="233"	X="209"	Y="30"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
 		<Tag Id="1"	 MapNumber="2"	NPCIndex="235"	X="219"	Y="9"	 DisplayType="2"  SyncType="1"  Name="Messenger of Archangel" />
