@@ -27,7 +27,7 @@
 -->
 
 <WarpSettings>
-	<Warp Index="1"  ServerName="Arena"				  ClientName="Arena"		 MinLevel="200"  MaxLevel="400" ReqMoney="2000"  GateNumber="50" />
+	<Warp Index="1"  ServerName="Arena(PVP)"		  ClientName="Arena(PVP)"	 MinLevel="200"  MaxLevel="400" ReqMoney="2000"  GateNumber="50" />
 	<Warp Index="49" ServerName="Stadium"			  ClientName="Stadium" 		 MinLevel="200"  MaxLevel="400" ReqMoney="2000"  GateNumber="345" />
 	<Warp Index="2"  ServerName="Lorencia"			  ClientName="Lorencia"		 MinLevel="1"  MaxLevel="400" ReqMoney="0"  	GateNumber="17" />
 	<Warp Index="3"  ServerName="Noria"				  ClientName="Noria"		 MinLevel="1"  MaxLevel="400" ReqMoney="0"  	GateNumber="27" />
