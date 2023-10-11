@@ -47,6 +47,7 @@
 	<Shop NPCIndex="251" MapNumber="0"  PosX="116" PosY="141" Dir="3" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="250" MapNumber="0"  PosX="126" PosY="145" Dir="1" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith_RF_SHOP.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="250" MapNumber="0"  PosX="128" PosY="145" Dir="1" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith_MG_SHOP.xml" /> <!-- Lorencia -->
+	<Shop NPCIndex="250" MapNumber="0"  PosX="130" PosY="145" Dir="1" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith_DL_SHOP.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="251" MapNumber="34" PosX="145" PosY="14"  Dir="1" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- CryWolf -->
 	<Shop NPCIndex="255" MapNumber="0"  PosX="123" PosY="135" Dir="1" VipType="0" GMShop="0" FileName="NPC(255)_Lumen_the_Barmaid.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="254" MapNumber="0"  PosX="118" PosY="113" Dir="3" VipType="0" GMShop="0" FileName="NPC(254)_Pasi_the_Mage.xml" /> <!-- Lorencia -->
