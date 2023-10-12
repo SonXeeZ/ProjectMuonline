@@ -1,0 +1,3 @@
+2	224	214	135	"Entrance to Devias"
+2	169	22	225	"Entrance to the Hatchery"
+end

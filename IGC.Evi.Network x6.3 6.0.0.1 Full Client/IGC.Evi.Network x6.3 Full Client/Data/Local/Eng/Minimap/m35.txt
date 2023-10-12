@@ -1,0 +1,10 @@
+1	228	48	0	"Apostle Devin"
+1	62	239	0	"Werewolf Quarel"
+1	135	47	0	"Trainer"
+1	99	40	0	"Wandering Merchant Martin"
+1	96	25	0	"Lahap"
+1	145	14	0	"Hanzo the Blacksmith"
+1	113	56	0	"Safety Guardian"
+1	118	11	0	"Guardsman"
+2	238	42	45	"Entrance to the Valley of Loren"
+end

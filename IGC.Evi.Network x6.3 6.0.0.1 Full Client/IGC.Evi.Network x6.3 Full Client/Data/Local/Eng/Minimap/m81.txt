@@ -1,0 +1,8 @@
+1	121	102	45	"Leina, the General Goods Merchant"
+1	117	126	45	"Weapons Merchant Bolo"
+1	123	132	0	"Safety Guardian"
+1	122	96	45	"Safety Guardian"
+1	158	126	225	"Safety Guardian"
+2	115	45	180	"Entrance to Aida"
+2	187	212	135	"Entrance to Karutan 2"
+end

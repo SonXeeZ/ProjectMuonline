@@ -1,0 +1,9 @@
+2	139	125	135	"Swamp of Peace Hunting Grounds Entrance (1)"
+2	124	109	225	"Swamp of Peace Hunting Grounds Entrance (2)"
+2	140	95	315	"Swamp of Peace Hunting Grounds Entrance (3)"
+2	150	109	45	"Swamp of Peace Hunting Grounds Entrance (4)"
+2	185	188	270	"Entrance to Safe Zone"
+2	56	177	225	"Entrance to Safe Zone"
+2	68	52	90	"Entrance to Safe Zone"
+2	197	13	225	"Entrance to Safe Zone"
+end

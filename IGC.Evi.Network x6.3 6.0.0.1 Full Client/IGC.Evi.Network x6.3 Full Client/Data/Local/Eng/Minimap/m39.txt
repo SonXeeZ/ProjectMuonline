@@ -1,0 +1,3 @@
+2	66	105	225	"Entrance to the Kanturu Ruins"
+2	141	186	135	"Gateway Machine"
+end
