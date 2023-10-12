@@ -22,14 +22,14 @@
 // Gates configuration must much Game Client file \Data\Gate.bmd
 //
 // ~ Note ~ Game Client MoveReq_xxx.bmd must much below configuration and exact order of indexes
-//
+// index 1 = free (it was Arena)
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
 <WarpSettings>
 	<Warp Index="49" ServerName="Stadium"			  ClientName="Stadium" 		 MinLevel="200"	 	  MaxLevel="400" ReqMoney="2000"  GateNumber="345" />
 	<Warp Index="2"  ServerName="Lorencia"			  ClientName="Lorencia"		 MinLevel="1"		MaxLevel="400" ReqMoney="0"  	GateNumber="17" />
-	<Warp Index="3"  ServerName="Noria"				  ClientName="Noria"		 MinLevel="10"	 	MaxLevel="400" ReqMoney="0"  	GateNumber="27" />
+	<Warp Index="3"  ServerName="Noria"				  ClientName="Noria"		 MinLevel="1"	 	MaxLevel="400" ReqMoney="0"  	GateNumber="27" />
 	<Warp Index="31" ServerName="Elbeland"			  ClientName="Elveland"		 MinLevel="1"		MaxLevel="400" ReqMoney="0"  	GateNumber="267" />
 	<Warp Index="32" ServerName="Elbeland2"			  ClientName="Elveland2"	 MinLevel="10"	 	 MaxLevel="400" ReqMoney="1000"  GateNumber="268" />
 	<Warp Index="43" ServerName="Elbeland3"			  ClientName="Elveland3"	 MinLevel="10"	 	 MaxLevel="400" ReqMoney="1000"  GateNumber="269" />
@@ -62,6 +62,7 @@
 	<Warp Index="46" ServerName="Karutan1"			  ClientName="Karutan1"		 MinLevel="170"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="335" />
 	<Warp Index="47" ServerName="Karutan2"			  ClientName="Karutan2"		 MinLevel="170"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="344" />
 	<Warp Index="34" ServerName="LaColen"			  ClientName="LaCleon"		 MinLevel="280"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="287" />
+	<Warp Index="1" ServerName="LaColen2"			  ClientName="LaCleon2"		 MinLevel="280"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="346" />
 	<Warp Index="33" ServerName="Swamp_of_Calmness"	  ClientName="PeaceSwamp"	 MinLevel="400"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="273" />
 	<Warp Index="42" ServerName="Vulcanus"			  ClientName="Vulcanus"		 MinLevel="250"	 	 MaxLevel="400" ReqMoney="15000" GateNumber="294" />
 	<Warp Index="48" ServerName="Crywolf"			  ClientName="Crywolf"		 MinLevel="300"	 	  MaxLevel="400" ReqMoney="15000" GateNumber="118" />

@@ -378,4 +378,5 @@
 	<Gate Index="343" Flag="2" MapNumber="80" StartX="188" StartY="207" EndX="189" EndY="208" Target="0" Direction="1" MinLevel="160" Name="" />
 	<Gate Index="344" Flag="0" MapNumber="81" StartX="162" StartY="16" EndX="163" EndY="17" Target="0" Direction="5" MinLevel="160" Name="" />
 	<Gate Index="345" Flag="0" MapNumber="6" StartX="63" StartY="127" EndX="64" EndY="128" Target="0" Direction="1" MinLevel="0" Name="" />
+	<Gate Index="346" Flag="0" MapNumber="57" StartX="140" StartY="25" EndX="141" EndY="26" Target="0" Direction="0" MinLevel="270" Name="" />
 </GateSettings>
