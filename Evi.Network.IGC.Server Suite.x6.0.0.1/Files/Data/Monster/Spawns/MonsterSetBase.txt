@@ -3459,9 +3459,9 @@ end
 306	33	0	189	98	189	98	-1	10	//Death Rider
 306	33	0	215	85	215	85	-1	10	//Death Rider
 306	33	0	202	72	202	72	-1	10	//Death Rider
-//550	33	0	148	76	148	76	-1	10	//Bad Death Rider
-//550	33	0	115	107	115	107	-1	10	//Bad Death Rider
-//550	33	0	113	102	113	102	-1	10	//Bad Death Rider
+550	33	0	148	76	148	76	-1	10	//Bad Death Rider
+550	33	0	115	107	115	107	-1	10	//Bad Death Rider
+550	33	0	113	102	113	102	-1	10	//Bad Death Rider
 //549	33	0	109	169	109	169	-1	10	//Bad Forest Orc
 //549	33	0	89	157	89	157	-1	10	//Bad Forest Orc
 305	33	0	198	155	198	155	-1	10	//Blue Golem
