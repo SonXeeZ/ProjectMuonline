@@ -742,7 +742,7 @@ end
 35	4	0	6	18	6	18	-1	10	//Death Gorgon
 38	4	0	29	214	29	214	-1	10	//Balrog
 35	4	0	53	92	53	92	-1	10	//Death Gorgon
-39	4	0	166	128	166	128	-1	10	//Poison Shadow
+39	4	0	164 126 164 126	-1	10	//Poison Shadow
 41	4	0	86	134	86	134	-1	10	//Death Cow
 39	4	0	238	241	238	241	-1	10	//Poison Shadow
 36	4	0	219 82 219 82	-1	10	//Shadow
@@ -760,7 +760,7 @@ end
 41	4	0	102	87	102	87	-1	10	//Death Cow
 41	4	0	120	87	120	87	-1	10	//Death Cow
 34	4	0	84	246	84	246	-1	10	//Cursed Wizard
-39	4	0	165	86	165	86	-1	10	//Poison Shadow
+39	4	0	164 86 164 86	-1	10	//Poison Shadow
 39	4	0	206 235 206 235	-1	10	//Poison Shadow
 39	4	0	228	236	228	236	-1	10	//Poison Shadow
 39	4	0	211	213	211	213	-1	10	//Poison Shadow
