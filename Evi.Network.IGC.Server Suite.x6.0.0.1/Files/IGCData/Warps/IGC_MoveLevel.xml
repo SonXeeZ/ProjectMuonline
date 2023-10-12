@@ -25,7 +25,7 @@
 -->
 
 <MoveSettings>
-	<Move Level="0"   MapNumber="0"  StartX="1"   StartY="1"   EndX="255" EndY="255" Name="Lorencia PVP" />
+	<Move Level="0"   MapNumber="0"  StartX="1"   StartY="1"   EndX="255" EndY="255" Name="Lorencia" />
 	<Move Level="15"  MapNumber="2"  StartX="1"   StartY="1"   EndX="255" EndY="255" Name="Devias" />
 	<Move Level="0"   MapNumber="3"  StartX="1"   StartY="1"   EndX="255" EndY="255" Name="Noria" />
 	<Move Level="50"  MapNumber="6"  StartX="1"   StartY="1"   EndX="255" EndY="255" Name="Stadium" />
