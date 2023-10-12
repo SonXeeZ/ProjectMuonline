@@ -208,7 +208,8 @@ end
 	258		0	0	145	140		3		// Leo The Helper - Last Man Standing NPC
 //	248		0	0	6	145		2		// NPC(248)_Wandering_Merchant_Martin (shop managed via IGC_ShopList.xml)
 	249		0	10	131	88		1		// 
-	249		0	20	173	125		3		// 
+	249		0	20	173	125		3		//
+	256		0	0	129	118		2		// Lahap
 	249		0	20	94	130		7		// 
 	249		0	20	94	125		7		// 
 	249		0	30	131	148		1		// 
@@ -219,7 +220,7 @@ end
 //	255		0	0	123	135		1		// NPC(255)_Lumen_the_Barmaid (shop managed via IGC_ShopList.xml)
 	257		0	0	96	129		1		// 
 	375		0	0	132	161		3		// 
-	543		0	0	144	127		2		// 
+	543		0	0	144	127		2		// Gens Dupria Steward
 	547		0	0	139	138		3		// 
 end
 
@@ -272,8 +273,8 @@ end
 	2		0	0	188		155		188		155		-1		10	//Budge Dragon
 	2		0	0	200		144		200		144		-1		10	//Budge Dragon
 	2		0	0	204		139		204		139		-1		10	//Budge Dragon
-	2		0	0	208		130		208		130		-1		5	//Budge Dragon
-	3		0	0	208		130		208		130		-1		5	//Spider
+	2		0	0	208		130		208		130		-1		6	//Budge Dragon MIXED
+	3		0	0	208		130		208		130		-1		6	//Spider MIXED
 	3		0	0	192		137		192		137		-1		10	//Spider
 	4		0	0	142		37		142		37		-1		10	//Elite Bull Fighter
 	4		0	0	132		39		132		39		-1		10	//Elite Bull Fighter
@@ -314,8 +315,8 @@ end
 	14		0	0	144		187		144		187		-1		10	//Skeleton Warrior
 	14		0	0	140		217		140		217		-1		10	//HOT SPOT
 	6		0	0	140		217		140		217		-1		10	//HOT SPOT
-	14		0	0	135		201		135		201		-1		5	//Mix Spot
-	6		0	0	135		201		135		201		-1		5	//Mix Spot
+	14		0	0	135		201		135		201		-1		6	//Mix Spot
+	6		0	0	135		201		135		201		-1		6	//Mix Spot
 	7		0	0	66		132		66		132		-1		10	//Giant
 	7		0	0	60		112		60		112		-1		10	//Giant
 end
@@ -4145,7 +4146,7 @@ end
 	453		51	0	50	243		1		// 
 //	492		51	0	22	225		2		// NPC(492)_Moss (shop managed via IGC_ShopList.xml)
 	579		51	0	20	214		3		// 
-	256		51	0	37	241		1		// 
+	256		51	0	37	241		1		// Lahap
 //	415		51	0	44	229		1		// NPC(415)_Silvia (shop managed via IGC_ShopList.xml)
 //	416		51	0	29	236		2		// NPC(416)_Rhea (shop managed via IGC_ShopList.xml)
 //	417		51	0	36	219		2		// NPC(417)_Marce (shop managed via IGC_ShopList.xml)
