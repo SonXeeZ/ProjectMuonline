@@ -85,7 +85,7 @@
 	<Gate Index="46" Flag="2" MapNumber="7" StartX="14" StartY="12" EndX="15" EndY="13" Target="0" Direction="3" MinLevel="60" Name="" />
 	<Gate Index="47" Flag="1" MapNumber="7" StartX="9" StartY="9" EndX="11" EndY="12" Target="48" Direction="0" MinLevel="60" Name="" />
 	<Gate Index="48" Flag="2" MapNumber="3" StartX="240" StartY="240" EndX="241" EndY="243" Target="0" Direction="7" MinLevel="60" Name="" />
-	<Gate Index="49" Flag="0" MapNumber="7" StartX="61" StartY="132" EndX="64" EndY="127" Target="0" Direction="0" MinLevel="200" Name="" />
+	<Gate Index="49" Flag="0" MapNumber="7" StartX="15" StartY="11" EndX="27" EndY="23" Target="0" Direction="0" MinLevel="60" Name="" />
 	<Gate Index="50" Flag="0" MapNumber="6" StartX="72" StartY="140" EndX="73" EndY="181" Target="0" Direction="0" MinLevel="0" Name="" />
 	<Gate Index="51" Flag="0" MapNumber="6" StartX="59" StartY="153" EndX="59" EndY="153" Target="0" Direction="0" MinLevel="0" Name="" />
 	<Gate Index="52" Flag="0" MapNumber="6" StartX="59" StartY="164" EndX="59" EndY="165" Target="0" Direction="0" MinLevel="0" Name="" />
@@ -377,5 +377,5 @@
 	<Gate Index="342" Flag="1" MapNumber="81" StartX="161" StartY="8" EndX="165" EndY="9" Target="343" Direction="0" MinLevel="160" Name="" />
 	<Gate Index="343" Flag="2" MapNumber="80" StartX="188" StartY="207" EndX="189" EndY="208" Target="0" Direction="1" MinLevel="160" Name="" />
 	<Gate Index="344" Flag="0" MapNumber="81" StartX="162" StartY="16" EndX="163" EndY="17" Target="0" Direction="5" MinLevel="160" Name="" />
-	<Gate Index="345" Flag="0" MapNumber="6" StartX="63" StartY="117" EndX="64" EndY="118" Target="0" Direction="1" MinLevel="0" Name="" />
+	<Gate Index="345" Flag="0" MapNumber="6" StartX="63" StartY="127" EndX="64" EndY="128" Target="0" Direction="1" MinLevel="0" Name="" />
 </GateSettings>
