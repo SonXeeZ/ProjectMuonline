@@ -209,7 +209,7 @@ end
 //	248		0	0	6	145		2		// NPC(248)_Wandering_Merchant_Martin (shop managed via IGC_ShopList.xml)
 	249		0	10	131	88		1		// 
 	249		0	20	173	125		3		//
-	256		0	0	129	118		4		// Lahap
+	256		0	0	129	118		3		// Lahap
 	249		0	20	94	130		7		// 
 	249		0	20	94	125		7		// 
 	249		0	30	131	148		1		// 
