@@ -87,7 +87,7 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Item_Luck_Box" ItemRate="4000" SetItemRate="0" MoneyDrop="1000000" BagUseEffect="-1" BagUseRate="10000" />
+<BagConfig Name="Item_Luck_Box" ItemRate="3000" SetItemRate="0" MoneyDrop="1000000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
 <AddCoin Enable="1" CoinType="2" CoinValue="1" />
 
