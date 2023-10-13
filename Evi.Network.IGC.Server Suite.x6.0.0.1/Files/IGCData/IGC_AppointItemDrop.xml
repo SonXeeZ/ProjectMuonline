@@ -96,7 +96,7 @@
  
 	<ItemDrop>
 		<DropGroup ID="0" Denominator="10000000">
-			<Item Cat="14" Index="176" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" DropRate="5000" />
+			<Item Cat="14" Index="176" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" DropRate="10000000" />
 		</DropGroup>
 		<DropGroup ID="1" Denominator="10000000">
 			<Item Cat="14" Index="179" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" DropRate="5000" />
