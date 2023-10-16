@@ -87,6 +87,7 @@
 
 // ============================================================
 // Death King drop esélyek: | 40% Ring vagy Pet | 60% Jewel bundle |
+// + 5 goblin point.
 // ============================================================
 
 -->
@@ -94,7 +95,7 @@
 <ItemBag>
 <BagConfig Name="Monster_DeathKing" ItemRate="10000" SetItemRate="0" MoneyDrop="5000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
-<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<AddCoin Enable="1" CoinType="2" CoinValue="5" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="4000" Count="1">
