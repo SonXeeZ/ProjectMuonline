@@ -55,7 +55,7 @@
 	<Shop NPCIndex="248" MapNumber="0"  PosX="6"   PosY="145" Dir="2" VipType="0" GMShop="0" FileName="NPC(248)_Wandering_Merchant_Martin.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="253" MapNumber="0"  PosX="127" PosY="86"  Dir="2" VipType="0" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" /> <!-- Lorencia -->
 	<Shop NPCIndex="244" MapNumber="2"  PosX="226" PosY="25"  Dir="3" VipType="0" GMShop="0" FileName="NPC(244)_Caren_the_Barmaid.xml" /> <!-- Devias -->
-	<Shop NPCIndex="245" MapNumber="2"  PosX="225" PosY="41"  Dir="3" VipType="0" GMShop="0" FileName="NPC(245)_Wizard_Izabel.xml" /> <!-- Devias -->
+	<Shop NPCIndex="245" MapNumber="2"  PosX="210" PosY="47"  Dir="3" VipType="0" GMShop="0" FileName="NPC(245)_Wizard_Izabel.xml" /> <!-- Devias -->
 	<Shop NPCIndex="246" MapNumber="2"  PosX="186" PosY="47"  Dir="3" VipType="0" GMShop="0" FileName="NPC(246)_Weapons_Merchant_Zienna.xml" /> <!-- Devias -->
 	<Shop NPCIndex="243" MapNumber="3"  PosX="195" PosY="124" Dir="2" VipType="0" GMShop="0" FileName="NPC(243)_Eo_the_Craftsman.xml" /> <!-- Noria -->
 	<Shop NPCIndex="242" MapNumber="3"  PosX="173" PosY="125" Dir="1" VipType="0" GMShop="0" FileName="NPC(242)_Elf_Lala.xml" /> <!-- Noria -->
