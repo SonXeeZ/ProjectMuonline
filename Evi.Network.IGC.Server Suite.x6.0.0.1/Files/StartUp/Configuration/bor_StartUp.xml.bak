@@ -2,7 +2,7 @@
 <Processes>
   <Process Run="True" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\1. DataServer\IGC.DataServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\2. ConnectServer\IGC.ConnectServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\3. GameServer_Regular\IGC.GameServer_R.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\4. GameServer_Siege\IGC.GameServer_C.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\3. GameServer_Regular\IGC.GameServer_R.exe" Parameters="" />
   <Process Run="False" Delay="1000" Path="E:\ProjectMuonline\Evi.Network.IGC.Server Suite.x6.0.0.1\Files\5. GameServer_Normal+CS\IGC.GameServer_U.exe" Parameters="" />
 </Processes>
