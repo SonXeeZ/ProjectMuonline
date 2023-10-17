@@ -21,7 +21,7 @@
 		
 		<QuestCondition>
 			<Condition Type="1"  Index="0"  MinLevel="10000" MaxLevel="10000" ReqStrength="0" ReqMoney="0" StartContext="73" />
-			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="1000000" StartContext="51" />
+			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="200000" StartContext="51" />
 			<Condition Type="-1" Index="-1" MinLevel="150" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="50" />
 		</QuestCondition>
 	</QuestInfo>
@@ -35,7 +35,7 @@
 		</QuestJob>
 		
 		<QuestCondition>
-			<Condition Type="-1" Index="0" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="2000000" StartContext="71" />
+			<Condition Type="-1" Index="0" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="400000" StartContext="71" />
 		</QuestCondition>
 	</QuestInfo>
 
