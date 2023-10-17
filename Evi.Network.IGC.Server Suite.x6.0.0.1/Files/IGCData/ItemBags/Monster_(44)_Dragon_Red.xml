@@ -98,7 +98,7 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Monster_Dragon_Red" ItemRate="9000" SetItemRate="0" MoneyDrop="1000" BagUseEffect="-1" BagUseRate="10000" />
+<BagConfig Name="Monster_Dragon_Red" ItemRate="9000" SetItemRate="0" MoneyDrop="10000000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
 <AddCoin Enable="1" CoinType="2" CoinValue="2" />
 
