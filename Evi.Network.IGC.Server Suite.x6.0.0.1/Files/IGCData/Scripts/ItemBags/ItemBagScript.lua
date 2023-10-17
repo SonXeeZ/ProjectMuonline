@@ -106,7 +106,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_COMMON, MakeItemID(14,32), 0, 'Item_(14,32,0)_Pink_Chocolate_Box') -- DropFunction /1/
 	--AddItemBag(BAG_COMMON, MakeItemID(14,32), 1, 'Item_(14,32,1)_Light_Purple_Candy_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,33), 0, 'Item_(14,33,0)_Red_Chocolate_Box') -- DropFunction /1/
-	--AddItemBag(BAG_COMMON, MakeItemID(14,33), 1, 'Item_(14,33,1)_Orange_Candy_Box') -- DropFunction /1/
+	AddItemBag(BAG_COMMON, MakeItemID(14,33), 1, '') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,34), 0, 'Item_(14,34,0)_Blue_Chocolate_Box') -- DropFunction /1/
 	--AddItemBag(BAG_COMMON, MakeItemID(14,34), 1, 'Item_(14,34,1)_Dark_Blue_Candy_Box') -- DropFunction /1/
 	--AddItemBag(BAG_COMMON, MakeItemID(14,45), 0, 'Item_(14,45,0)_Pumpkin_of_Luck') -- DropFunction /1/
