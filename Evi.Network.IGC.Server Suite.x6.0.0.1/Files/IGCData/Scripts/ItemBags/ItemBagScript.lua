@@ -97,7 +97,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 3, 'Item_(14,11,3)_Love_Heart') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 5, 'Item_(14,11,5)_Silver_Medal') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 6, 'Item_(14,11,6)_Gold_Medal') -- DropFunction /1/
-	--AddItemBag(BAG_COMMON, MakeItemID(14,11), 7, 'Item_(14,11,7)_Heaven_Box') -- DropFunction /1/
+	AddItemBag(BAG_COMMON, MakeItemID(14,11), 7, 'Item_(14,11,7)_Heaven_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 8, 'Item_(14,11,8)_Kundun_Box+1') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 9, 'Item_(14,11,9)_Kundun_Box+2') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 10,'Item_(14,11,10)_Kundun_Box+3') -- DropFunction /1/
