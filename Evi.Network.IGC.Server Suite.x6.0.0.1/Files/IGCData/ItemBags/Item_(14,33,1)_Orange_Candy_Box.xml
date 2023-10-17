@@ -91,7 +91,7 @@
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
 
-<DropAllow Wizard="0" Knight="0" FairyElf="0" MagicGladiator="0" DarkLord="0" Summoner="0" RageFighter="0" PlayerMinLevel="0" PlayerMaxLevel="MAX" MapNumber="-1">
+<DropAllow Wizard="0" Knight="0" FairyElf="0" MagicGladiator="0" DarkLord="0" Summoner="0" RageFighter="0" PlayerMinLevel="0" PlayerMaxLevel="0" MapNumber="-1">
 	<Drop Rate="10000" Count="4">
 		<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
