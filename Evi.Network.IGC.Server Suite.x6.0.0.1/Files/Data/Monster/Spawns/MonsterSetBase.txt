@@ -301,7 +301,7 @@ end
 	5		0	0	91		157		91		157		-1		10	//Hell Hound
 	14		0	0	136		183		136		183		-1		10	//Skeleton Warrior
 	14		0	0	130		189		130		189		-1		10	//Skeleton Warrior
-	8		0	0	163		86		163		86		-1		10	//Poison Bull
+	0		0	0	163		86		163		86		-1		10	//Bull Fighter
 	6		0	0	126		205		126		205		-1		10	//Lich
 	6		0	0	123		209		123		209		-1		10	//Lich
 	8		0	0	168		62		168		62		-1		10	//Poison Bull
