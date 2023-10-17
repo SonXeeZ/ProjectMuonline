@@ -88,42 +88,42 @@ function LoadItemBag() -- Bags Load
 -- ItemBags -- BagType, MakeItemID(Type,Index), ItemLevel, 'FileName'
 -- ====================================================================
 
-	AddItemBag(BAG_COMMON, MakeItemID(12,32), 0, 'Item_(12,32,0)_Red_Ribbon_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(12,33), 0, 'Item_(12,33,0)_Green_Ribbon_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(12,34), 0, 'Item_(12,34,0)_Blue_Ribbon_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(12,32), 0, 'Item_(12,32,0)_Red_Ribbon_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(12,33), 0, 'Item_(12,33,0)_Green_Ribbon_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(12,34), 0, 'Item_(12,34,0)_Blue_Ribbon_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 0, 'Item_(14,11,0)_Luck_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 1, 'Item_(14,11,1)_Sacred_Birth_Star') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 2, 'Item_(14,11,2)_Firecracker') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 3, 'Item_(14,11,3)_Love_Heart') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 5, 'Item_(14,11,5)_Silver_Medal') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 6, 'Item_(14,11,6)_Gold_Medal') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,11), 7, 'Item_(14,11,7)_Heaven_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,11), 7, 'Item_(14,11,7)_Heaven_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 8, 'Item_(14,11,8)_Kundun_Box+1') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 9, 'Item_(14,11,9)_Kundun_Box+2') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 10,'Item_(14,11,10)_Kundun_Box+3') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 11,'Item_(14,11,11)_Kundun_Box+4') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,11), 12,'Item_(14,11,12)_Kundun_Box+5') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,32), 0, 'Item_(14,32,0)_Pink_Chocolate_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,32), 1, 'Item_(14,32,1)_Light_Purple_Candy_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,32), 1, 'Item_(14,32,1)_Light_Purple_Candy_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,33), 0, 'Item_(14,33,0)_Red_Chocolate_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,33), 1, 'Item_(14,33,1)_Orange_Candy_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,33), 1, 'Item_(14,33,1)_Orange_Candy_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,34), 0, 'Item_(14,34,0)_Blue_Chocolate_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,34), 1, 'Item_(14,34,1)_Dark_Blue_Candy_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,45), 0, 'Item_(14,45,0)_Pumpkin_of_Luck') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,34), 1, 'Item_(14,34,1)_Dark_Blue_Candy_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,45), 0, 'Item_(14,45,0)_Pumpkin_of_Luck') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,52), 0, 'Item_(14,52,0)_GM_Gift_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,55), 0, 'Item_(14,55,0)_Green_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,56), 0, 'Item_(14,56,0)_Red_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,57), 0, 'Item_(14,57,0)_Purple_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_COMMON, MakeItemID(14,84), 0, 'Item_(14,84,0)_Cherry_Blossom_Play_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,123),0, 'Item_(14,123,0)_Golden_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,124),0, 'Item_(14,124,0)_Silver_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,157),0, 'Item_(14,157,0)_Green_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,158),0, 'Item_(14,158,0)_Red_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,159),0, 'Item_(14,159,0)_Purple_Box') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,141),0, 'Item_(14,141,0)_Shining_Jewelry_Case') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,142),0, 'Item_(14,142,0)_Elegant_Jewelry_Case') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,143),0, 'Item_(14,143,0)_Steel_Jewelry_Case') -- DropFunction /1/
-	AddItemBag(BAG_COMMON, MakeItemID(14,144),0, 'Item_(14,144,0)_Old_Jewelry_Case') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,123),0, 'Item_(14,123,0)_Golden_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,124),0, 'Item_(14,124,0)_Silver_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,157),0, 'Item_(14,157,0)_Green_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,158),0, 'Item_(14,158,0)_Red_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,159),0, 'Item_(14,159,0)_Purple_Box') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,141),0, 'Item_(14,141,0)_Shining_Jewelry_Case') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,142),0, 'Item_(14,142,0)_Elegant_Jewelry_Case') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,143),0, 'Item_(14,143,0)_Steel_Jewelry_Case') -- DropFunction /1/
+	--AddItemBag(BAG_COMMON, MakeItemID(14,144),0, 'Item_(14,144,0)_Old_Jewelry_Case') -- DropFunction /1/
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
