@@ -96,7 +96,7 @@
 <ItemBag>
 <BagConfig Name="Mix_LuckyCoin30" ItemRate="10000" SetItemRate="0" MoneyDrop="90000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
-<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<AddCoin Enable="0" CoinType="2" CoinValue="3" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="10000" Count="1">
