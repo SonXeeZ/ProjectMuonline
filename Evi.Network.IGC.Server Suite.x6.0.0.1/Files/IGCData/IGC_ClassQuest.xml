@@ -48,7 +48,7 @@
 		<QuestCondition>
 			<Condition Type="-1" Index="-1" MinLevel="220" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="100" />
 			<Condition Type="-1" Index="1"  MinLevel="0"   MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="116" />
-			<Condition Type="-1" Index="-1" MinLevel="0"   MaxLevel="0" ReqStrength="0" ReqMoney="3000000" StartContext="118" />
+			<Condition Type="-1" Index="-1" MinLevel="0"   MaxLevel="0" ReqStrength="0" ReqMoney="300000" StartContext="118" />
 		</QuestCondition>
 	</QuestInfo>
 
@@ -60,7 +60,7 @@
 		<QuestCondition>
 			<Condition Type="-1" Index="-1" MinLevel="220" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="115" />
 			<Condition Type="-1" Index="2" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="117" />
-			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="2000000" StartContext="119"  />
+			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="200000" StartContext="119"  />
 		</QuestCondition>
 	</QuestInfo>
 
@@ -80,7 +80,7 @@
 		<QuestCondition>
 			<Condition Type="1" Index="2" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="166" />
 			<Condition Type="2" Index="3" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="166" />
-			<Condition Type="3" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="5000000" StartContext="146" />
+			<Condition Type="3" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="500000" StartContext="146" />
 			<Condition Type="-1" Index="-1" MinLevel="380" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="144" />
 		</QuestCondition>
 	</QuestInfo>
@@ -93,7 +93,7 @@
 		</QuestJob>
 		
 		<QuestCondition>
-			<Condition Type="1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="7000000" StartContext="157" />
+			<Condition Type="1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="700000" StartContext="157" />
 			<Condition Type="-1" Index="-1" MinLevel="400" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="144" />
 			<Condition Type="-1" Index="4" MinLevel="0"	MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="145" />
 		</QuestCondition>
@@ -107,7 +107,7 @@
 		<QuestCondition>
 			<Condition Type="-1" Index="-1" MinLevel="400" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="144" />
 			<Condition Type="-1" Index="5" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="145" />
-			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="10000000" StartContext="167" />
+			<Condition Type="-1" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="1000000" StartContext="167" />
 		</QuestCondition>
 	</QuestInfo>
 </ClassQuest>
