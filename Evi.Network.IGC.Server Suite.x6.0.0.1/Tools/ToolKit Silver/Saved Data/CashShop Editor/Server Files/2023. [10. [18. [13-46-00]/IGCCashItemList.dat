@@ -1,0 +1,162 @@
+1
+10	98	508	37	0	0	50	22	37	13	0	1	0	//Talisman of Luck
+11	98	508	38	0	0	200	22	38	13	0	1	0	//Talisman of Luck
+12	114	508	0	0	0	250	14	24	13	0	1	0	//Reset Fruit Strength
+13	112	508	0	0	0	250	15	25	13	0	1	0	//Reset Fruit Quickness
+14	110	508	0	0	0	250	16	26	13	0	1	0	//Reset Fruit Health
+15	108	508	0	0	0	250	17	27	13	0	1	0	//Reset Fruit Energy
+16	106	508	0	0	0	250	18	28	13	0	1	0	//Reset Fruit Control
+19	70	508	0	0	0	50	40	66	14	0	1	0	//Talisman of Resurrection
+20	68	508	0	0	0	40	41	67	14	0	1	0	//Talisman of Mobility
+21	122	508	13	0	0	150	10	13	22	0	1	0	//Seal of Wealth
+22	122	508	14	0	0	350	10	14	22	0	1	0	//Seal of Wealth
+23	122	508	15	0	0	700	10	15	22	0	1	0	//Seal of Wealth
+24	122	508	16	0	0	2100	10	16	22	0	1	0	//Seal of Wealth
+25	124	508	9	0	0	100	9	9	22	0	1	0	//Seal of Ascension
+26	124	508	10	0	0	250	9	10	22	0	1	0	//Seal of Ascension
+27	124	508	11	0	0	500	9	11	22	0	1	0	//Seal of Ascension
+28	124	508	12	0	0	1400	9	12	22	0	1	0	//Seal of Ascension
+29	48	508	80	0	0	150	51	80	22	0	1	0	//Master Seal of Wealth
+30	48	508	81	0	0	700	51	81	22	0	1	0	//Master Seal of Wealth
+31	48	508	82	0	0	2100	51	82	22	0	1	0	//Master Seal of Wealth
+77	82	508	51	0	0	100	30	51	22	0	1	0	//Scroll of Mana
+78	82	508	52	0	0	500	30	52	22	0	1	0	//Scroll of Mana
+79	84	508	49	0	0	100	29	49	22	0	1	0	//Scroll of Health
+80	84	508	50	0	0	500	29	50	22	0	1	0	//Scroll of Health
+81	30	508	99	0	0	150	60	99	23	0	1	0	//Pet Panda
+82	30	508	100	0	0	700	60	100	23	0	1	0	//Pet Panda
+83	28	508	101	0	0	150	61	101	23	0	1	0	//Pet Skeleton
+84	28	508	102	0	0	700	61	102	23	0	1	0	//Pet Skeleton
+85	10	508	121	0	0	150	72	121	23	0	1	0	//Pet Unicorn
+86	10	508	122	0	0	700	72	122	23	0	1	0	//Pet Unicorn
+87	102	508	31	0	0	100	20	31	23	0	1	0	//Demon
+88	102	508	32	0	0	500	20	32	23	0	1	0	//Demon
+89	102	508	33	0	0	1400	20	33	23	0	1	0	//Demon
+90	100	508	34	0	0	100	21	34	23	0	1	0	//Spirit of Guardian
+91	100	508	35	0	0	500	21	35	23	0	1	0	//Spirit of Guardian
+92	100	508	36	0	0	1400	21	36	23	0	1	0	//Spirit of Guardian
+93	36	508	93	0	0	100	57	93	24	0	1	0	//Panda Ring
+94	36	508	94	0	0	500	57	94	24	0	1	0	//Panda Ring
+95	32	508	97	0	0	100	59	97	24	0	1	0	//Skeleton Transform Ring
+96	32	508	98	0	0	500	59	98	24	0	1	0	//Skeleton Transform Ring
+97	34	508	95	0	0	100	58	95	24	0	1	0	//Wizard Ring
+98	34	508	96	0	0	500	58	96	24	0	1	0	//Wizard Ring
+101	26	508	103	0	0	80	62	103	24	0	1	0	//Sapphire Ring
+102	26	508	104	0	0	400	62	104	24	0	1	0	//Sapphire Ring
+103	24	508	105	0	0	80	63	105	24	0	1	0	//Ruby Ring
+104	24	508	106	0	0	400	63	106	24	0	1	0	//Ruby Ring
+105	22	508	107	0	0	80	64	107	24	0	1	0	//Topaz Ring
+106	22	508	108	0	0	400	64	108	24	0	1	0	//Topaz Ring
+107	20	508	109	0	0	80	65	109	24	0	1	0	//Amethyst Ring
+108	20	508	110	0	0	400	65	110	24	0	1	0	//Amethyst Ring
+111	16	508	113	0	0	90	67	113	24	0	1	0	//Emerald Necklace
+112	16	508	114	0	0	450	67	114	24	0	1	0	//Emerald Necklace
+113	14	508	115	0	0	90	68	115	24	0	1	0	//Sapphire Necklace
+114	14	508	116	0	0	450	68	116	24	0	1	0	//Sapphire Necklace
+129	118	508	20	0	0	100	12	20	25	0	1	0	//Devil Square Ticket
+130	118	508	21	0	0	900	12	21	25	0	1	0	//Devil Square Ticket
+131	116	508	22	0	0	100	13	22	25	0	1	0	//Blood Castle Ticket
+132	116	508	23	0	0	900	13	23	25	0	1	0	//Blood Castle Ticket
+133	104	508	29	0	0	150	19	29	25	0	1	0	//Illusion Temple Ticket
+134	104	508	30	0	0	1350	19	30	25	0	1	0	//Illusion Temple Ticket
+135	56	508	73	0	0	80	47	73	25	0	1	0	//Kalima Ticket
+136	56	508	74	0	0	720	47	74	25	0	1	0	//Kalima Ticket
+139	4	508	0	0	0	40	76	129	26	0	1	0	//Elite SD Potion
+140	96	508	0	0	0	20	23	39	26	0	1	0	//Elite Healing Potion
+141	94	508	0	0	0	20	24	40	26	0	1	0	//Elite Mana Potion
+142	385	0	0	0	2	2000	500	579	57	0	1	0	//Bundle of Jewel of Soul (30)
+143	384	0	0	0	2	2000	499	578	57	0	1	0	//Bundle of Jewel of Bless (30)
+144	386	0	0	0	2	2000	501	580	57	0	1	0	//Jewel of Chaos Bundle (10)
+145	387	0	0	0	2	4800	502	581	57	0	1	0	//Jewel of Life Bundle (10)
+146	388	0	0	0	2	4800	503	582	57	0	1	0	//Bundle of Jewel of Harmony (10)
+147	389	0	0	0	2	3200	504	583	57	0	1	0	//Talisman of Luck 10%
+206	99	509	37	0	1	50	22	37	27	0	1	0	//[Talisman of Luck]
+207	99	509	38	0	1	200	22	38	27	0	1	0	//[Talisman of Luck]
+210	115	509	0	0	1	250	14	24	27	0	1	0	//[Reset Fruit Strength]
+211	113	509	0	0	1	250	15	25	27	0	1	0	//[Reset Fruit Quickness]
+212	111	509	0	0	1	250	16	26	27	0	1	0	//[Reset Fruit Health]
+213	109	509	0	0	1	250	17	27	27	0	1	0	//[Reset Fruit Energy]
+214	107	509	0	0	1	250	18	28	27	0	1	0	//[Reset Fruit Control]
+215	71	509	0	0	1	50	40	66	28	0	1	0	//[Talisman of Resurrection]
+216	69	509	0	0	1	40	41	67	28	0	1	0	//[Talisman of Mobility]
+217	123	509	13	0	1	150	10	13	29	0	1	0	//[Seal of Wealth]
+218	123	509	14	0	1	350	10	14	29	0	1	0	//[Seal of Wealth]
+219	123	509	15	0	1	700	10	15	29	0	1	0	//[Seal of Wealth]
+220	123	509	16	0	1	2100	10	16	29	0	1	0	//[Seal of Wealth]
+223	125	509	9	0	1	100	9	9	29	0	1	0	//[Seal of Ascension]
+224	125	509	10	0	1	250	9	10	29	0	1	0	//[Seal of Ascension]
+225	125	509	11	0	1	500	9	11	29	0	1	0	//[Seal of Ascension]
+226	125	509	12	0	1	1400	9	12	29	0	1	0	//[Seal of Ascension]
+229	49	509	80	0	1	150	51	80	29	0	1	0	//[Master Seal of Wealth]
+230	49	509	81	0	1	700	51	81	29	0	1	0	//[Master Seal of Wealth]
+231	49	509	82	0	1	2100	51	82	29	0	1	0	//[Master Seal of Wealth]
+279	91	509	43	0	1	100	26	43	29	0	1	0	//[Scroll of Protection]
+280	91	509	44	0	1	500	26	44	29	0	1	0	//[Scroll of Protection]
+281	93	509	41	0	1	150	25	41	29	0	1	0	//[Scroll of Quickness]
+282	93	509	42	0	1	700	25	42	29	0	1	0	//[Scroll of Quickness]
+283	89	509	45	0	1	150	27	45	29	0	1	0	//[Scroll of Wrath]
+284	89	509	46	0	1	700	27	46	29	0	1	0	//[Scroll of Wrath]
+285	87	509	47	0	1	150	28	47	29	0	1	0	//[Scroll of Wizardry]
+286	87	509	48	0	1	700	28	48	29	0	1	0	//[Scroll of Wizardry]
+287	77	509	60	0	1	150	37	60	29	0	1	0	//[Scroll of Strengthener]
+288	77	509	61	0	1	700	37	61	29	0	1	0	//[Scroll of Strengthener]
+289	79	509	58	0	1	150	36	58	29	0	1	0	//[Scroll of Battle]
+290	79	509	59	0	1	700	36	59	29	0	1	0	//[Scroll of Battle]
+291	83	509	51	0	1	100	30	51	29	0	1	0	//[Scroll of Mana]
+292	83	509	52	0	1	500	30	52	29	0	1	0	//[Scroll of Mana]
+293	85	509	49	0	1	100	29	49	29	0	1	0	//[Scroll of Health]
+294	85	509	50	0	1	500	29	50	29	0	1	0	//[Scroll of Health]
+295	31	509	99	0	1	150	60	99	30	0	1	0	//[Pet Panda]
+296	31	509	100	0	1	700	60	100	30	0	1	0	//[Pet Panda]
+297	29	509	101	0	1	150	61	101	30	0	1	0	//[Pet Skeleton]
+298	29	509	102	0	1	700	61	102	30	0	1	0	//[Pet Skeleton]
+299	11	509	121	0	1	150	72	121	30	0	1	0	//[Pet Unicorn]
+300	11	509	122	0	1	700	72	122	30	0	1	0	//[Pet Unicorn]
+301	103	509	31	0	1	100	20	31	30	0	1	0	//[Demon]
+302	103	509	32	0	1	500	20	32	30	0	1	0	//[Demon]
+303	103	509	33	0	1	1400	20	33	30	0	1	0	//[Demon]
+304	101	509	34	0	1	100	21	34	30	0	1	0	//[Spirit of Guardian]
+305	101	509	35	0	1	500	21	35	30	0	1	0	//[Spirit of Guardian]
+306	101	509	36	0	1	1400	21	36	30	0	1	0	//[Spirit of Guardian]
+307	37	509	93	0	1	100	57	93	31	0	1	0	//[Panda Ring]
+308	37	509	94	0	1	500	57	94	31	0	1	0	//[Panda Ring]
+309	33	509	97	0	1	100	59	97	31	0	1	0	//[Skeleton Transform Ring]
+310	33	509	98	0	1	500	59	98	31	0	1	0	//[Skeleton Transform Ring]
+311	35	509	95	0	1	100	58	95	31	0	1	0	//[Wizard Ring]
+312	35	509	96	0	1	500	58	96	31	0	1	0	//[Wizard Ring]
+315	27	509	103	0	1	80	62	103	31	0	1	0	//[Sapphire Ring]
+316	27	509	104	0	1	400	62	104	31	0	1	0	//[Sapphire Ring]
+317	25	509	105	0	1	80	63	105	31	0	1	0	//[Ruby Ring]
+318	25	509	106	0	1	400	63	106	31	0	1	0	//[Ruby Ring]
+319	23	509	107	0	1	80	64	107	31	0	1	0	//[Topaz Ring]
+320	23	509	108	0	1	400	64	108	31	0	1	0	//[Topaz Ring]
+321	21	509	109	0	1	80	65	109	31	0	1	0	//[Amethyst Ring]
+322	21	509	110	0	1	400	65	110	31	0	1	0	//[Amethyst Ring]
+325	17	509	113	0	1	90	67	113	31	0	1	0	//[Emerald Necklace]
+326	17	509	114	0	1	450	67	114	31	0	1	0	//[Emerald Necklace]
+327	15	509	115	0	1	90	68	115	31	0	1	0	//[Sapphire Necklace]
+328	15	509	116	0	1	450	68	116	31	0	1	0	//[Sapphire Necklace]
+360	119	509	20	0	1	100	12	20	32	0	1	0	//[Devil Square Ticket]
+361	119	509	21	0	1	900	12	21	32	0	1	0	//[Devil Square Ticket]
+362	117	509	22	0	1	100	13	22	32	0	1	0	//[Blood Castle Ticket]
+363	117	509	23	0	1	900	13	23	32	0	1	0	//[Blood Castle Ticket]
+364	105	509	29	0	1	150	19	29	32	0	1	0	//[Illusion Temple Ticket]
+365	105	509	30	0	1	1350	19	30	32	0	1	0	//[Illusion Temple Ticket]
+366	57	509	73	0	1	80	47	73	32	0	1	0	//[Kalima Ticket]
+367	57	509	74	0	1	720	47	74	32	0	1	0	//[Kalima Ticket]
+370	5	509	0	0	1	40	76	129	46	0	1	0	//[Elite SD Potion]
+371	97	509	0	0	1	20	23	39	46	0	1	0	//[Elite Healing Potion]
+372	95	509	0	0	1	20	24	40	46	0	1	0	//[Elite Mana Potion]
+373	528	508	1095	0	0	100	894	1095	22	0	1	0	//Scroll of Protection
+374	528	508	1096	0	0	500	894	1096	22	0	1	0	//Scroll of Protection
+376	529	508	1098	0	0	150	895	1098	22	0	1	0	//Scroll of Quickness
+377	529	508	1099	0	0	700	895	1099	22	0	1	0	//Scroll of Quickness
+379	530	508	1101	0	0	150	896	1101	22	0	1	0	//Scroll of Wrath
+380	530	508	1102	0	0	700	896	1102	22	0	1	0	//Scroll of Wrath
+382	531	508	1104	0	0	150	897	1104	22	0	1	0	//Scroll of Wizardry
+383	531	508	1105	0	0	700	897	1105	22	0	1	0	//Scroll of Wizardry
+385	532	508	1107	0	0	150	898	1107	22	0	1	0	//Scroll of Strengthener
+386	532	508	1108	0	0	700	898	1108	22	0	1	0	//Scroll of Strengthener
+388	533	508	1110	0	0	150	899	1110	22	0	1	0	//Scroll of Battle
+389	533	508	1111	0	0	700	899	1111	22	0	1	0	//Scroll of Battle
+end

@@ -709,15 +709,3 @@
 628@Rage Fighters Small Wing@Duration@604800@Sec.@0@718@142@145@1@144@673@518@6279@10@140@386
 629@100000 Goblin Point@���� ���ϸ���@100000@WReward@100000@719@142@145@1@144@673@518@7288@59@515@596
 893@Invitation Ticket to Santa Village@Quantity@1@EA@0@1094@142@145@1@144@673@518@6722@7@138@680
-894@Scroll of Protection@Duration@1440@[1 Day(s)]@100@1095@142@145@1@144@673@518@7241@10@138@680
-894@Scroll of Protection@Duration@10080@[7 Day(s)]@500@1096@142@145@1@144@673@518@7241@10@138@680
-895@Scroll of Quickness@Duration@1440@[1 Day(s)]@150@1098@142@145@1@144@673@518@7240@10@138@680
-895@Scroll of Quickness@Duration@10080@[7 Day(s)]@700@1099@142@145@1@144@673@518@7240@10@138@680
-896@Scroll of Wrath@Duration@1440@[1 Day(s)]@150@1101@142@145@1@144@673@518@7242@10@138@680
-896@Scroll of Wrath@Duration@10080@[7 Day(s)]@700@1102@142@145@1@144@673@518@7242@10@138@680
-897@Scroll of Wizardry@Duration@1440@[1 Day(s)]@150@1104@142@145@1@144@673@518@7243@10@138@680
-897@Scroll of Wizardry@Duration@10080@[7 Day(s)]@700@1105@142@145@1@144@673@518@7243@10@138@680
-898@Scroll of Strengthener@Duration@1440@[1 Day(s)]@150@1107@142@145@1@144@673@518@7266@10@138@680
-898@Scroll of Strengthener@Duration@10080@[7 Day(s)]@700@1108@142@145@1@144@673@518@7266@10@138@680
-899@Scroll of Battle@Duration@1440@[1 Day(s)]@150@1110@142@145@1@144@673@518@7265@10@138@680
-899@Scroll of Battle@Duration@10080@[7 Day(s)]@700@1111@142@145@1@144@673@518@7265@10@138@680
