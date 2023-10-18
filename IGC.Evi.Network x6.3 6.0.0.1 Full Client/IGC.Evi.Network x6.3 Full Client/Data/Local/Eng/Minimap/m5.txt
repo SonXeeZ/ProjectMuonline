@@ -74,5 +74,5 @@
 1	226	48	0	"Shadow"
 1	226	73	0	"Shadow"
 1	218	107	0	"Shadow"
-1	39	136	0	"Death Gorgon"
+1	39	136	0	"Death Gorgon" 
 end

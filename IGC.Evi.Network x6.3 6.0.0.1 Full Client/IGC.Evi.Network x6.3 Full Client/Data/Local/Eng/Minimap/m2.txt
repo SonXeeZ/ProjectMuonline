@@ -31,5 +31,5 @@
 1	12	78	0	"Skeleton Archer"
 1	11	108	0	"Cyclops"
 1	12	90	0	"Elite Skeleton"
-1	4	76	0	"Elite Skeleton"
+1	4	76	0	"Elite Skeleton" 
 end

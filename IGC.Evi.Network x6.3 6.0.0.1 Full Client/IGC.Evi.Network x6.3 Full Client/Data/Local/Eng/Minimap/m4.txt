@@ -50,5 +50,5 @@
 1	236	116	0	"Agon"
 1	193	171	0	"Stone Golem"
 1	222	137	0	"Agon"
-1	222	123	0	"Agon"
+1	222	123	0	"Agon" 
 end
