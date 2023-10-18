@@ -34,12 +34,6 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 <CashItemList>
-	<Item GUID="0" iIndex="493" iSubIndex="508" OptionSelect="672" PackageID="0" CoinType="0" CoinValue="190" UniqueID1="585" UniqueID2="672" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="[Discount]Gold Channel Ticket" />
-	<Item GUID="1" iIndex="493" iSubIndex="508" OptionSelect="673" PackageID="0" CoinType="0" CoinValue="400" UniqueID1="585" UniqueID2="673" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="[Discount]Gold Channel Ticket" />
-	<Item GUID="2" iIndex="493" iSubIndex="508" OptionSelect="674" PackageID="0" CoinType="0" CoinValue="600" UniqueID1="585" UniqueID2="674" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="[Discount]Gold Channel Ticket" />
-	<Item GUID="3" iIndex="493" iSubIndex="508" OptionSelect="675" PackageID="0" CoinType="0" CoinValue="1600" UniqueID1="585" UniqueID2="675" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="[Discount]Gold Channel Ticket" />
-	<Item GUID="4" iIndex="145" iSubIndex="508" OptionSelect="0" PackageID="1" CoinType="0" CoinValue="1570" UniqueID1="0" UniqueID2="0" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Level up (Master)" />
-	<Item GUID="5" iIndex="143" iSubIndex="508" OptionSelect="0" PackageID="2" CoinType="0" CoinValue="1570" UniqueID1="0" UniqueID2="0" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Level up (normal)" />
 	<Item GUID="6" iIndex="260" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="690" UniqueID1="281" UniqueID2="349" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Magic Backpack" />
 	<Item GUID="7" iIndex="258" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="2490" UniqueID1="282" UniqueID2="350" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Vault Expansion Cert" />
 	<Item GUID="8" iIndex="187" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="0" UniqueID1="0" UniqueID2="0" ShopCategory="13" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Premium Service (via Web)" />
