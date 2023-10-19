@@ -63,21 +63,21 @@
 	<Message Day="[SERVER RATES] Day Rates on going!" Night="[SERVER RATES] Night Rates on going, enjoy!" />
 	
 	<VipTypes>	
-		<Vip Type="1" Name="Bronze" ML_MonsterMinLevel="95" PointPerReset="250" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
-			<Day ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
-			<Night ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
+		<Vip Type="1" Name="Bronze" ML_MonsterMinLevel="95" PointPerReset="1000" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
+			<Day ExpBonus="0.0" DropBonus="0" ExcDropBonus="0" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="0" />
+			<Night ExpBonus="0.0" DropBonus="0" ExcDropBonus="0" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="0" />
 		</Vip>
-		<Vip Type="2" Name="Silver" ML_MonsterMinLevel="95" PointPerReset="300" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
-			<Day ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
-			<Night ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
+		<Vip Type="2" Name="Silver" ML_MonsterMinLevel="95" PointPerReset="1000" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
+			<Day ExpBonus="10.0" DropBonus="10" ExcDropBonus="0" MasterExpBonus="10.0" MasterDropBonus="0" MasterExcDropBonus="0" />
+			<Night ExpBonus="10.0" DropBonus="10" ExcDropBonus="0" MasterExpBonus="10.0" MasterDropBonus="0" MasterExcDropBonus="0" />
 		</Vip>
-		<Vip Type="3" Name="Gold" ML_MonsterMinLevel="95" PointPerReset="350" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
-			<Day ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
-			<Night ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
+		<Vip Type="3" Name="Gold" ML_MonsterMinLevel="95" PointPerReset="1000" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
+			<Day ExpBonus="20.0" DropBonus="20" ExcDropBonus="0" MasterExpBonus="20.0" MasterDropBonus="0" MasterExcDropBonus="0" />
+			<Night ExpBonus="20.0" DropBonus="20" ExcDropBonus="0" MasterExpBonus="20.0" MasterDropBonus="0" MasterExcDropBonus="0" />
 		</Vip>
-		<Vip Type="4" Name="Platinum" ML_MonsterMinLevel="95" PointPerReset="400" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
-			<Day ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
-			<Night ExpBonus="0.0" DropBonus="0" ExcDropBonus="10" MasterExpBonus="0.0" MasterDropBonus="0" MasterExcDropBonus="10" />
+		<Vip Type="4" Name="Platinum" ML_MonsterMinLevel="95" PointPerReset="1000" NightStartHour="22" NightStartMinute="0" NightEndHour="7" NightEndMinute="30">
+			<Day ExpBonus="30.0" DropBonus="30" ExcDropBonus="0" MasterExpBonus="30.0" MasterDropBonus="0" MasterExcDropBonus="0" />
+			<Night ExpBonus="30.0" DropBonus="30" ExcDropBonus="0" MasterExpBonus="30.0" MasterDropBonus="0" MasterExcDropBonus="0" />
 		</Vip>
 	</VipTypes>
 </VipSystem>
