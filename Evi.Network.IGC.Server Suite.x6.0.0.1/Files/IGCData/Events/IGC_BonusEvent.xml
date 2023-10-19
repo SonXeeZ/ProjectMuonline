@@ -26,8 +26,10 @@
 -->
 
 <BonusEvent Enable="1" DisplayNotice="1">
-	<Event StartHour="8" EndHour="10" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
-	<Event StartHour="14" EndHour="16" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
-	<Event StartHour="20" EndHour="22" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
-	<Event StartHour="2" EndHour="4" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="24" EndHour="1" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="4" EndHour="5" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="8" EndHour="9" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="13" EndHour="14" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="18" EndHour="19" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
+	<Event StartHour="22" EndHour="23" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="15" ExcDropBonus="5" />
 </BonusEvent>
