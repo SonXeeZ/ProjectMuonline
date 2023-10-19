@@ -1,3 +1,13 @@
 2	66	105	225	"Entrance to the Kanturu Ruins"
 2	141	186	135	"Gateway Machine"
+1	99	104	0	"Twin Tail"
+1	97	79	0	"Twin Tail"
+1	115	79	0	"Twin Tail"
+1	123	68	0	"Persona"
+1	137 68	0	"Persona"
+1	137 102	0	"Persona"
+1	164 94	0	"MIXED SPOT"
+1	174 146	0	"Dreadfear"
+1	119 130	0	"Dreadfear"
+1	108 157	0	"HOT SPOT" 
 end
