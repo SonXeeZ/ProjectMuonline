@@ -105,13 +105,13 @@
 // -------------------------------------------------- Golden Monsters ---
 3
 	43		0	0	133		172		133		172		-1		1		// Golden Budge Dragon
-	44		0	0	133		174		133		145		-1		1		// Golden Dragon
-	53		0	0	133		176		133		132		-1		1		// Golden Titan (must be initialized before Golden Soldier)
-	54		0	0	133		178		133		135		-1		1		// Golden Soldier
+	44		0	0	133		174		133		174		-1		1		// Golden Dragon
+	53		0	0	133		176		133		176		-1		1		// Golden Titan (must be initialized before Golden Soldier)
+	54		0	0	133		178		133		178		-1		1		// Golden Soldier
 	55		0	0	132		83		132		83		-1		1		// Death King (must be initialized before Death Bone)
-	56		0	0	132		83		132		90		-1		1		// Death Bone 
-	78		0	0	133		180		133		240		-1		1		// Golden Goblin
-	79		0	0	133		182		133		240		-1		1		// Golden Dragon
+	56		0	0	132		83		132		83		-1		1		// Death Bone 
+	78		0	0	133		180		133		180		-1		1		// Golden Goblin
+	79		0	0	133		182		133		182		-1		1		// Golden Dragon
 	80		0	0	133		184		133		184		-1		1		// Golden Lizard King
 	81		0	0	133		186		133		186		-1		1		// Golden Vepar
 	82		0	0	133		188		133		188		-1		1		// Golden Tantalos
