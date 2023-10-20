@@ -104,29 +104,29 @@
 // ----------------------------------------------------------------------
 // -------------------------------------------------- Golden Monsters ---
 3
-	43		0	0	133		172		133		172		-1		1		// Golden Budge Dragon
-	44		0	0	133		174		133		174		-1		1		// Golden Dragon
-	53		0	0	133		176		133		176		-1		1		// Golden Titan (must be initialized before Golden Soldier)
-	54		0	0	133		178		133		178		-1		1		// Golden Soldier
-	55		0	0	132		83		132		83		-1		1		// Death King (must be initialized before Death Bone)
-	56		0	0	132		83		132		83		-1		1		// Death Bone 
-	78		0	0	133		180		133		180		-1		1		// Golden Goblin
-	79		0	0	133		182		133		182		-1		1		// Golden Dragon
-	80		0	0	133		184		133		184		-1		1		// Golden Lizard King
-	81		7	0	25		34		25		34		-1		1		// Golden Vepar
-	82		0	0	133		172		133		172		-1		1		// Golden Tantalos
-	83		0	0	133		190		133		190		-1		1		// Golden Wheel
-// ----------------------------------------------------------------------
-	493		0	0	156		174		156		174		-1		1		// Golden Dark Knight
-	494		0	0	156		176		156		176		-1		1		// The Golden Devil
-	495		0	0	156		178		156		178		-1		1		// Golden Stone Monster
-	496		0	0	156		180		156		180		-1		1		// Golden Crust
-	497		0	0	156		182		156		182		-1		1		// Golden Satyr
-	498		0	0	156		184		156		184		-1		1		// Golden Twin Tail
-	499		0	0	156		186		156		186		-1		1		// Golden Iron Knight
-	500		0	0	156		188		156		188		-1		1		// Golden EP
-	501		0	0	156		190		156		190		-1		1		// Great Golden Dragon
-	502		0	0	156		192		156		192		-1		1		// Golden Rabbit
+43	0	30	10	10	240	240	-1	10	//Golden Bugde Dragon
+44	0	30	182	128	195	145	-1	3	//Golden Dragon
+53	0	30	185	132	185	132	-1	8	//Golden Titan
+54	0	30	183	128	188	135	-1	5	//Golden Soldier
+55	0	30	132	83	132	83	-1	1	//Death King
+56	0	30	132	83	138	90	-1	5	//Death Bone
+78	3	30	10	10	240	240	-1	10	//Golden Goblin
+79	0	30	10	10	240	240	-1	3	//Golden Dragon
+80	0	30	185	132	185	132	-1	6	//Golden Lizard King
+81	0	30	132	83	132	83	-1	8	//Golden Vepar
+82	0	30	183	128	188	135	-1	5	//Golden Tantallos
+83	0	30	132	83	138	90	-1	5	//Golden Wheel
+// -------------------------------------------------------
+493	0	0	10	10	240	240	-1	8	//Golden Dark Knight *invalid location
+494	0	0	95	106	95	106	-1	5	//The Golden Devil
+495	0	0	10	10	240	240	-1	5	//Golden Stone Monster *invalid location
+496	0	0	12	31	12	31	-1	5	//Golden Crust
+497	0	0	102	235	102	235	-1	5	//Golden Satyr
+498	0	0	10	10	240	240	-1	5	//Golden Twin Tail *invalid location
+499	0	0	33	202	33	202	-1	5	//Golden Iron Knight
+500	0	0	215	135	215	135	-1	5	//Golden EP
+501	0	0	130	35	130	35	-1	2	//Great Golden Dragon
+502	51	0	134	197	134	197	-1	10	//golden rabbit
 end
 
 // #######################################################################
