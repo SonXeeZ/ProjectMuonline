@@ -12,7 +12,7 @@
 // ====================================================================
 // --------------------------------------------------------------------
 0 // DO NOT REMOVE SECTION NUMBER
-		25			5			10
+		30			5			15
 end
 
 // -- Monster timing appearance ---------------------------------------
@@ -23,60 +23,60 @@ end
 1 // DO NOT REMOVE SECTION NUMBER
 
 // -- Devil Square 1 --
-	0			17			0			10		// Cyclops
-	0			15			0			10		// Skeleton Archer
-	0			5			3			10		// Hell Hound
-	0			13			3			10		// Hell Spider
-	0			8			7			10		// Poison Bull
-	0			36			7			10		// Shadow
+	0			17			0			15		// Cyclops
+	0			15			0			15		// Skeleton Archer
+	0			5			3			15		// Hell Hound
+	0			13			3			15		// Hell Spider
+	0			8			7			15		// Poison Bull
+	0			36			7			15		// Shadow
 
 // -- Devil Square 2 --
-	1			10			0			10		// Dark Knight
-	1			39			0			10		// Poison Shadow
-	1			34			3			10		// Cursed Wizard
-	1			41			3			10		// Death Cow
-	1			40			7			10		// Death Knight
-	1			35			7			10		// Death Gorgon
+	1			10			0			15		// Dark Knight
+	1			39			0			15		// Poison Shadow
+	1			34			3			15		// Cursed Wizard
+	1			41			3			15		// Death Cow
+	1			40			7			15		// Death Knight
+	1			35			7			15		// Death Gorgon
 
 // -- Devil Square 3 --
-	2			41			0			10		// Death Cow
-	2			37			0			10		// Devil
-	2			35			3			10		// Death Gorgon
-	2			180			3			10		// Schriker
-	2			64			7			10		// Orc Archer
-	2			65			7			10		// Elite Orc
+	2			41			0			15		// Death Cow
+	2			37			0			15		// Devil
+	2			35			3			15		// Death Gorgon
+	2			180			3			15		// Schriker
+	2			64			7			15		// Orc Archer
+	2			65			7			15		// Elite Orc
 
 // -- Devil Square 4 --
-	3			64			0			10		// Orc Archer
-	3			65			0			10		// Elite Orc
-	3			60			3			10		// Bloody Wolf
-	3			294			3			10		// Axe Warrior
-	3			57			7			10		// Iron Wheel
-	3			70			7			10		// Queen Rainer
+	3			64			0			15		// Orc Archer
+	3			65			0			15		// Elite Orc
+	3			60			3			15		// Bloody Wolf
+	3			294			3			15		// Axe Warrior
+	3			57			7			15		// Iron Wheel
+	3			70			7			15		// Queen Rainer
 
 // -- Devil Square 5 --
-	4			294			0			10		// Axe Warrior
-	4			60			0			10		// Bloody Wolf
-	4			71			3			10		// Mega Crust
-	4			190			3			10		// Death Angel
-	4			61			7			10		// Beam Knight
-	4			73			7			10		// Drakan
+	4			294			0			15		// Axe Warrior
+	4			60			0			15		// Bloody Wolf
+	4			71			3			15		// Mega Crust
+	4			190			3			15		// Death Angel
+	4			61			7			15		// Beam Knight
+	4			73			7			15		// Drakan
 
 // -- Devil Square 6 --
-	5			290			0			10		// Lizard Warrior
-	5			57			0			10		// Iron Wheel
-	5			70			3			10		// Queen Rainer
-	5			293			3			10		// Poison Golem
-	5			74			7			10		// Alpha Crust
-	5			292			7			10		// Queen Bee
+	5			290			0			15		// Lizard Warrior
+	5			57			0			15		// Iron Wheel
+	5			70			3			15		// Queen Rainer
+	5			293			3			15		// Poison Golem
+	5			74			7			15		// Alpha Crust
+	5			292			7			15		// Queen Bee
 
 // -- Devil Square 7 --
-	6			434			0			10		// Gigantis
-	6			435			0			10		// Berserk
-	6			438			3			10		// Persona
-	6			439			3			10		// Dreadfear
-	6			436			7			10		// Balram (Trainee)
-	6			437			7			10		// Soram (Trainee)
+	6			434			0			15		// Gigantis
+	6			435			0			15		// Berserk
+	6			438			3			15		// Persona
+	6			439			3			15		// Dreadfear
+	6			436			7			15		// Balram (Trainee)
+	6			437			7			15		// Soram (Trainee)
 end
 
 // -- Boss Class for particular room [one time show] --------------------------------------
@@ -174,16 +174,16 @@ end
 	4					3				8000		55000
 
 // -- Devil Square 6 --
-	5					0				24000		80000
-	5					1				22000		75000
-	5					2				20000		70000
-	5					3				10000		65000
+	5					0				240000		800000
+	5					1				220000		750000
+	5					2				200000		700000
+	5					3				100000		650000
 
 // -- Devil Square 7 --
-	6					0				26000		90000
-	6					1				24000		85000
-	6					2				30000		80000
-	6					3				12000		75000
+	6					0				260000		900000
+	6					1				240000		850000
+	6					2				300000		800000
+	6					3				120000		750000
 end
 
 // -- Event Start Hours ----------
@@ -213,11 +213,11 @@ end
 //==============================================
 //----------------------------------------------
 5 // DO NOT REMOVE SECTION NUMBER
-	0				1.0		// Devil Square 1
-	1				1.0		// Devil Square 2
-	2				1.0		// Devil Square 3
-	3				1.0		// Devil Square 4
-	4				1.0		// Devil Square 5
-	5				1.0		// Devil Square 6
-	6				1.0		// Devil Square 7
+	0				1.2		// Devil Square 1
+	1				1.2		// Devil Square 2
+	2				1.2		// Devil Square 3
+	3				1.3		// Devil Square 4
+	4				1.3		// Devil Square 5
+	5				1.5		// Devil Square 6
+	6				1.7		// Devil Square 7
 end
