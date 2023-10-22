@@ -45,7 +45,7 @@ function Knight_Gladiator_CalcSkillBonus(Class, InDamage, Energy)
 	if (Class == CLASS_GLADIATOR or Class == CLASS_DARKLORD) then
 		OutDamage = InDamage * 2
 	else
-		OutDamage = (InDamage * ( 200 + ( Energy / 10 ) ) ) / 100;
+		OutDamage = (InDamage * ( 200 + ( Energy / 10 ) ) ) / 1000;
 	end
 		
 	return OutDamage
@@ -57,7 +57,7 @@ end
 -- Vitality / 1080 + 24 + Energy / 216 + PartyBonus 	-> + 204 266
 -- Vitality / 1592 + 36 + Energy / 324 + PartyBonus 	-> + 156 358
 -- Vitality / 2104 + 48 + Energy / 432 + PartyBonus 	-> + 138 224
-
+-- Kész
 -- SkillID: 48, Swell Life - (Dark Knight, Blade Knight, Blade Master)
 function KnightSkillAddLife(Vitality, Energy, PartyBonus)
 	local SkillEffect = (Vitality / 2104 + 48 + Energy / 432 + PartyBonus) / 4
