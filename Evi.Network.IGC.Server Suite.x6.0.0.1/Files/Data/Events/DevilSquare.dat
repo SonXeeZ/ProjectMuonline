@@ -12,7 +12,7 @@
 // ====================================================================
 // --------------------------------------------------------------------
 0 // DO NOT REMOVE SECTION NUMBER
-		35			1			20
+		25			5			10
 end
 
 // -- Monster timing appearance ---------------------------------------
@@ -23,60 +23,60 @@ end
 1 // DO NOT REMOVE SECTION NUMBER
 
 // -- Devil Square 1 --
-	0			17			0			7		// Cyclops
-	0			15			0			7		// Skeleton Archer
-	0			5			5			14		// Hell Hound
-	0			13			5			14		// Hell Spider
-	0			8			12			20		// Poison Bull
-	0			36			12			20		// Shadow
+	0			17			0			10		// Cyclops
+	0			15			0			10		// Skeleton Archer
+	0			5			3			10		// Hell Hound
+	0			13			3			10		// Hell Spider
+	0			8			7			10		// Poison Bull
+	0			36			7			10		// Shadow
 
 // -- Devil Square 2 --
-	1			10			0			7		// Dark Knight
-	1			39			0			7		// Poison Shadow
-	1			34			5			14		// Cursed Wizard
-	1			41			5			14		// Death Cow
-	1			40			12			20		// Death Knight
-	1			35			12			20		// Death Gorgon
+	1			10			0			10		// Dark Knight
+	1			39			0			10		// Poison Shadow
+	1			34			3			10		// Cursed Wizard
+	1			41			3			10		// Death Cow
+	1			40			7			10		// Death Knight
+	1			35			7			10		// Death Gorgon
 
 // -- Devil Square 3 --
-	2			41			0			7		// Death Cow
-	2			37			0			7		// Devil
-	2			35			5			14		// Death Gorgon
-	2			180			5			14		// Schriker
-	2			64			12			20		// Orc Archer
-	2			65			12			20		// Elite Orc
+	2			41			0			10		// Death Cow
+	2			37			0			10		// Devil
+	2			35			3			10		// Death Gorgon
+	2			180			3			10		// Schriker
+	2			64			7			10		// Orc Archer
+	2			65			7			10		// Elite Orc
 
 // -- Devil Square 4 --
-	3			64			0			7		// Orc Archer
-	3			65			0			7		// Elite Orc
-	3			60			5			14		// Bloody Wolf
-	3			294			5			14		// Axe Warrior
-	3			57			12			20		// Iron Wheel
-	3			70			12			20		// Queen Rainer
+	3			64			0			10		// Orc Archer
+	3			65			0			10		// Elite Orc
+	3			60			3			10		// Bloody Wolf
+	3			294			3			10		// Axe Warrior
+	3			57			7			10		// Iron Wheel
+	3			70			7			10		// Queen Rainer
 
 // -- Devil Square 5 --
-	4			294			0			7		// Axe Warrior
-	4			60			0			7		// Bloody Wolf
-	4			71			5			14		// Mega Crust
-	4			190			5			14		// Death Angel
-	4			61			12			20		// Beam Knight
-	4			73			12			20		// Drakan
+	4			294			0			10		// Axe Warrior
+	4			60			0			10		// Bloody Wolf
+	4			71			3			10		// Mega Crust
+	4			190			3			10		// Death Angel
+	4			61			7			10		// Beam Knight
+	4			73			7			10		// Drakan
 
 // -- Devil Square 6 --
-	5			290			0			7		// Lizard Warrior
-	5			57			0			7		// Iron Wheel
-	5			70			5			14		// Queen Rainer
-	5			293			5			14		// Poison Golem
-	5			74			12			20		// Alpha Crust
-	5			292			12			20		// Queen Bee
+	5			290			0			10		// Lizard Warrior
+	5			57			0			10		// Iron Wheel
+	5			70			3			10		// Queen Rainer
+	5			293			3			10		// Poison Golem
+	5			74			7			10		// Alpha Crust
+	5			292			7			10		// Queen Bee
 
 // -- Devil Square 7 --
-	6			434			0			7		// Gigantis
-	6			435			0			7		// Berserk
-	6			438			5			14		// Persona
-	6			439			5			14		// Dreadfear
-	6			436			12			20		// Balram (Trainee)
-	6			437			12			20		// Soram (Trainee)
+	6			434			0			10		// Gigantis
+	6			435			0			10		// Berserk
+	6			438			3			10		// Persona
+	6			439			3			10		// Dreadfear
+	6			436			7			10		// Balram (Trainee)
+	6			437			7			10		// Soram (Trainee)
 end
 
 // -- Boss Class for particular room [one time show] --------------------------------------
