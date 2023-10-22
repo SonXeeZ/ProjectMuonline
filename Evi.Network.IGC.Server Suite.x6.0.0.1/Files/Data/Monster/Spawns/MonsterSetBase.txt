@@ -201,6 +201,10 @@ end
 //	230		0	0	62	130		3		// NPC(230)_Wandering_Merchant_Alex (shop managed via IGC_ShopList.xml)
 //	236		0	0	175	120		3		// 
 	240		0	0	147	145		1		// 
+	233		0	0	130	127		3		// Blood Castle 
+	237		0	0	130	129		3		// Devil Square Saron
+	238		0	0	130	125		3		// Chaos Goblin
+	478		0	0	130	133		3		// Lucky Coin Delgado
 	240		0	0	146	110		3		// 
 	257		0	0	132	165		3		// 
 	257		0	0	132	90		3		// 
