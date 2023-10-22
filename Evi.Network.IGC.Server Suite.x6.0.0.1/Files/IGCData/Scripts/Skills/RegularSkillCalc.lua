@@ -53,7 +53,7 @@ end
 
 -- SkillID: 48, Swell Life - (Dark Knight, Blade Knight, Blade Master)
 function KnightSkillAddLife(Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 270 + 6 + Energy / 54 + PartyBonus
+	local SkillEffect = Vitality / 1080 + 24 + Energy / 216 + PartyBonus
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime
