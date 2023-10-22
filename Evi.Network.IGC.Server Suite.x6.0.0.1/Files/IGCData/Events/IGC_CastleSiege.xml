@@ -117,7 +117,7 @@
 //	Value: Defense Value
 //
 -->
-<CastleSiegeEvent Enable="1" FriendlyFire="1" ResetAccumulatedTimeAfterKill="0" LordMixDailyLimit="1" TowerEntryWithoutAlliance="0">
+<CastleSiegeEvent Enable="1" FriendlyFire="1" ResetAccumulatedTimeAfterKill="0" LordMixDailyLimit="1" TowerEntryWithoutAlliance="1">
 	<DamageReduction OppositeTeam="40" SelfTeam="20" />
 	<CycleSettings Days="14" StartYear="0" StartMonth="0" StartDay="0">
 		<Cycle Stage="1" Day="0" Hour="0" Minute="0" />
