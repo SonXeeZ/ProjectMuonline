@@ -53,12 +53,13 @@ end
 
 -- Alapértelmezett élet: 99140
 
+-- Vitality / 512 + 12 + Energy / 108 + PartyBonus 		-> + 376 133
 -- Vitality / 1080 + 24 + Energy / 216 + PartyBonus 	-> + 204 266
--- Vitality / 512 + 12 + Energy / 108 + PartyBonus 		-> 
+-- Vitality / 1592 + 36 + Energy / 324 + PartyBonus 	-> + 
 
 -- SkillID: 48, Swell Life - (Dark Knight, Blade Knight, Blade Master)
 function KnightSkillAddLife(Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 512 + 12 + Energy / 108 + PartyBonus
+	local SkillEffect = Vitality / 1592 + 36 + Energy / 324 + PartyBonus
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime
