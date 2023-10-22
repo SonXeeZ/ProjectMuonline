@@ -81,33 +81,33 @@
 <GamblingSystem Enable="1" GamblingPrice="5000000" ShoppingDelayTime="120">
 	<ItemRewardRateSettings> <!-- Sum of all ItemChance per Rare Item must be equal to 1000000 -->
 	<!-- Rare Item 1 -->
-		<Rate Skill="100000" Luck="50000" Option="120000" Exc="0" 	ItemChance="560000" /> <!-- Section 5 -->
-		<Rate Skill="100000" Luck="50000" Option="100000" Exc="0" 	ItemChance="380000" /> <!-- Section 6 -->
-		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="0" 	ItemChance="50000" /> <!-- Section 7 -->
+		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" 	ItemChance="560000" /> <!-- Section 5 -->
+		<Rate Skill="100000" Luck="50000" Option="100000" Exc="3000" 	ItemChance="380000" /> <!-- Section 6 -->
+		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="1000" 	ItemChance="50000" /> <!-- Section 7 -->
 		<Rate Skill="30000"  Luck="10000" Option="10000"  Exc="0"	ItemChance="9980" /> <!-- Section 8 -->
 		<Rate Skill="0"      Luck="0"     Option="0"	  Exc="0"	ItemChance="20" /> <!-- Section 9 -->
 	<!-- Rare Item 2 -->
-		<Rate Skill="100000" Luck="50000" Option="120000" Exc="0" 	ItemChance="560000" /> <!-- Section 10 -->
-		<Rate Skill="100000" Luck="50000" Option="100000" Exc="0" 	ItemChance="380000" /> <!-- Section 11 -->
-		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="0" 	ItemChance="50000" /> <!-- Section 12 -->
+		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" 	ItemChance="560000" /> <!-- Section 10 -->
+		<Rate Skill="100000" Luck="50000" Option="100000" Exc="3000" 	ItemChance="380000" /> <!-- Section 11 -->
+		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="1000" 	ItemChance="50000" /> <!-- Section 12 -->
 		<Rate Skill="30000"  Luck="10000" Option="10000"  Exc="0"	ItemChance="9980" /> <!-- Section 13 -->
 		<Rate Skill="0"      Luck="0"     Option="0"	  Exc="0"	ItemChance="20" /> <!-- Section 14 -->
 	<!-- Rare Item 3 -->
-		<Rate Skill="100000" Luck="50000" Option="120000" Exc="0" 	ItemChance="560000" /> <!-- Section 15 -->
-		<Rate Skill="100000" Luck="50000" Option="100000" Exc="0" 	ItemChance="380000" /> <!-- Section 16 -->
-		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="0" 	ItemChance="50000" /> <!-- Section 17 -->
+		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" 	ItemChance="560000" /> <!-- Section 15 -->
+		<Rate Skill="100000" Luck="50000" Option="100000" Exc="3000" 	ItemChance="380000" /> <!-- Section 16 -->
+		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="1000" 	ItemChance="50000" /> <!-- Section 17 -->
 		<Rate Skill="30000"  Luck="10000" Option="10000"  Exc="0"	ItemChance="9980" /> <!-- Section 18 -->
 		<Rate Skill="0"      Luck="0"     Option="0"	  Exc="0"	ItemChance="20" /> <!-- Section 19 -->
 	<!-- Rare Item 4 -->
-		<Rate Skill="100000" Luck="50000" Option="120000" Exc="0" 	ItemChance="560000" /> <!-- Section 20 -->
-		<Rate Skill="100000" Luck="50000" Option="100000" Exc="0" 	ItemChance="380000" /> <!-- Section 21 -->
-		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="0" 	ItemChance="50000" /> <!-- Section 22 -->
+		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" 	ItemChance="560000" /> <!-- Section 20 -->
+		<Rate Skill="100000" Luck="50000" Option="100000" Exc="3000" 	ItemChance="380000" /> <!-- Section 21 -->
+		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="1000" 	ItemChance="50000" /> <!-- Section 22 -->
 		<Rate Skill="30000"  Luck="10000" Option="10000"  Exc="0"	ItemChance="9980" /> <!-- Section 23 -->
 		<Rate Skill="0"      Luck="0"     Option="0"	  Exc="0"	ItemChance="20" /> <!-- Section 24 -->
 	<!-- Rare Item 5 -->
-		<Rate Skill="100000" Luck="50000" Option="120000" Exc="0" 	ItemChance="560000" /> <!-- Section 25 -->
-		<Rate Skill="100000" Luck="50000" Option="100000" Exc="0" 	ItemChance="380000" /> <!-- Section 26 -->
-		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="0" 	ItemChance="50000" /> <!-- Section 27 -->
+		<Rate Skill="100000" Luck="50000" Option="120000" Exc="5000" 	ItemChance="560000" /> <!-- Section 25 -->
+		<Rate Skill="100000" Luck="50000" Option="100000" Exc="3000" 	ItemChance="380000" /> <!-- Section 26 -->
+		<Rate Skill="50000"  Luck="50000" Option="50000"  Exc="1000" 	ItemChance="50000" /> <!-- Section 27 -->
 		<Rate Skill="30000"  Luck="10000" Option="10000"  Exc="0"	ItemChance="9980" /> <!-- Section 28 -->
 		<Rate Skill="0"      Luck="0"     Option="0"	  Exc="0"	ItemChance="20" /> <!-- Section 29 -->
 	</ItemRewardRateSettings>
