@@ -45,7 +45,7 @@ function Knight_Gladiator_CalcSkillBonus(Class, InDamage, Energy)
 	if (Class == CLASS_GLADIATOR or Class == CLASS_DARKLORD) then
 		OutDamage = InDamage * 2
 	else
-		OutDamage = (InDamage * ( 200 + ( Energy / 10 ) ) ) / 1000;
+		OutDamage = (InDamage * ( 200 + ( Energy / 10 ) ) ) / 100;
 	end
 		
 	return OutDamage
@@ -110,7 +110,7 @@ end
 -- SkillID: 28, Greater Damage - (Fairy Elf, Muse Elf, High Elf)
 function ElfAttack(Class, Index, TargetIndex, Energy)
 	local SkillEffect = 0
-	local SkillTime = 60
+	local SkillTime = 1200
 	
 	if (Index ~= TargetIndex) then
 		if (Class == CLASS_WIZARD) then
@@ -138,7 +138,7 @@ end
 -- SkillID: 27, Greater Defense - (Fairy Elf, Muse Elf, High Elf)
 function ElfDefense(Class, Index, TargetIndex, Energy)
 	local SkillEffect = 0
-	local SkillTime = 60
+	local SkillTime = 1200
 	
 	if (Index ~= TargetIndex) then
 		if (Class == CLASS_WIZARD) then
