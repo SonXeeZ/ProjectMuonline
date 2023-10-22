@@ -6274,4 +6274,5 @@ end
 	360	38 	0 	108 157 108 157	-1	10	//HOT SPOT
 	360	38 	0 	108 153 108 153	-1	10	//HOT SPOT
 end
-// -- Added by CHRiS - Kanturu 1 HIBA
+// -- Added by CHRiS - Kanturu 1
+
