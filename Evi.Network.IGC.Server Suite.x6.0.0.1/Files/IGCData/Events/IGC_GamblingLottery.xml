@@ -129,36 +129,36 @@
 
 	<ItemRewardList> <!-- Total items for sections 5~29 cannot exceed 149 -->
 		<Section ID="5" Name="Rare Item 1 (Sword/Mace/Spear)">
-			<Item Cat="0" Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Short Sword -->
-			<Item Cat="0" Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Sword of Assassin -->
-			<Item Cat="0" Index="6"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Gladius -->
-			<Item Cat="0" Index="7"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Falcon -->
-			<Item Cat="0" Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Serpent Sword -->
-			<Item Cat="0" Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Sword of Salamander -->
+			<Item Cat="0" Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Short Sword -->
+			<Item Cat="0" Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Sword of Assassin -->
+			<Item Cat="0" Index="6"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Gladius -->
+			<Item Cat="0" Index="7"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Falcon -->
+			<Item Cat="0" Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Serpent Sword -->
+			<Item Cat="0" Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Sword of Salamander -->
 		</Section>
 		<Section ID="6" Name="Rare Item 1 (Sword/Mace/Spear)">
-			<Item Cat="0" Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Kris -->
-			<Item Cat="0" Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Rapier -->
-			<Item Cat="0" Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Katana -->
-			<Item Cat="0" Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Blade -->
-			<Item Cat="0" Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Light Saber -->
-			<Item Cat="0" Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Legendary Sword -->
-			<Item Cat="0" Index="12" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Helical Sword -->
-			<Item Cat="0" Index="13" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Double Blade -->
-			<Item Cat="0" Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Lighting Sword -->
-			<Item Cat="0" Index="15" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Giant Sword -->
-			<Item Cat="2" Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Great Hammer -->
-			<Item Cat="2" Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Crystal Morning Start -->
-			<Item Cat="2" Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Crystal Sword -->
-			<Item Cat="3" Index="7"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Berdysh -->
-			<Item Cat="3" Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Great Scythe -->
-			<Item Cat="3" Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Bill of Balrog -->
+			<Item Cat="0" Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Kris -->
+			<Item Cat="0" Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Rapier -->
+			<Item Cat="0" Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Katana -->
+			<Item Cat="0" Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Blade -->
+			<Item Cat="0" Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Light Saber -->
+			<Item Cat="0" Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Legendary Sword -->
+			<Item Cat="0" Index="12" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Helical Sword -->
+			<Item Cat="0" Index="13" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Double Blade -->
+			<Item Cat="0" Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Lighting Sword -->
+			<Item Cat="0" Index="15" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Giant Sword -->
+			<Item Cat="2" Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Great Hammer -->
+			<Item Cat="2" Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Crystal Morning Start -->
+			<Item Cat="2" Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Crystal Sword -->
+			<Item Cat="3" Index="7"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Berdysh -->
+			<Item Cat="3" Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Great Scythe -->
+			<Item Cat="3" Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Bill of Balrog -->
 		</Section>
 		<Section ID="7" Name="Rare Item 1 (Sword/Mace/Spear)">
-			<Item Cat="3" Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Dragon Spear -->
-			<Item Cat="0" Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Sword of Destruction -->
-			<Item Cat="0" Index="17" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Dark Breaker -->
-			<Item Cat="0" Index="18" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Thunder Blade -->
+			<Item Cat="3" Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Dragon Spear -->
+			<Item Cat="0" Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Sword of Destruction -->
+			<Item Cat="0" Index="17" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Dark Breaker -->
+			<Item Cat="0" Index="18" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Thunder Blade -->
 		</Section>
 		<Section ID="8" Name="Rare Item 1 (Sword/Mace/Spear)">
 			<Item Cat="0" Index="20" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Knight Blade -->
@@ -171,18 +171,18 @@
 			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" /> <!-- Talisman of Chaos Assembly -->
 		</Section>
 		<Section ID="10" Name="Rare Item 2 (Staff)">
-			<Item Cat="5"  Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Skill Staff -->
-			<Item Cat="5"  Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Angelic Staff -->
-			<Item Cat="5"  Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Serpent Staff -->
+			<Item Cat="5"  Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Skill Staff -->
+			<Item Cat="5"  Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Angelic Staff -->
+			<Item Cat="5"  Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Serpent Staff -->
 		</Section>
 		<Section ID="11" Name="Rare Item 2 (Staff)">
-			<Item Cat="5"  Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Thunder Staff -->
-			<Item Cat="5"  Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Gorgon Staff -->
+			<Item Cat="5"  Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Thunder Staff -->
+			<Item Cat="5"  Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Gorgon Staff -->
 		</Section>
 		<Section ID="12" Name="Rare Item 2 (Staff)">
-			<Item Cat="5"  Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Legendary Staff -->
-			<Item Cat="5"  Index="6"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Staff of Resurrection -->
-			<Item Cat="5"  Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Staff of Destruction -->
+			<Item Cat="5"  Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Legendary Staff -->
+			<Item Cat="5"  Index="6"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Staff of Resurrection -->
+			<Item Cat="5"  Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Staff of Destruction -->
 		</Section>
 		<Section ID="13" Name="Rare Item 2 (Staff)">
 			<Item Cat="5"  Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Dragon Soul Staff -->
@@ -193,21 +193,21 @@
 			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" /> <!-- Talisman of Chaos Assembly -->
 		</Section>
 		<Section ID="15" Name="Rare Item 3 (Bow/Crossbow)">
-			<Item Cat="4"  Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Short Bow -->
-			<Item Cat="4"  Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Bow -->
-			<Item Cat="4"  Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Elven Bow -->
-			<Item Cat="4"  Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- battle Bow -->
+			<Item Cat="4"  Index="0"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Short Bow -->
+			<Item Cat="4"  Index="1"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Bow -->
+			<Item Cat="4"  Index="2"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Elven Bow -->
+			<Item Cat="4"  Index="3"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- battle Bow -->
 		</Section>
 		<Section ID="16" Name="Rare Item 3 (Bow/Crossbow)">
-			<Item Cat="4"  Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Tiger Bow -->
-			<Item Cat="4"  Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Silver Bow -->
-			<Item Cat="4"  Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Golden Crossbow -->
-			<Item Cat="4"  Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Arquebus -->
+			<Item Cat="4"  Index="4"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Tiger Bow -->
+			<Item Cat="4"  Index="5"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Silver Bow -->
+			<Item Cat="4"  Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Golden Crossbow -->
+			<Item Cat="4"  Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Arquebus -->
 		</Section>
 		<Section ID="17" Name="Rare Item 3 (Bow/Crossbow)">
-			<Item Cat="4"  Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Light Crossbow -->
-			<Item Cat="4"  Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Aquagold Crossbow -->
-			<Item Cat="4"  Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Saint Crossbow -->
+			<Item Cat="4"  Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Light Crossbow -->
+			<Item Cat="4"  Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Aquagold Crossbow -->
+			<Item Cat="4"  Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Saint Crossbow -->
 			<Item Cat="4"  Index="17" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Celestial Bow -->
 			<Item Cat="4"  Index="19" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Great Reign Crossbow -->
 			<Item Cat="4"  Index="20" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Arrow Viper Bow -->
@@ -219,15 +219,15 @@
 			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" /> <!-- Talisman of Chaos Assembly -->
 		</Section>
 		<Section ID="20" Name="Rare Item 4 (Scepter)">
-			<Item Cat="2"  Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Battle Scepter -->
-			<Item Cat="2"  Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Master Scepter -->
+			<Item Cat="2"  Index="8"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Battle Scepter -->
+			<Item Cat="2"  Index="9"  MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Master Scepter -->
 		</Section>
 		<Section ID="21" Name="Rare Item 4 (Scepter)">
-			<Item Cat="2"  Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Great Scepter -->
-			<Item Cat="2"  Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Lord Scepter -->
+			<Item Cat="2"  Index="10" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Great Scepter -->
+			<Item Cat="2"  Index="11" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Lord Scepter -->
 		</Section>
 		<Section ID="22" Name="Rare Item 4 (Scepter)">
-			<Item Cat="2"  Index="12" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Great Lord Scepter -->
+			<Item Cat="2"  Index="12" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Great Lord Scepter -->
 		</Section>
 		<Section ID="23" Name="Rare Item 4 (Scepter)">
 			<Item Cat="2"  Index="15" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Shinning Scepter -->
@@ -236,14 +236,14 @@
 			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" /> <!-- Talisman of Chaos Assembly -->
 		</Section>
 		<Section ID="25" Name="Rare Item 5 (Stick)">
-			<Item Cat="5"  Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Mystery Stick -->
+			<Item Cat="5"  Index="14" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Mystery Stick -->
 		</Section>
 		<Section ID="26" Name="Rare Item 5 (Stick)">
-			<Item Cat="5"  Index="15" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Violet Wing Stick -->
-			<Item Cat="5"  Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Red Wing Stick -->
+			<Item Cat="5"  Index="15" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Violet Wing Stick -->
+			<Item Cat="5"  Index="16" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Red Wing Stick -->
 		</Section>
 		<Section ID="27" Name="Rare Item 5 (Stick)">
-			<Item Cat="5"  Index="17" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="1" /> <!-- Ancient Stick -->
+			<Item Cat="5"  Index="17" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Ancient Stick -->
 		</Section>
 		<Section ID="28" Name="Rare Item 5 (Stick)">
 			<Item Cat="5"  Index="18" MinLevel="0" MaxLevel="3" Skill="1" Luck="1" Option="1" Exc="0" /> <!-- Demonic Stick -->
