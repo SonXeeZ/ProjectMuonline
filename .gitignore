@@ -46,3 +46,5 @@ Evi.Network.IGC.Server Suite.x6.0.0.1/Tools/IGC.EssentialTool/config.ini
 *.dmp
 
 *.ssul
+
+Evi.Network.IGC.Server Suite.x6.0.0.1/Files/StartUp/Configuration/bor_StartUp.xml.bak
