@@ -35,8 +35,8 @@
 <MapServer>
  <ServerInfo Version="1.78.85" Serial="PoweredByIGCN800" /> <!-- Version Format: n.nn.nn, Serial format: 16 alphanumerical characters -->
 	<ServerList>
-		<Server Code="0"  Group="1" Initiation="1" IP="25.13.48.178" Port="56900" Name="Regular" />
-		<Server Code="14" Group="1" Initiation="0" IP="25.13.48.178" Port="56914" Name="Siege" />
+		<Server Code="0"  Group="1" Initiation="1" IP="87.229.84.152" Port="56900" Name="Regular" />
+		<Server Code="14" Group="1" Initiation="0" IP="87.229.84.152" Port="56914" Name="Siege" />
 	</ServerList>
 	
 	<ServerMapping>
