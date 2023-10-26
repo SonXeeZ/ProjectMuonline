@@ -8913,15 +8913,13 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE FUNCTION [dbo].[fn_md5] (@pass VARCHAR(10), @user VARCHAR(10))
-RETURNS VARBINARY(16) 
-AS
+CREATE FUNCTION [dbo].[fn_md5] (@data VARCHAR(20), @data2 VARCHAR(10))
+RETURNS BINARY(16) AS
 BEGIN
-    DECLARE @result VARBINARY(16)
-    EXEC master.dbo.XP_MD5_EncodeKeyVal @pass, @user, @result OUTPUT
-    RETURN @result
+DECLARE @hash BINARY(16)
+EXEC master.dbo.XP_MD5_EncodeKeyVal @data, @data2, @hash OUT
+RETURN @hash
 END
-
 GO
 /****** Object:  UserDefinedFunction [dbo].[IGC_FriendChat_GetMessageLogs]    Script Date: 21/03/2016 13:53:00 ******/
 SET ANSI_NULLS ON
