@@ -393,8 +393,9 @@ function RageFighterChainDrive(InDamage, Vitality)
 end
 
 -- SkillID: 263, Dark Side - (Rage Fighter, Fist Master)
+-- alap : (Dexterity / 8 + InDamage + Energy / 10) * (Dexterity / 8 + Energy / 10 + 100) / 100.0
 function RageFighterDarkSideIncDamage(InDamage, Dexterity, Energy)
- local OutDamage = (Dexterity / 8 + InDamage + Energy / 10) * (Dexterity / 8 + Energy / 10 + 100) / 100.0
+ local OutDamage = (Dexterity / 8 + InDamage + Energy / 40) * (Dexterity / 8 + Energy / 10 + 400) / 200.0
  
  return OutDamage
 end
