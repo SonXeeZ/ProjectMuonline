@@ -316,7 +316,7 @@ end
 -- SkillID: 221, Weakness - MvP - (Summoner, Bloody Summoner, Dimension Master)
 function SummonerWeakness_Monster(Energy, Curse, MonsterLevel)
 	local SkillSuccessRate = Energy / 50 + Curse / 6 + 32
-	local SkillEffect = Energy / 58 + 4
+	local SkillEffect = ( Energy / 58 + 4 ) / 8
 	local SkillTime = Energy / 100 + 4 - MonsterLevel / 20
 	
 	return SkillSuccessRate, SkillEffect, SkillTime
@@ -335,7 +335,7 @@ end
 -- SkillID: 222, Innovation - MvP - (Summoner, Bloody Summoner, Dimension Master)
 function SummonerInnovation_Monster(Energy, Curse, MonsterLevel)
 	local SkillSuccessRate = Energy / 50 + Curse / 6 + 32
-	local SkillEffect = Energy / 90 + 20
+	local SkillEffect = ( Energy / 90 + 20 ) / 10
 	local SkillTime = Energy / 100 + 4 - MonsterLevel / 20
 	
 	return SkillSuccessRate, SkillEffect, SkillTime
@@ -344,7 +344,7 @@ end
 -- SkillID: 222, Innovation - PvP - (Summoner, Bloody Summoner, Dimension Master)
 function SummonerInnovation_PvP(Energy, Curse, PlayerLevel, TargetLevel)
 	local SkillSuccessRate =  Energy / 50 + Curse / 6 + 17
-	local SkillEffect = Energy / 110 + 12
+	local SkillEffect = ( Energy / 110 + 12 ) / 10
 	local SkillTime = Energy / 300 + (PlayerLevel - TargetLevel) / 150 + 5
 	
 	return SkillSuccessRate, SkillEffect, SkillTime
