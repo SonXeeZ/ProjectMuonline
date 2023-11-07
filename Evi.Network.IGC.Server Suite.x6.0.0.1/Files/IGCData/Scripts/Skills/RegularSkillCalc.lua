@@ -323,9 +323,10 @@ function SummonerWeakness_Monster(Energy, Curse, MonsterLevel)
 end
 
 -- SkillID: 221, Weakness - PvP - (Summoner, Bloody Summoner, Dimension Master)
+-- Energy / 93 + 3 alap
 function SummonerWeakness_PvP(Energy, Curse, PlayerLevel, TargetLevel)
 	local SkillSuccessRate =  Energy / 50 + Curse / 6 + 17
-	local SkillEffect = Energy / 93 + 3
+	local SkillEffect = ( Energy / 93 + 3 ) / 10
 	local SkillTime = Energy / 300 + (PlayerLevel - TargetLevel) / 150 + 5
 	
 	return SkillSuccessRate, SkillEffect, SkillTime
