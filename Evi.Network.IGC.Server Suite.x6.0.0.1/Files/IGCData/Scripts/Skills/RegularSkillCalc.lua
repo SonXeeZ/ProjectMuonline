@@ -199,7 +199,7 @@ end
 
 -- SkillID: 60 ,61, 62, 65, 74, 78, Force, Fire Burst, Earthshake, Electric Spike, Fire Blast, Fire Scream - (Dark Lord, Lord Emperor)
 function Lord_CalcSkillBonus(InDamage, Energy)
-	local OutDamage = ( InDamage * ( ( Energy / 20 + 200 ) ) ) / 100;
+	local OutDamage = ( InDamage * ( ( Energy / 20 + 200 ) ) ) / 200;
 	
 	return OutDamage
 end
