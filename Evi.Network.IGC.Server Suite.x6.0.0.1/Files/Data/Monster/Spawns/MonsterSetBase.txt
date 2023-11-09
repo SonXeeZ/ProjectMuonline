@@ -100,33 +100,33 @@
 // -- Golden Monster Event
 // #######################################################################
 // ----------------------------------------------------------------------
-// 	[A]		[B]	[C]	[D]		[E]		[F]		[G]		[H]		[I]		[J]
+// 	[A]	   [B] [C] [D]	   [E]	   [F]	   [G]	   [H]	   [I] [J]
 // ----------------------------------------------------------------------
 // -------------------------------------------------- Golden Monsters ---
 3
-	43		3	30	10		10		240		240		-1		10		// Golden Budge Dragon
+	43		3	30	10		10		240		240		-1		5		// Golden Budge Dragon
 	44		0	30	182		128		195		145		-1		3		// Golden Dragon
-	53		0	30	185		132		185		132		-1		10		// Golden Titan (must be initialized before Golden Soldier)
-	54		0	30	183		128		188		135		-1		10		// Golden Soldier
+	53		0	30	185		132		185		132		-1		5		// Golden Titan (must be initialized before Golden Soldier)
+	54		0	30	183		128		188		135		-1		5		// Golden Soldier
 	55		0	30	132		83		132		83		-1		1		// Death King (must be initialized before Death Bone)
 	56		0	30	132		83		138		90		-1		2		// Death Bone 
-	78		0	30	10		10		240		240		-1		10		// Golden Goblin
+	78		0	30	10		10		240		240		-1		5		// Golden Goblin
 	79		0	30	10		10		240		240		-1		2		// Golden Dragon
-	80		0	30	185		132		185		132		-1		7		// Golden Lizard King
-	81		0	30	132		83		132		83		-1		7		// Golden Vepar
-	82		0	30	183		128		188		135		-1		7		// Golden Tantalos
-	83		0	30	132		83		138		90		-1		10		// Golden Wheel
+	80		0	30	185		132		185		132		-1		5		// Golden Lizard King
+	81		0	30	132		83		132		83		-1		5		// Golden Vepar
+	82		0	30	183		128		188		135		-1		4		// Golden Tantalos
+	83		0	30	132		83		138		90		-1		4		// Golden Wheel
 // ----------------------------------------------------------------------
-	493		0	30	10		10		200		200		-1		7		// Golden Dark Knight
-	494		0	30	10		10		200		200		-1		7		// The Golden Devil
-	495		0	30	10		10		200		200		-1		7		// Golden Stone Monster
-	496		0	30	10		10		200		200		-1		7		// Golden Crust
-	497		0	30	10		10		200		200		-1		7		// Golden Satyr
-	498		0	30	10		10		200		200		-1		7		// Golden Twin Tail
-	499		0	30	10		10		200		200		-1		7		// Golden Iron Knight
-	500		0	30	10		10		200		200		-1		7		// Golden EP
+	493		0	30	10		10		200		200		-1		5		// Golden Dark Knight
+	494		0	30	10		10		200		200		-1		4		// The Golden Devil
+	495		0	30	10		10		200		200		-1		5		// Golden Stone Monster
+	496		0	30	10		10		200		200		-1		5		// Golden Crust
+	497		0	30	10		10		200		200		-1		4		// Golden Satyr
+	498		0	30	10		10		200		200		-1		4		// Golden Twin Tail
+	499		0	30	10		10		200		200		-1		4		// Golden Iron Knight
+	500		0	30	10		10		200		200		-1		4		// Golden EP
 	501		0	30	10		10		200		200		-1		2		// Great Golden Dragon
-	502		0	30	10		10		200		200		-1		10		// Golden Rabbit
+	502		0	30	10		10		200		200		-1		5		// Golden Rabbit
 end
 
 // #######################################################################
@@ -267,8 +267,7 @@ end
 //	4		0	10	103		183		114		188		-1		3		// 
 //	4		0	30	15		64		80		108		-1		10		// 
 //	4		0	10	53		30		78		50		-1		10		// 
-//	14		0	20	150		19		240		41		-1		15		// 
-	79		0	0	135		176		133		172		-1		10		// Golden Budge Dragon
+//	14		0	20	150		19		240		41		-1		15		//
 	3		0	0	187		132		187		132		-1		10	//Spider
 	3		0	0	194		125		194		125		-1		10	//Spider
 	3		0	0	199		130		199		130		-1		10	//Spider
