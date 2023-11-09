@@ -60,7 +60,7 @@ end
 -- Kész
 -- SkillID: 48, Swell Life - (Dark Knight, Blade Knight, Blade Master)
 function KnightSkillAddLife(Vitality, Energy, PartyBonus)
-	local SkillEffect = (Vitality / 2104 + 48 + Energy / 432 + PartyBonus) / 4
+	local SkillEffect = (Vitality / 2104 + 48 + Energy / 432 + PartyBonus) / 2
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime
@@ -110,7 +110,7 @@ end
 -- SkillID: 28, Greater Damage - (Fairy Elf, Muse Elf, High Elf)
 function ElfAttack(Class, Index, TargetIndex, Energy)
 	local SkillEffect = 0
-	local SkillTime = 1200
+	local SkillTime = 2400
 	
 	if (Index ~= TargetIndex) then
 		if (Class == CLASS_WIZARD) then
@@ -138,7 +138,7 @@ end
 -- SkillID: 27, Greater Defense - (Fairy Elf, Muse Elf, High Elf)
 function ElfDefense(Class, Index, TargetIndex, Energy)
 	local SkillEffect = 0
-	local SkillTime = 1200
+	local SkillTime = 2400
 	
 	if (Index ~= TargetIndex) then
 		if (Class == CLASS_WIZARD) then
@@ -283,16 +283,16 @@ end
 
 -- SkillID: 218, Berserker - Magic Damage - (Summoner, Bloody Summoner, Dimension Master)
 function SummonerBerserkerMagicDamage(Effect, Energy)
-	local MagicMin = (Energy / 9) * Effect / 100
-	local MagicMax = (Energy / 4) * Effect / 100
+	local MagicMin = (Energy / 9) * Effect / 200
+	local MagicMax = (Energy / 4) * Effect / 200
 	
 	return MagicMin, MagicMax
 end
 
 -- SkillID: 218, Berserker - Curse Damage - (Summoner, Bloody Summoner, Dimension Master)
 function SummonerBerserkerCurseDamage(Effect, Energy)
-	local CurseMin = Effect * (Energy / 9) / 100
-	local CurseMax = Effect * ((Energy + 0.015) / 4) / 100
+	local CurseMin = Effect * (Energy / 9) / 200
+	local CurseMax = Effect * ((Energy + 0.015) / 4) / 200
 	
 	return CurseMin, CurseMax
 end

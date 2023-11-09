@@ -14,10 +14,11 @@
 // -------------------------------- LINE NUMBER must be 0 (1), 1 (2), 2 (3) ----------------------------------
 0 // DO NOT REMOVE SECTION NUMBER
 
-	0		0			"Grand opening"			1			"of Brothers Muonline"		2				"~! 2023.10.11 !~"
-	1		0			"REMEMBER TO"			1			"BUY VIP"					2				"ON WEBSITE!"
-	2		0			"SERVER ADMINISTRATORS"	1			"- HUNSTARR -"				2				"- SONXEEZ -"
-	3		0			"Robi"					1			" kicsit "					2				"meleg :3"
+	0		0			"Hope you're having a "	1			"good time on"				2				"~| Chrono Mu |~"
+	1		0			"You can find"			1			"the latest news on"		2				"~| www.chronomu.com |~"
+	2		0			"Join to our"			1			"Discord Server"			2				"~| Link on Website |~"
+	3		0			"If you encounter"		1			"any bugs on the server"	2				"~create a ticket on Discord!~"
+	4		0			"You can contact us"	1			"on Chrono Mu Discord!"		2				""
 end
 
 // SYNTAX
