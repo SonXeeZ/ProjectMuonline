@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<Config>
+ <UpdateServer>http://chronomu.com/UpdateServer/</UpdateServer>
+ <Launcher>http://chronomu.com/Launcher/</Launcher>
+</Config>
